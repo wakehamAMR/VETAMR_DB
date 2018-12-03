@@ -1,880 +1,880 @@
-Gene Name	Protein Name	Unitprot status
-AAA23990 (sta3)	Heat-stable enterotoxin A3/A4	Record removed 
-AAA24093	"Heat-labile enterotoxin IIA, A chain"	Record removed 
-AAA24094	"Heat-labile enterotoxin IIA, B chain"	Record removed 
-aafA	Major fimbrial subunit of aggregative adherence fimbria II	Unreviewed - protein predicted
-aafB	Invasin homolog AafB	Unreviewed - experimental evidence at protein level
-aafC	Aggregative adherence fimbria II usher protein AafC	Unreviewed - protein inferred from homology 
-aafD	Chaperone protein AafD	Unreviewed - protein inferred from homology 
-aaiA	AaiA - AAI/SCI-II T6SS	Unreviewed - protein predicted
-aaiB	AaiB - AAI/SCI-II T6SS	Unreviewed - protein predicted
-aaiC/hcp	AaiC - AAI/SCI-II T6SS	Unreviewed - protein predicted
-aaiD	AaiD - AAI/SCI-II T6SS	Unreviewed - protein predicted
-aaiE	AaiE - AAI/SCI-II T6SS	Unreviewed - protein predicted
-aaiF	AaiF - AAI/SCI-II T6SS	Unreviewed - protein predicted
-aaiH	AaiH -AAI/SCI-II T6SS	Unreviewed - protein predicted
-aaiI	AaiI - AAI/SCI-II T6SS	Unreviewed - protein predicted
-aaiJ	AaiJ - AAI/SCI-II T6SS	Unreviewed - protein predicted
-aaiK	AaiK - AAI/SCI-II T6SS	Unreviewed - protein predicted
-aaiL	AaiJ - AAL/SCI-II T6SS	Unreviewed - protein predicted
-aaiM	AaiM - AAI/SCI-II T6SS	Unreviewed - protein predicted
-aaiN	AaiN - AAI/SCI-II T6SS	Unreviewed - protein predicted
-aaiS	AaiS - AAI/SCI-II T6SS	Unreviewed - protein predicted
-aaiT	AaiT - AAI/SCI-II T6SS	Unreviewed - protein predicted
-aaiU	AaiU - AAI/SCI-II T6SS	Unreviewed - protein predicted
-aaiV	AaiV - AAI/SCI-II T6SS	Unreviewed - protein predicted
-aaiW	AaiW - AAI/SCI-II T6SS	Unreviewed - protein predicted
-aap/aspU	Dispersin	Unreviewed - protein predicted
-aatB	AatB - ABC transporter for dispersin	Unreviewed - protein predicted
-aatC	"AatC, ATP binding protein of ABC transporter"	Unreviewed - protein predicted
-aatD	"AatD, apolipoprotein N-acyltransferase"	Unreviewed - protein predicted
-aatP	"AatP, permease"	Unreviewed - protein predicted
-aec11	hypothetical protein ACE T6SS	Unreviewed - protein predicted
-aec14	hypothetical protein ACE T6SS	Unreviewed - protein predicted
-aec15	hypothetical protein	Unreviewed - protein predicted
-aec16	hypothetical protein	Unreviewed - protein predicted
-aec17	hypothetical protein	Unreviewed - protein predicted
-aec18	hypothetical protein	Unreviewed - protein predicted
-aec19	hypothetical protein	Unreviewed - protein predicted
-aec22	hypothetical protein	Unreviewed - protein predicted
-aec23	hypothetical protein	Unreviewed - protein predicted
-aec24	hypothetical protein	Unreviewed - protein predicted
-aec25	hypothetical protein	Unreviewed - protein predicted
-aec26	hypothetical protein	Unreviewed - protein predicted
-aec27/clpV	hypothetical protein	Unreviewed - protein inferred from homology 
-aec28	hypothetical protein	Unreviewed - protein predicted
-aec29	hypothetical protein	Unreviewed - protein predicted
-aec30	hypothetical protein	Unreviewed - protein predicted
-aec31	hypothetical protein	Unreviewed - protein predicted
-aec32	hypothetical protein	Unreviewed - protein predicted
-aec7	hypothetical protein	Unreviewed - protein predicted
-aec8	hypothetical protein	Unreviewed - protein predicted
-afaA	AFA-III adhesin operon regulatory protein	Reviewed - protein predicted
-afaA-VIII	 Afimbrial adhesin	Reviewed - protein predicted
-afaB-I	chaperone AfaB Afimbrial adhesin AFA-I mannose-resistant adhesin	Reviewed - protein inferred from homology
-afaB-VIII	 Afimbrial adhesin	Reviewed - protein inferred from homology
-afaC-I	Outer membrane usher protein AfaC	Reviewed - protein inferred from homology
-afaC-III	usher protein Afimbrial adhesin	Reviewed - protein inferred from homology
-afaC-VII	usher protein Afimbrial adhesin	Reviewed - protein inferred from homology
-afaC-VIII	usher protein Afimbrial adhesin	Reviewed - protein inferred from homology
-afaD	mannose-resistant adhesin 	Reviewed - experimental evidence at protein level
-afaD-VII	 Afimbrial adhesin	Reviewed - experimental evidence at protein level
-afaD-VIII	 Afimbrial adhesin	Reviewed - experimental evidence at protein level
-afaE-I	AFA-I adhesin Afa/Dr family	Reviewed - protein inferred from homology
-afaE-II	 Afimbrial adhesin	Reviewed - protein inferred from homology
-afaE-III	AFA-III adhesin Afa/Dr family	Reviewed - protein inferred from homology
-afaE-V	 Afimbrial adhesin	Reviewed - protein inferred from homology
-afaE-VII	 Afimbrial adhesin	Reviewed - protein inferred from homology
-afaE-VIII	 Afimbrial adhesin	Reviewed - protein inferred from homology
-afaF-III	Dr hemagglutinin AFA-III operon regulatory protein AfaF	Reviewed - protein predicted
-afaF-VII	 Afimbrial adhesin	Reviewed - protein predicted
-afaG-VII	Afimbrial adhesin	Unreviewed - protein predicted
-afr2G	AF/R2 fimbrial major subunit Afr2G	Unreviewed - protein predicted
-afr2H	AF/R2 fimbrial minor subunit Afr2H	Unreviewed - protein predicted
-afrA	AF/R1 pilin major subunit	Unreviewed - protein predicted
-afrB	Usher protein	Unreviewed - protein inferred from homology 
-afrC	Chaperonin	Unreviewed - protein inferred from homology 
-afrD	adhesive factor/rabbit 1 (AF/R1) pili	Unreviewed - protein predicted
-afrE	Putative adhesin	Unreviewed - protein predicted
-afrR	Transcriptional activator AfrR	Unreviewed - protein predicted
-afrS	Transcriptional activator AfrS	Unreviewed - protein predicted
-agg3A	Adhesin protein	Unreviewed - protein predicted
-agg3B	"Protein Agg3B, putative invasin"	Unreviewed - protein predicted
-agg3C	Outer membrane usher protein Agg3C	Unreviewed - protein inferred from homology 
-agg3D	Chaperone protein Agg3D	Unreviewed - protein inferred from homology 
-aggB	Protein AggB	Reviewed - experimental evidence at protein level
-aggD	Chaperone protein AggD	Reviewed - protein inferred from homology
-aggR	Transcriptional activator AggR	Reviewed - protein predicted
-APECO1_1753	Uncharacterized protein	Record removed 
-APECO1_1761	Uncharacterized protein	Record removed 
-APECO1_3695	Uncharacterized protein	Record removed 
-APECO1_3696	Uncharacterized protein	Record removed 
-APECO1_3697	Uncharacterized protein	Record removed 
-APECO1_3698	Uncharacterized protein	Record removed 
-APECO1_3702	Uncharacterized protein	Record removed 
-APECO1_3705	Uncharacterized protein	Record removed 
-APECO1_3711	Uncharacterized protein	Record removed 
-APECO1_3712	Uncharacterized protein	Record removed 
-APECO1_3713	Uncharacterized protein	Record removed 
-APECO1_3714	Uncharacterized protein	Record removed 
-APECO1_3715	Uncharacterized protein	Record removed 
-APECO1_3716	Uncharacterized protein	Record removed 
-APECO1_3717	Uncharacterized protein	Record removed 
-APECO1_3718	Uncharacterized protein	Record removed 
-bfpB	Outer membrane lipoprotein BfpB	Reviewed - experimental evidence at protein level
-bfpC	bitopic inner membrane protein	Unreviewed - protein predicted
-bfpD	ATPase protein	Unreviewed - protein predicted
-bfpE	polytopic inner membrane protein	Unreviewed - protein predicted
-bfpF	Nucleotide binding protein	Unreviewed - protein predicted
-bfpG	biogenesis protein	Unreviewed - protein predicted
-bfpH	lipoprotein	Unreviewed - protein predicted
-bfpI	prepilin	Unreviewed - protein predicted
-bfpJ	prepilin	Unreviewed - protein predicted
-bfpK	prepilin	Unreviewed - protein predicted
-bfpL	Inner membrane protein	Unreviewed - protein predicted
-bfpP	Type 4 prepilin-like proteins leader peptide-processing enzyme	Unreviewed - protein inferred from homology 
-bfpU	biogenesis protein	Unreviewed - protein predicted
-c3385	hypothetical protein	Unreviewed - protein predicted
-c3386	hypothetical protein	Unreviewed - protein predicted
-c3387	hypothetical protein	Unreviewed - protein predicted
-c3388	hypothetical protein	Unreviewed - protein predicted
-c3389	hypothetical protein	Unreviewed - protein predicted
-c3391	secreted protein	Unreviewed - protein predicted
-c3392	ClpB protein	Unreviewed - protein predicted
-c3393	Uncharacterized protein	Unreviewed - experimental evidence at protein level
-c3396	hypothetical protein	Unreviewed - protein predicted
-c3398	hypothetical protein	Unreviewed - protein predicted
-c3399	hypothetical protein	Unreviewed - protein predicted
-c3400	hypothetical protein	Unreviewed - protein predicted
-c3401	hypothetical protein	Unreviewed - protein predicted
-c3402	hypothetical protein	Unreviewed - protein predicted
-c3610	hypothetical protein	Unreviewed - protein predicted
-CAC39286	Uncharacterized protein	Record removed 
-cah	Cah AIDA-I type	Record removed 
-cdt-IIIA	Cytolethal distending toxin subunit A	Unreviewed - protein predicted
-cdt-IIIB	Cytolethal distending toxin B	Unreviewed - protein predicted
-cdt-IIIC	Cytolethal distending toxin C	Unreviewed - protein predicted
-cdtA	Cytolethal distending toxin subunit A	Reviewed - protein inferred from homology
-cdtB	Cytolethal distending toxin subunit B	Reviewed - experimental evidence at protein level
-cdtC	Cytolethal distending toxin subunit C	Reviewed - protein inferred from homology
-cesAB	Type III secretion system LEE chaperone CesAB	Unreviewed - protein predicted
-cesD	 T3SS chaperone CesD2	Unreviewed - protein predicted
-cesD2	Chaperone CesD2	Unreviewed - protein predicted
-cesF	Chaperone for type III secretion of EspF	Unreviewed - protein predicted
-cesL	Type III secretion system LEE chaperone CesL	Unreviewed - protein predicted
-cesT	Chaperone CesT	Unreviewed - protein predicted
-cfa	Colicin-5	Reviewed - protein inferred from homology
-cfaA	CFA/I fimbrial subunit A	Reviewed - protein inferred from homology
-cfaB	CFA/I fimbrial subunit B	Reviewed - experimental evidence at protein level
-cfaC	CFA/I fimbrial subunit C	Reviewed - protein inferred from homology
-cfaD	CFA/I fimbrial subunit D	Reviewed - experimental evidence at protein level
-cfaD'	Colonisation factor antigen d'	Unreviewed - protein predicted
-cfaE	CFA/I fimbrial subunit E	Reviewed - experimental evidence at protein level
-cheB	Chemotaxis response regulator protein-glutamate methylesterase	Reviewed - experimental evidence at protein level
-cheR	Chemotaxis protein methyltransferase	Reviewed - protein predicted
-cheW	Chemotaxis protein CheW	Reviewed - protein inferred from homology
-cheY	Chemotaxis protein CheY	Reviewed - experimental evidence at protein level
-cheZ	Protein phosphatase CheZ	Reviewed - protein inferred from homology
-chuA	Outer membrane heme/hemoglobin receptor 	Record removed 
-chuS	Heme oxygenase ChuS	Unreviewed - protein predicted
-chuT	Periplasmic binding protein	Unreviewed - protein predicted
-chuU	ABC transporter permease	Unreviewed - protein inferred from homology 
-chuV	Hemin import ATP-binding protein HmuV	Unreviewed - protein inferred from homology 
-chuW	Coproporphyrinogen III oxidase	Unreviewed - protein inferred from homology 
-chuX	Heme utilization carrier protein	Unreviewed - protein predicted
-chuY	Anaerobilin reductase	Unreviewed - protein predicted
-cif	Cell cycle inhibiting factor	Unreviewed - experimental evidence at protein level
-cka	Colicin-K	Unreviewed - protein inferred from homology 
-clbA	4'-phosphopantetheinyl transferase	Unreviewed - protein inferred from homology 
-clbB	Colibactin hybrid non-ribosomal peptide synthetase/type I polyketide synthase ClbB	Unreviewed - protein predicted
-clbC	Colibactin polyketide synthase ClbC	Unreviewed - protein predicted
-clbD	3-hydroxybutyryl-CoA dehydrogenase	Unreviewed - protein predicted
-clbE	Colibactin biosynthesis aminomalonyl-acyl carrier protein ClbE	Unreviewed - protein predicted
-clbF	Acyl-CoA dehydrogenase	Unreviewed - protein inferred from homology 
-clbG	Colibactin biosynthesis acyltransferase ClbG	Unreviewed - protein predicted
-clbH	Colibactin non-ribosomal peptide synthetase ClbH	Unreviewed - protein predicted
-clbI	 Colibactin polyketide synthase ClbI	Unreviewed - protein predicted
-clbJ	Colibactin non-ribosomal peptide synthetase ClbJ	Unreviewed - protein predicted
-clbK	Colibactin hybrid non-ribosomal peptide synthetase/type I polyketide synthase ClbK	Unreviewed - protein predicted
-clbL	Colibactin biosynthesis amidase ClbL	Unreviewed - protein predicted
-clbM	Drug/sodium antiporter	Unreviewed - experimental evidence at protein level
-clbN	Colibactin non-ribosomal peptide synthetase ClbN	Unreviewed - protein inferred from homology 
-clbO	Colibactin polyketide synthase ClbO	Unreviewed - protein predicted
-clbP	Penicillin binding protein	Unreviewed - protein predicted
-clbQ	Colibactin biosynthesis thioesterase ClbQ	Unreviewed - experimental evidence at protein level
-clbR	Colibactin biosynthesis LuxR family transcriptional regulator ClbR	Unreviewed - protein predicted
-clpB	Beta-lactamase	Unreviewed - protein inferred from homology 
-clpC	capsule-like antigen 	Unreviewed - protein predicted
-clpD	Structure protein	Unreviewed - protein predicted
-clpE	Chaperone protein ClpE	Reviewed - protein inferred from homology
-clpF	ClpF protein	Unreviewed - protein predicted
-clpH	Fimbrial protein	Unreviewed - protein predicted
-clpL	CS31A minor subunit	Unreviewed - protein predicted
-clpV	"ATP-dependent Clp proteinase Aec27 ATP-binding chain, with chaperone activity"	Unreviewed - protein inferred from homology 
-clpV/aaiP	hypothetical protein	Record removed 
-cnf1	Cytotoxic necrotizing factor 1	Unreviewed - experimental evidence at protein level
-cnf2	Cytotoxic necrotizing factor type 2	Unreviewed - protein predicted
-cnf3	Cytotoxic necrotizing factor 3	Unreviewed - protein predicted
-cofA	CFA/III pilin	Unreviewed - experimental evidence at protein level
-cofB	colonization factor antigen - CofB	Unreviewed - experimental evidence at protein level
-cofC	colonization factor antigen  - CofC	Unreviewed - protein predicted
-cofD	colonization factor antigen  - CofD	Unreviewed - protein predicted
-cofE	colonization factor antigen  - CofE	Unreviewed - protein predicted
-cofF	colonization factor antigen  - CofF	Unreviewed - protein predicted
-cofG	colonization factor antigen  - CofG	Unreviewed - protein predicted
-cofH	colonization factor antigen  - CofH	Unreviewed - protein predicted
-cofI	colonization factor antigen  - CofI	Unreviewed - protein predicted
-cofJ	colonization factor antigen  - CofJ	Unreviewed - experimental evidence at protein level
-cofP	Type 4 prepilin-like proteins leader peptide-processing enzyme	Unreviewed - protein inferred from homology 
-cofR	colonization factor antigen  - CofR	Unreviewed - protein predicted
-cofS	colonization factor antigen  - CofS	Unreviewed - protein predicted
-cofT	colonization factor antigen  - CofT	Unreviewed - protein predicted
-colY	Colicin Y	Unreviewed - protein predicted
-cooA	CS1 fimbrial subunit A	Unreviewed - protein predicted
-cooB	CS1 fimbrial subunit B	Unreviewed - protein predicted
-cooC	CooC protein	Unreviewed - protein predicted
-cooD	coli surface antigen - CfaD	Unreviewed - protein predicted
-cosA	PCFO71 major fimbrial subunit	Unreviewed - protein predicted
-cosB	PCFO71 periplasmic chaperone	Unreviewed - protein predicted
-cosC	PCFO71 outer membrane usher protein	Unreviewed - protein predicted
-cosD	PCFO71 minor fimbrial subunit	Unreviewed - protein predicted
-cotA	coli surface antigen - cotA	Unreviewed - protein predicted
-cotB	coli surface antigen - cotB	Unreviewed - protein predicted
-cotC	coli surface antigen - cotC	Unreviewed - protein predicted
-cotD	coli surface antigen - cotD	Unreviewed - protein predicted
-cs3-1	Chaperone protein CS3-1	Reviewed - protein inferred from homology
-cs3-2	Outer membrane usher protein CS3-2	Reviewed - protein inferred from homology
-cs3-3	CS3 fimbrial subunit A	Reviewed - experimental evidence at protein level
-csa	Colicin S4	Reviewed - experimental evidence at protein level
-csaA	periplasmic chaperone-like protein CsaA	Unreviewed - protein predicted
-csaB	CS4 major fimbriae subunit CsaB	Unreviewed - protein predicted
-csbA	CS17 fimbriae major subunit	Unreviewed - protein predicted
-csbB	CS17 fimbriae periplasmic chaperone	Unreviewed - protein predicted
-csbC	CS17 fimbriae outer membrane usher protein	Unreviewed - protein predicted
-csbD	CS17 fimbriae minor subunit	Unreviewed - protein predicted
-csdA	CS19 fimbrial subunit CsdA	Unreviewed - protein predicted
-csdB	CS19 fimbrial chaperone CsdB	Unreviewed - protein predicted
-csdC	CS19 fimbrial usher CsdC	Unreviewed - protein predicted
-csdD	CS19 fimbrial ahesin CsdD	Unreviewed - protein predicted
-cseA	CS22 adhesin protein	Unreviewed - protein predicted
-csfA	CS5 fimbrial major pilin subunit	Unreviewed - protein predicted
-csfB	Uncharacterized 25.9 kDa protein in CS5 3'region	Reviewed - protein inferred from homology
-csfC	Uncharacterized protein	Unreviewed - protein predicted
-csfD	CS5 fimbrial minor pilin subunit	Unreviewed - protein predicted
-csfE	Uncharacterized protein	Unreviewed - protein predicted
-csfF	Uncharacterized protein	Unreviewed - protein predicted
-csgC	Curli assembly protein	Unreviewed - protein inferred from homology 
-csgD	Transcriptional regulator	Unreviewed - protein predicted
-csgE	Curli production assembly/transport component CsgE	Reviewed - protein inferred from homology
-csgF	Curli production assembly/transport component CsgF	Reviewed - protein inferred from homology
-csgG	Curli production assembly/transport component CsgG	Reviewed - experimental evidence at protein level
-cshA	CshA minor pilin	Unreviewed - protein predicted
-cshB	CshB porin (Usher)	Unreviewed - protein predicted
-cshC	CshC chaperone	Unreviewed - protein inferred from homology 
-cshD	CshD protein	Unreviewed - protein predicted
-cshE	CshE pilin	Unreviewed - protein predicted
-cshF	CshF minor pilin	Unreviewed - protein predicted
-cshG	CshG minor pilin	Unreviewed - protein predicted
-csnA	CS20 fimbria major subunit protein	Unreviewed - protein predicted
-cssA	CS6 fimbrial subunit A 	Record removed 
-cssB	coli surface antigen	Record removed 
-cssC	coli surface antigen	Record removed 
-cssD	outer membrane usher protein CssD	Record removed 
-csuA1	CS14 major fimbrial subunit	Unreviewed - protein predicted
-csuA2	CS14 major fimbrial subunit	Unreviewed - protein predicted
-csuB	CS14 periplasmic chaperone	Unreviewed - protein predicted
-csuC	Outer membrane usher protein	Unreviewed - protein predicted
-csuD	CS14 minor fimbrial subunit	Unreviewed - protein predicted
-csvA	CS7 fimbria major subunit CsvA	Unreviewed - protein predicted
-cswA	CS12 fimbria major subunit protein	Unreviewed - protein predicted
-cswB	CS12 fimbria chaperone protein	Unreviewed - protein predicted
-cswC	CS12 fimbria chaperone protein	Unreviewed - protein predicted
-cswD	CS12 fimbria outer membrane usher protein	Unreviewed - protein predicted
-cswE	CS12 fimbria chaperone protein	Unreviewed - protein predicted
-cswF	CS12 fimbria minor subunit protein	Unreviewed - protein predicted
-cswG	CS12 fimbria putative adhesin protein	Unreviewed - protein predicted
-cta	Colicin-10	Reviewed - protein inferred from homology
-daaA	F1845 adhesin operon regulatory protein	Reviewed - protein predicted
-daaC	DaaC usher protein	Unreviewed - protein predicted
-daaD	AfaD-I operon	Unreviewed - protein predicted
-daaE	F1845 fimbrial protein	Reviewed - experimental evidence at protein level
-daaF	F1845 fimbrial adhesin operon regulatory protein DaaF 	Unreviewed - protein predicted
-draA	AfaA protein	Unreviewed - protein predicted
-draB	chaperone protein DraB	Unreviewed - protein inferred from homology 
-draC	 usher protein DraC	Unreviewed - protein inferred from homology 
-draD	  Adhesin	Unreviewed - experimental evidence at protein level
-draE	Dr adhesin	Unreviewed - protein predicted
-draE2	Dr-II structural adhesin	Unreviewed - protein predicted
-draP	Dr adhesin	Unreviewed - protein predicted
-E2348C_3931	Component of T3SS	Record removed 
-E2348C_3946	Uncharacterized protein	Record removed 
-E2348C_3947	Uncharacterized protein	Record removed 
-E2348C_3959	Uncharacterized protein	Record removed 
-E2348C_3964	Component of T3SS	Record removed 
-E2348C_3965	Component of T3SS	Record removed 
-E2348C_3967	Component of T3SS	Record removed 
-E2348C_3971	Uncharacterized protein	Record removed 
-eaaC	EaaC	Unreviewed - protein predicted
-eae	Intimin	Reviewed - experimental evidence at protein level
-east1	EAST1v5	Unreviewed - protein predicted
-EC042_0221	Putative type VI secretion system protein	Record removed 
-EC042_4524	Putative type VI secretion protein	Record removed 
-EC042_4526	Putative type VI secretion protein	Record removed 
-EC042_4527	Putative type VI secretion protein	Record removed 
-EC042_4528	Putative type VI secretion protein	Record removed 
-EC042_4530	Putative type VI secretion protein	Record removed 
-EC042_4531	Putative type VI secretion protein	Record removed 
-EC042_4532	Putative type VI secretion protein	Record removed 
-EC042_4536	Putative type VI secretion protein	Record removed 
-EC042_4541	Putative type VI secretion protein	Record removed 
-EC042_4543	Putative type VI secretion protein	Record removed 
-EC042_4545	Putative type VI secretion  protein	Record removed 
-EC042_4548	DNA helicase	Record removed 
-EC042_4549	Uncharacterized protein	Record removed 
-EC55989_3315	Uncharacterized protein	Record removed 
-EC55989_3316	DNA helicase	Record removed 
-EC55989_3317	Uncharacterized protein	Record removed 
-EC55989_3318	Uncharacterized protein	Record removed 
-EC55989_3319	Uncharacterized protein	Record removed 
-EC55989_3320	Uncharacterized protein	Record removed 
-EC55989_3321	Uncharacterized protein	Record removed 
-EC55989_3322	Uncharacterized protein	Record removed 
-EC55989_3323	Uncharacterized protein	Record removed 
-EC55989_3324	Uncharacterized protein	Record removed 
-EC55989_3325	Uncharacterized protein	Record removed 
-EC55989_3326	Uncharacterized protein	Record removed 
-EC55989_3327	Uncharacterized protein	Record removed 
-EC55989_3328	Uncharacterized protein	Record removed 
-EC55989_3329	Uncharacterized protein	Record removed 
-EC55989_3330	Uncharacterized protein	Record removed 
-EC55989_3331	Uncharacterized protein	Record removed 
-EC55989_3333	Uncharacterized protein	Record removed 
-EC55989_3334	Putative chaperone clpB	Record removed 
-EC55989_3335	Uncharacterized protein	Record removed 
-EC55989_3336	Uncharacterized protein	Record removed 
-EC55989_3337	Uncharacterized protein	Record removed 
-EC55989_3338	Uncharacterized protein	Record removed 
-EC55989_3339	Uncharacterized protein	Record removed 
-EC55989_3340	Uncharacterized protein	Record removed 
-ECABU_c30880	hypothetical protein SCI-I T6SS	Record removed 
-ECABU_c30890	hypothetical protein SCI-I T6SS	Record removed 
-ECABU_c30910	hypothetical protein SCI-I T6SS	Record removed 
-ECABU_c30920	OmpA family protein SCI-I T6SS	Record removed 
-ECABU_c30960	VGR-related protein SCI-I T6SS	Record removed 
-ECABU_c31020	ImpA-like protein SCI-I T6SS	Record removed 
-ECABU_c31030	hypothetical protein SCI-I T6SS	Record removed 
-ECABU_c31040	hypothetical protein SCI-I T6SS	Record removed 
-ECABU_c31050	hypothetical protein SCI-I T6SS	Record removed 
-ECABU_c31070	ImpA-related N-terminal family protein SCI-I T6SS	Record removed 
-EcE24377A_0237	Uncharacterized protein	Record removed 
-EcE24377A_3123	Uncharacterized protein	Record removed 
-EcE24377A_3124	Uncharacterized protein	Record removed 
-EcE24377A_3125	Uncharacterized protein	Record removed 
-EcE24377A_3126	"Type IV/VI secretion system protein, DotU family"	Record removed 
-EcE24377A_3127	OmpA domain protein	Record removed 
-EcE24377A_3129	ClpA/ClpB family protein	Record removed 
-EcE24377A_3130	Type VI secretion system Vgr family protein	Record removed 
-EcE24377A_3133	"Type VI secretion lipoprotein, VC_A0113 family"	Record removed 
-EcE24377A_3135	ImpA-related N-terminal domain protein	Record removed 
-ECED1_1676	"Peptidase S6, IgA endopeptidase from phage origin"	Record removed 
-ECED1_1678	Immunoglobulin-binding protein from phage origin	Record removed 
-ECH74115_5061	ST25 protein LEE locus encoded TTSS	Record removed 
-ECH74115_5068	protein SepD LEE locus encoded TTSS	Record removed 
-ECH74115_5076	 hypothetical protein LEE locus encoded TTSS	Record removed 
-ECH74115_5077	 hypothetical protein LEE locus encoded TTSS	Record removed 
-ECH74115_5078	 hypothetical protein LEE locus encoded TTSS	Record removed 
-ECNA114_2854	hypothetical protein SCI-I T6SS	Record removed 
-ECNA114_2855	hypothetical protein SCI-I T6SS	Record removed 
-ECNA114_2856	hypothetical protein SCI-I T6SS	Record removed 
-ECNA114_28561	hypothetical protein SCI-I T6SS	Record removed 
-ECNA114_2857	hypothetical protein SCI-I T6SS	Record removed 
-ECNA114_2858	hypothetical protein SCI-I T6SS	Record removed 
-ECNA114_2860	Clp ATPase SCI-I T6SS	Record removed 
-ECNA114_2861	hypothetical protein SCI-I T6SS	Record removed 
-ECNA114_2867	hypothetical protein SCI-I T6SS	Record removed 
-ECNA114_2868	hypothetical protein SCI-I T6SS	Record removed 
-ECNA114_2870	hypothetical protein SCI-I T6SS	Record removed 
-ECNA114_28701	hypothetical protein SCI-I T6SS	Record removed 
-ECNA114_2871	hypothetical protein SCI-I T6SS	Record removed 
-ECNA114_2872	hypothetical protein SCI-I T6SS	Record removed 
-ECO103_0224	Uncharacterized protein	Record removed 
-ECO103_3357	Uncharacterized protein	Record removed 
-ECO103_3358	Uncharacterized protein	Record removed 
-ECO103_3359	Uncharacterized protein	Record removed 
-ECO103_3360	Uncharacterized protein	Record removed 
-ECO103_3361	Predicted outer membrane lipoprotein	Record removed 
-ECO103_3362	Hcp-like protein	Record removed 
-ECO103_3363	Putative ATP-dependent Clp proteinase ATP-binding chain	Record removed 
-ECO103_3364	Uncharacterized protein	Record removed 
-ECO103_3368	Predicted membrane protein	Record removed 
-ECO103_3369	Uncharacterized protein	Record removed 
-ECO103_3371	Uncharacterized protein	Record removed 
-ECO103_3372	Uncharacterized protein	Record removed 
-ECO103_3373	Uncharacterized protein	Record removed 
-ECO103_3374	Uncharacterized protein	Record removed 
-ECO103_3375	Uncharacterized protein	Record removed 
-ECO103_3601	T3SS component	Record removed 
-ECO103_3616	T3SS component	Record removed 
-ECO103_3617	T3SS component	Record removed 
-ECO103_3622	Predicted T3SS component	Record removed 
-ECO103_3629	Uncharacterized protein	Record removed 
-ECO103_3634	T3SS component	Record removed 
-ECO103_3635	T3SS component	Record removed 
-ECO103_3636	T3SS component	Record removed 
-ECO103_3637	T3SS component	Record removed 
-ECO103_3640	T3SS component	Record removed 
-ECO111_0230	Uncharacterized protein	Record removed 
-ECO111_3730	Uncharacterized protein	Record removed 
-ECO111_3735	T3SS component	Record removed 
-ECO111_3750	Predicted T3SS component protein	Record removed 
-ECO111_3751	Predicted T3SS component protein	Record removed 
-ECO111_3763	Uncharacterized protein	Record removed 
-ECO111_3768	T3SS component	Record removed 
-ECO111_3769	T3SS component	Record removed 
-ECO111_3771	T3SS component	Record removed 
-ECO26_5249	hypothetical protein LEE locus encoded TTSS	Record removed 
-ECO26_5255	hypothetical protein LEE locus encoded TTSS	Record removed 
-ECO26_5260	hypothetical protein LEE locus encoded TTSS	Record removed 
-ECO26_5272	T3SS component protein LEE locus encoded TTSS 	Record removed 
-ECO55CA74_21240	hypothetical protein LEE locus encoded TTSS	Record removed 
-ECO55CA74_21270	transglycosylase SLT domain-containing protein LEE locus encoded TTSS	Record removed 
-ECO55CA74_21300	hypothetical protein LEE locus encoded TTSS	Record removed 
-ECOK1_3194	hypothetical protein SCI-I T6SS	Record removed 
-ECOK1_3204	hypothetical protein SCI-I T6SS	Record removed 
-ECOK1_3205	ImpA-like protein SCI-I T6SS	Record removed 
-ECOK1_3211	type VI secretion protein SCI-I T6SS	Record removed 
-ECOK1_3214	ImpA domain-containing protein SCI-I T6SS	Record removed 
-ECP_0235	hypothetical protein ACE T6SS	Record removed 
-ECP_0242	hypothetical protein ACE T6SS	Record removed 
-ECP_2800	hypothetical protein SCI-I T6SS	Record removed 
-ECP_2801	hypothetical protein SCI-I T6SS	Record removed 
-ECP_2802	hypothetical protein SCI-I T6SS	Record removed 
-ECP_2803	hypothetical protein SCI-I T6SS	Record removed 
-ECP_2804	OmpA family membrane protein SCI-I T6SS	Record removed 
-ECP_2805	hemolysin-coregulated protein Hcp SCI-I T6SS	Record removed 
-ECP_2806	CLPA/B-type chaperone protein SCI-I T6SS	Record removed 
-ECP_2810	VGR-related protein SCI-I T6SS	Record removed 
-ECP_2814	hypothetical protein SCI-I T6SS	Record removed 
-ECP_2815	hypothetical protein SCI-I T6SS	Record removed 
-ECP_2819	hypothetical protein SCI-I T6SS	Record removed 
-ECP_2820	hypothetical protein SCI-I T6SS	Record removed 
-ECP_2821	hypothetical protein SCI-I T6SS	Record removed 
-ECP_2822	hypothetical protein SCI-I T6SS	Record removed 
-ECs0229	hypothetical protein ACE T6SS	Record removed 
-ECs3712	hypothetical protein ETT2	Record removed 
-ECs3728	hypothetical protein ETT2	Record removed 
-ECs4566	hypothetical protein LEE locus encoded TTSS	Record removed 
-ECs4584	hypothetical protein LEE locus encoded TTSS	Record removed 
-ECs4587	hypothetical protein LEE locus encoded TTSS	Record removed 
-ECS88_0243	Uncharacterized protein	Record removed 
-ECS88_3097	Uncharacterized protein	Record removed 
-ECS88_3098	Uncharacterized protein	Record removed 
-ECS88_3103	Uncharacterized protein	Record removed 
-ECS88_3547	Lipoprotein NlpI	Record removed 
-EcSMS35_B0007	Colicin-E1 protein	Record removed 
-ECUMN_0225	Uncharacterized protein	Record removed 
-efa1	EHEC factor for adherence	Unreviewed - protein predicted
-ehaA	 autotransporter outer membrane beta-barrel domain-containing protein 	Record removed 
-eibC	Immunoglobulin-binding protein EibC 	Unreviewed - protein predicted
-eibD	Immunoglobulin-binding protein EibD	Unreviewed - experimental evidence at protein level
-eibE	 Immunoglobulin-binding protein EibE	Unreviewed - protein predicted
-eibF	Immunoglobulin-binding protein EibF	Unreviewed - protein predicted
-eibG	Immunoglobulin binding protein	Unreviewed - protein predicted
-eivA	Type III secretion protein EivA	Unreviewed - protein predicted
-eivC	Flagellum-specific ATP synthase FliI	Unreviewed - protein predicted
-eivE	Type III secretion protein EivE	Unreviewed - protein predicted
-eivF	Type III secretion protein EivF	Unreviewed - protein predicted
-eivG	Type III secretion protein EivG	Unreviewed - protein inferred from homology 
-eivI	effector protein	Record removed 
-eivJ	Type III secretion protein EivJ	Unreviewed - protein predicted
-entB	Isochorismatase	Unreviewed - protein predicted
-entC	isochorismate synthase EntC	Record removed 
-entD	enterobactin synthase subunit EntD	Record removed 
-entE	" 2,3-dihydroxybenzoate-AMP ligase"	Unreviewed - protein predicted
-entF	"Enterobactin synthase multienzyme complex component, ATP-dependent"	Unreviewed - protein predicted
-epaO	Type III secretion protein EpaO	Unreviewed - protein predicted
-epaP	 T3SS structure protein EscR	Unreviewed - protein inferred from homology 
-epaQ	Type III secretion protein EpaQ	Unreviewed - protein predicted
-epaS	 T3SS component EprS	Unreviewed - protein predicted
-epeA	Autotransporter protease	Unreviewed - protein predicted
-eprH	Type III secretion protein EprH	Unreviewed - protein predicted
-eprI	 Type III secretion protein EprI	Unreviewed - protein predicted
-eprJ	Type III secretion protein EprJ	Unreviewed - protein predicted
-eprK	Lipoprotein	Unreviewed - protein inferred from homology 
-escC	EscC	Unreviewed - protein inferred from homology 
-escD	EscD	Unreviewed - protein predicted
-escE	EscE/YscE/SsaE family type III secretion system needle protein co-chaperone	Unreviewed - protein predicted
-escF	 EscF	Unreviewed - protein predicted
-escG	EscG/YscG/SsaH family type III secretion system needle protein co-chaperone	Unreviewed - protein predicted
-escI	EscI/YscI/HrpB family type III secretion system inner rod protein	Unreviewed - protein predicted
-escJ	Lipoprotein 	Unreviewed - protein inferred from homology 
-escL	hypothetical protein	Record removed 
-escN	 EscN	Unreviewed - protein predicted
-escO	Type III secretion system LEE ATPase activity positive regulator EscO	Unreviewed - protein predicted
-escP	hypothetical protein	Record removed 
-escR	EscR protein	Unreviewed - protein inferred from homology 
-escS	Type III secretion inner membrane protein EscS	Unreviewed - protein predicted
-escT	 T3SS structure protein EscT	Unreviewed - protein inferred from homology 
-escU	T3SS structure protein EscU	Unreviewed - protein predicted
-escV	WPT3SS structure protein EscV	Unreviewed - protein predicted
-espA	EspA protein	Unreviewed - protein predicted
-espB	Type III secretion system LEE translocon pore-forming subunit EspB	Unreviewed - protein predicted
-espD	Type III secretion system LEE translocon pore-forming subunit EspD	Unreviewed - protein predicted
-espF	Type III secretion system LEE effector EspF	Unreviewed - protein predicted
-espFu/tccP	Tir-cytoskeleton coupling protein	Unreviewed - protein predicted
-espG	Type III secretion system LEE effector EspG	Unreviewed - protein inferred from homology 
-espG1	LEE-encoded effector EspG	Unreviewed - experimental evidence at protein level
-espG2	T3SS secreted effector EspG homolog	Unreviewed - protein inferred from homology 
-espH	 T3SS effector protein EspH	Unreviewed - protein predicted
-espI	Uncharacterized protein	Unreviewed - protein predicted
-espJ	T3SS secreted effector EspJ	Unreviewed - protein predicted
-espK	T3SS secreted effector EspK	Unreviewed - protein predicted
-espL1	Putative ankyrin repeat regulatory protein	Unreviewed - protein predicted
-espL2	Enterotoxin	Unreviewed - protein predicted
-espL4	 T3SS effector-like protein EspL	Unreviewed - protein predicted
-espM1	T3SS secreted effector EspM	Unreviewed - protein predicted
-espM2	T3SS secreted effector EspM	Unreviewed - protein predicted
-espN	Uncharacterized protein	Unreviewed - protein predicted
-espO	Secretion protein EspO	Unreviewed - protein predicted
-espO1-1	T3SS secreted effector EspO-homolog	Unreviewed - protein predicted
-espO1-2	T3SS secreted effector EspO	Unreviewed - protein predicted
-espR1	T3SS effector-like protein EspR	Unreviewed - protein predicted
-espR3	T3SS effector-like protein EspR	Unreviewed - protein predicted
-espR4	 T3SS effector-like protein EspR	Unreviewed - protein predicted
-espT	EspT protein	Unreviewed - protein predicted
-espV	Uncharacterized protein	Unreviewed - protein predicted
-espW	T3SS secreted effector EspW-like protein	Unreviewed - protein predicted
-espX1	T3SS effector-like protein EspX-homolog	Unreviewed - protein predicted
-espX2	T3SS effector-like protein EspX	Unreviewed - protein predicted
-espX4	T3SS effector-like protein EspX	Unreviewed - protein predicted
-espX5	Uncharacterized protein	Unreviewed - protein predicted
-espX6	Uncharacterized protein	Unreviewed - protein predicted
-espX7	T3SS effector-like protein EspX	Unreviewed - experimental evidence at protein level
-espX7/nleL	Type III secretion system effector E3 ubiquitin ligase NleL	Unreviewed - protein predicted
-espY1	 T3SS effector-like protein EspY	Unreviewed - protein predicted
-espY2	T3SS effector-like protein EspY	Unreviewed - protein predicted
-espY3	 T3SS effector-like protein EspY	Unreviewed - protein predicted
-espY4	T3SS effector-like protein EspY	Unreviewed - protein predicted
-espY5	Type III effector protein	Unreviewed - protein predicted
-espZ	LEE-encoded effector EspZ	Unreviewed - protein predicted
-etgA	Type III secretion system LEE muramidase EtgA	Unreviewed - protein predicted
-etpA	Two-partner secreted adhesin EtpA	Unreviewed - protein predicted
-etpB	Putative two-partner secretion transporter EtpB	Unreviewed - protein predicted
-etpC	Type II secretion pathway related protein	Unreviewed - protein predicted
-etpE	General secretion pathway protein EtpE	Unreviewed - protein predicted
-etpF	Type II secretion protein	Unreviewed - protein predicted
-etpG	Type II secretion protein	Unreviewed - experimental evidence at protein level
-etpH	Type II secretion pathway related protein	Unreviewed - protein predicted
-etpI	EtpI protein	Unreviewed - protein predicted
-etpJ	Type II secretion pathway related protein	Unreviewed - protein predicted
-etpK	Type II secretion system protein K	Unreviewed - protein inferred from homology 
-etpL	Type II secretion protein EtpI	Unreviewed - protein predicted
-etpM	Putative type II secretion system M-type protein	Unreviewed - protein inferred from homology 
-etpN	Type 4 prepilin-like proteins leader peptide-processing enzyme	Unreviewed - protein inferred from homology 
-etpO	Type II secretion protein	Unreviewed - experimental evidence at protein level
-f17d-A	Major fimbrial subunit protein	Unreviewed - protein predicted
-f17d-C	 Transmembrane protein	Unreviewed - protein inferred from homology 
-f17d-D	Chaperone	Unreviewed - protein inferred from homology 
-f17d-G	F17d-G fimbrial adhesin	Reviewed - experimental evidence at protein level
-faeF	K88 minor fimbrial subunit FaeF	Reviewed - protein predicted
-fanD	Putative fimbrial usher protein FanD	Unreviewed - protein inferred from homology 
-fanE	Putative fimbrial assembly chaperone FanE	Unreviewed - protein predicted
-fanF	Putative fimbrial protein FanF	Unreviewed - protein predicted
-fanG	Protein FanG	Reviewed - protein predicted
-fanH	Putative fimbrial protein FanH	Unreviewed - protein predicted
-fasB	FasB	Unreviewed - protein predicted
-fasC	Protein FasC	Reviewed - protein inferred from homology
-fasD	Outer membrane usher protein FasD	Reviewed - protein inferred from homology
-fasE	Protein FasE	Reviewed - protein predicted
-fasF	FasF	Unreviewed - protein predicted
-fasG	FasG protein	Unreviewed - protein predicted
-fdeC	 Adhesin FdeC	Unreviewed - protein predicted
-fedC	 FedD protein	Unreviewed - protein inferred from homology 
-fedE	FedE	Unreviewed - protein predicted
-fepC	Ferric enterobactin transport ATP-binding protein FepC	Unreviewed - protein predicted
-fepD	"ABC-type Fe3+-siderophore transport system, permease component"	Unreviewed - protein inferred from homology 
-fepE	Ferric enterobactin transport protein fepE	Unreviewed - protein predicted
-fepG	Iron-enterobactin transporter subunit membrane component of ABC superfamily	Unreviewed - protein inferred from homology 
-fes	Enterobactin/ferric enterobactin esterase	Unreviewed - protein predicted
-fim41	F41 fimbrial protein	Reviewed - protein inferred from homology
-fimB	FimB protein	Unreviewed - protein predicted
-fimC	Chaperone protein FimC	Reviewed - protein inferred from homology
-fimD	Outer membrane usher protein fimD	Unreviewed - protein inferred from homology 
-fimE	Type 1 fimbriae regulatory protein FimE	Reviewed - protein inferred from homology
-fimF	FimF	Unreviewed - protein predicted
-fimG	Minor fimbrial subunit	Unreviewed - protein predicted
-fimI	type 1 fimbrial protein	Record removed 
-flgA	Flagella basal body P-ring formation protein FlgA	Unreviewed - protein inferred from homology 
-flgB	Flagellar basal body rod protein FlgB	Unreviewed - protein inferred from homology 
-flgC	Flagellar basal-body rod protein FlgC	Reviewed - protein inferred from homology
-flgD	Basal-body rod modification protein FlgD	Unreviewed - protein inferred from homology 
-flgE	Flagellar hook protein FlgE	Unreviewed - protein inferred from homology 
-flgF	Flagellar basal body protein	Unreviewed - protein inferred from homology 
-flgG	Flagellar basal-body rod protein FlgG	Reviewed - protein inferred from homology
-flgH	Flagellar L-ring protein	Reviewed - protein inferred from homology
-flgI	Flagellar P-ring protein	Reviewed - protein inferred from homology
-flgJ	Flagellar rod assembly protein/muramidase FlgJ	Unreviewed - protein predicted
-flgK	Flagellar hook-associated protein 1	Unreviewed - protein inferred from homology 
-flgL	 Flagellar biosynthesis hook-filament junction protein	Unreviewed - protein predicted
-flgN	Protein of flagellar biosynthesis	Unreviewed - protein predicted
-flhA	Flagellar biosynthesis protein FlhA	Unreviewed - protein inferred from homology 
-flhB	Flagellar biosynthetic protein FlhB	Unreviewed - protein inferred from homology 
-flhC	Flagellar transcriptional regulator FlhC	Reviewed - protein inferred from homology
-flhD	Flagellar transcriptional regulator FlhD	Unreviewed - protein predicted
-flhE	Flagellar protein	Unreviewed - protein predicted
-fliA	RNA polymerase sigma factor FliA	Reviewed - protein inferred from homology
-fliC	Flagellin	Unreviewed - protein inferred from homology 
-fliE	Flagellar hook-basal body complex protein FliE	Reviewed - protein inferred from homology
-fliF	Flagellar M-ring protein	Unreviewed - protein inferred from homology 
-fliG	Flagellar motor switch protein FliG	Unreviewed - protein inferred from homology 
-fliH	Flagellar assembly protein FliH	Unreviewed - protein predicted
-fliI	 Flagellum-specific ATP synthase	Unreviewed - protein predicted
-fliJ	Flagellar FliJ protein	Unreviewed - protein inferred from homology 
-fliK	Flagellar hook-length control protein	Unreviewed - protein predicted
-fliL	Flagellar protein FliL	Reviewed - protein inferred from homology
-fliM	Flagellar motor switch protein FliM	Unreviewed - protein inferred from homology 
-fliN	Flagellar motor switch protein FliN	Unreviewed - protein inferred from homology 
-fliO	Flagellar protein	Unreviewed - protein inferred from homology 
-fliP	Flagellar biosynthetic protein FliP	Reviewed - protein inferred from homology
-fliQ	 Flagellar biosynthetic protein FliQ	Reviewed - protein inferred from homology
-fliR	Flagellar biosynthetic protein FliR	Unreviewed - protein inferred from homology 
-fliS	Flagellar export chaperone FliS	Unreviewed - protein predicted
-fliT	Flagellar protein FliT	Reviewed - protein inferred from homology
-fliY	Putative periplasmic binding transport protein	Unreviewed - protein inferred from homology 
-fliZ	flagella biosynthesis regulatory protein FliZ	Record removed 
-flk	Flagellar regulator flk	Unreviewed - protein inferred from homology 
-focA	F1C major fimbrial subunit protein FocA	Unreviewed - protein predicted
-focB	FocB protein	Unreviewed - experimental evidence at protein level
-focC	F1C periplasmic chaperone	Unreviewed - protein inferred from homology 
-focD	F1C fimbrial usher FocD	Unreviewed - protein inferred from homology 
-focF	 F1C minor fimbrial subunit F	Unreviewed - protein predicted
-focH	F1C fimbrial adhesin	Unreviewed - protein predicted
-focI	Putative minor F1C fimbrial subunit FocI	Unreviewed - protein predicted
-focI-2	F1C and S fimbrial switch regulatory protein	Record removed 
-focY	Uncharacterized protein	Unreviewed - protein predicted
-fotA	FotA	Unreviewed - protein predicted
-fotB	FotB	Unreviewed - protein predicted
-fotC	FotC	Unreviewed - protein predicted
-fotD	FotD	Unreviewed - protein inferred from homology 
-fotE	FotE	Unreviewed - protein predicted
-fotF	FotF	Unreviewed - protein predicted
-fotG	FotG	Unreviewed - protein predicted
-fotS	FotS	Unreviewed - protein predicted
-fotT	FotT	Unreviewed - protein predicted
-fyuA	 FyuA	Unreviewed - protein inferred from homology 
-G2583_0236	Uncharacterized protein	Record removed 
-G2583_4425	Uncharacterized protein	Record removed 
-G2583_4434	Transglycosylase SLT domain protein	Record removed 
-G2583_4440	Uncharacterized protein	Record removed 
-G2583_4445	Uncharacterized protein	Record removed 
-glrA	"GrlA, global regulator of LEE activator"	Unreviewed - experimental evidence at protein level
-glrR	Type III secretion system LEE GrlA-binding negative regulator GrlR	Unreviewed - protein predicted
-grlA	GrLA protein (Hypothetical protein)	Unreviewed - protein predicted
-grlR	Negative regulator GrlR	Unreviewed - protein predicted
-hdaA	HdaA (plasmid)	Unreviewed - protein predicted
-hdaB	HdaB (plasmid)	Unreviewed - experimental evidence at protein level
-hdaC	HdaC (plasmid)	Unreviewed - protein predicted
-hdaD	HdaD (plasmid)	Unreviewed - protein inferred from homology 
-hlyB	Alpha-hemolysin translocation ATP-binding protein HlyB	Reviewed - protein inferred from homology
-hlyD	Hemolysin D	Unreviewed - protein predicted
-hlyE/clyA	hemolysin HlyE 	Record removed 
-hma	Putative outer membrane receptor for iron compound or colicin	Unreviewed - protein inferred from homology 
-hofB/hcpB	Type II secretion system protein HofB	Unreviewed - protein predicted
-hofC/hcpC	Assembly protein in type IV pilin biogenesis transmembrane protein	Unreviewed - protein inferred from homology 
-i02_3119	hypothetical protein	Record removed 
-i02_3121	Uncharacterized protein	Unreviewed - protein predicted
-i02_3122	hypothetical protein	Record removed 
-iagB	hypothetical protein	Record removed 
-icmF	IcmF-like protein	Unreviewed - protein predicted
-icmF/aaiO	Uncharacterized protein	Unreviewed - protein predicted
-iroB	glucosyltransferase	Record removed 
-iroC	salmochelin/enterobactin export ABC transporter IroC	Record removed 
-irp1	hypothetical protein	Record removed 
-kpsT	Polysialic acid transport ATP-binding protein KpsT	Reviewed - experimental evidence at protein level
-ldaA	LdaA	Unreviewed - protein predicted
-ldaB	LdaB	Unreviewed - protein predicted
-ldaC	LdaC	Unreviewed - protein predicted
-ldaD	LdaD	Unreviewed - protein inferred from homology 
-ldaE	LdaE	Unreviewed - protein inferred from homology 
-ldaF	LdaF	Unreviewed - protein predicted
-ldaG	LdaG	Unreviewed - protein predicted
-ldaH	LdaH	Unreviewed - protein predicted
-ldaI	 LdaI	Unreviewed - protein predicted
-ler	Uncharacterized protein	Unreviewed - protein predicted
-LF82_024	hypothetical protein T6 SS	Record removed 
-LF82_426	hypothetical protein T6 SS	Record removed 
-LF82_427	hypothetical protein T6 SS	Record removed 
-LF82_428	hypothetical protein T6 SS	Record removed 
-LF82_429	hypothetical protein T6 SS	Record removed 
-LF82_430	hypothetical protein T6 SS	Record removed 
-LF82_432	hypothetical protein T6 SS	Record removed 
-LF82_438	hypothetical protein T6 SS	Record removed 
-LF82_439	hypothetical protein T6 SS	Record removed 
-LF82_443	hypothetical protein T6 SS	Record removed 
-LH0147	Adhesin	Record removed 
-lifA/efa1	Putative cytotoxin	Unreviewed - protein predicted
-lngB	LngB protein	Unreviewed - protein predicted
-lngC	LngC	Unreviewed - protein predicted
-lngD	LngD protein	Unreviewed - protein predicted
-lngE	 LngE	Unreviewed - protein predicted
-lngF	 LngF	Unreviewed - protein predicted
-lngG	LngG	Unreviewed - protein predicted
-lngH	LngH protein	Unreviewed - protein predicted
-lngI	LngI protein	Unreviewed - protein predicted
-lngJ	LngJ	Unreviewed - protein predicted
-lngP	Type 4 prepilin-like proteins leader peptide-processing enzyme	Unreviewed - protein inferred from homology 
-lngR	LngR	Unreviewed - protein predicted
-lngS	DNA-binding transcriptional regulator GadX	Unreviewed - protein predicted
-lngT	LngT	Unreviewed - protein predicted
-lngX1	LngX1	Unreviewed - protein predicted
-lngX2	LngX2	Unreviewed - protein predicted
-map	Type III secretion system LEE effector Map (Rho guanine exchange factor)	Unreviewed - protein predicted
-mpc	Multiple point controller protein	Unreviewed - protein predicted
-nfaA	Non-fimbrial adhesin 1	Reviewed - experimental evidence at protein level
-nleA	T3SS secreted effector NleA	Unreviewed - protein predicted
-nleA/espI	Non-LEE-encoded type III effector	Unreviewed - protein predicted
-nleB1	Non-LEE encoded effector protein NleB	Unreviewed - protein predicted
-nleB2	T3SS secreted effector NleB	Unreviewed - protein predicted
-nleB2-2	NleB	Unreviewed - protein predicted
-nleB3	T3SS effector NleB	Unreviewed - protein predicted
-nleC	"Non-LEE-encoded type III secreted effector, NleC"	Unreviewed - protein predicted
-nleD	T3SS effector protein NleD	Unreviewed - protein predicted
-nleE	T3SS secreted effector NleE	Unreviewed - experimental evidence at protein level
-nleE1	T3SS secreted effector NleE homolog	Unreviewed - experimental evidence at protein level
-nleE2	T3SS secreted effector NleE homolog with internal deletion of 56 aa	Unreviewed - protein predicted
-nleF	Effector protein NleF	Reviewed - experimental evidence at protein level
-nleG	T3SS effector NleG	Unreviewed - protein predicted
-nleG-1	T3SS secreted effector NleG	Unreviewed - protein predicted
-nleG-2	hypothetical protein	Record removed 
-nleG-3	 Uncharacterized protein	Unreviewed - protein predicted
-nleG2-2	 T3SS secreted effector NleG	Unreviewed - protein predicted
-nleG2-3	T3SS secreted effector NleG	Unreviewed - experimental evidence at protein level
-nleG2-4	DUF1076 domain-containing protein	Record removed 
-nleG5-1	T3SS secreted effector NleG	Unreviewed - experimental evidence at protein level
-nleG5-2	Uncharacterized protein	Unreviewed - protein predicted
-nleG6-1	DUF1076 domain-containing protein	Record removed 
-nleG6-2	DUF1076 domain-containing protein	Record removed 
-nleG6-3	T3SS effector NleG	Unreviewed - protein predicted
-nleG7	"Non-LEE-encoded type III effector, NleG"	Unreviewed - protein predicted
-nleG7'	DUF1076 domain-containing protein	Record removed 
-nleG8-2	T3SS secreted effector NleG	Unreviewed - protein predicted
-nleH1	 T3SS secreted effector NleH	Unreviewed - experimental evidence at protein level
-nleH1-1	"Non-LEE-encoded type III secreted effector, NleH"	Unreviewed - protein predicted
-nleH2	T3SS secreted effector NleH	Unreviewed - experimental evidence at protein level
-nleH3	T3SS effector protein NleH	Unreviewed - protein predicted
-NP_040393	hypothetical protein colicin A 	Record removed 
-NRG857_13800	Uncharacterized protein	Record removed 
-NRG857_13835	Uncharacterized protein	Record removed 
-NRG857_13850	Uncharacterized protein	Record removed 
-O3M_04325	hypothetical protein T6 SS	Record removed 
-O3M_04330	hypothetical protein T6 SS	Record removed 
-O3M_04335	hypothetical protein T6 SS	Record removed 
-O3M_04340	hypothetical protein T6 SS	Record removed 
-O3M_04345	hypothetical protein T6 SS	Record removed 
-O3M_20335	hypothetical protein T6 SS	Record removed 
-orf4	T3SS component	Unreviewed - protein predicted
-papX	MarR family transcriptional regulator	Record removed 
-pECS88_0104	 Colicin	Unreviewed - protein predicted
-perA/bfpT	BfpT protein	Unreviewed - protein predicted
-perB/bfpV	Protein PerB	Reviewed - protein predicted
-perC/bfpW	Protein PerC	Reviewed - protein predicted
-pet	Serine protease pet (Plasmid-encoded toxin pet)	Unreviewed - protein predicted
-pixA	PixA protein	Unreviewed - protein predicted
-pixB	PixB protein	Unreviewed - protein predicted
-pixC	PixC protein	Unreviewed - protein inferred from homology 
-pixD	PixD protein	Unreviewed - protein inferred from homology 
-pixF	PixF protein	Unreviewed - protein predicted
-pixG	PixG protein	Unreviewed - protein predicted
-pixH	PixH protein	Unreviewed - protein predicted
-pixJ	Nuclease PIN	Unreviewed - protein predicted
-pkgA	Uncharacterized protein	Unreviewed - protein predicted
-ppdD/hcpA	Prepilin peptidase-dependent pilin	Unreviewed - protein predicted
-ralC	Putative minor fimbrial subunit	Unreviewed - protein predicted
-ralD	Putative fimbrial chaperone	Unreviewed - protein predicted
-ralE	 Putative fimbrial chaperone	Unreviewed - protein inferred from homology 
-ralF	Putative minor fimbrial subunit	Unreviewed - protein predicted
-ralG	Putative major fimbrial subunit	Unreviewed - protein predicted
-ralH	 Putative minor fimbrial subunit	Unreviewed - protein predicted
-ralI	RalI	Unreviewed - protein predicted
-rorf8	Chaperone of T3SS Rorf8	Unreviewed - protein predicted
-rpeA	RpeA	Unreviewed - protein predicted
-sat	Autotransporter outer membrane beta-barrel domain-containing protein	Unreviewed - protein predicted
-senB	Enterotoxin TieB protein	Unreviewed - protein predicted
-sepD	T3SS secretion switching protein SepD	Unreviewed - experimental evidence at protein level
-sepL	Secretion switching protein SepL	Unreviewed - protein predicted
-sepQ	T3SS structure protein SepQ	Unreviewed - experimental evidence at protein level
-sepQ/escQ	 T3SS structure protein SepQ	Unreviewed - protein predicted
-sepZ	SepZ	Unreviewed - protein predicted
-sepZ/espZ	 T3SS secreted effector EspZ	Unreviewed - protein predicted
-set1A	hypothetical protein	Record removed 
-set1B	hypothetical protein	Record removed 
-sfaB	Putative S fimbrial switch regulatory protein	Unreviewed - protein predicted
-sfaC	F1C and S fimbrial switch regulatory protein	Record removed 
-sfaD	type 1 fimbrial protein 	Record removed 
-sfaE	S fimbriae periplasmic chaperone SfaE	Unreviewed - protein inferred from homology 
-sfaF	fimbrial biogenesis outer membrane usher protein	Record removed 
-sfaG	S-fimbrial protein subunit SfaG	Reviewed - experimental evidence at protein level
-sfaH	 S fimbriae minor subunit SfaH	Unreviewed - protein predicted
-sfaS	S fimbriae minor subunit SfaH	Unreviewed - protein predicted
-sfaX	Transcriptional regulator	Unreviewed - protein predicted
-sfaY	EAL domain-containing protein	Unreviewed - protein predicted
-sfpA	 Fimbrial protein	Unreviewed - protein predicted
-sfpC	SfpC	Unreviewed - protein inferred from homology 
-sfpD	SfpD	Unreviewed - protein inferred from homology 
-sfpF	SfpF	Unreviewed - protein predicted
-sfpG	SfpG	Unreviewed - protein predicted
-sfpH	 SfpH	Unreviewed - protein predicted
-sfpJ	SfpJ	Unreviewed - protein predicted
-sitA	 metal ABC transporter substrate-binding protein	Record removed 
-sitB	"Iron transport protein, ATP-binding component"	Unreviewed - protein predicted
-sitC	"Iron transport protein, inner membrane component"	Unreviewed - protein inferred from homology 
-sitD	" Iron transport protein, inner membrane component"	Unreviewed - protein inferred from homology 
-speL	Secretion switching protein SepL	Unreviewed - protein predicted
-stcE	Metalloprotease StcE	Reviewed - experimental evidence at protein level
-stgA	Fimbriae-like adhesin SfmA	Unreviewed - protein predicted
-stgB	Chaperone protein FocC	Unreviewed - protein inferred from homology 
-stgC	Fimbrial biogenesis outer membrane usher protein	Unreviewed - protein predicted
-stgD	 StgD	Unreviewed - protein predicted
-stx1A	Shiga toxin 1 A-subunit	Unreviewed - protein predicted
-stx1B	Shiga toxin 1 B-subunit	Unreviewed - protein predicted
-stx1vA	 SLT-I A subunit coding region	Unreviewed - protein predicted
-stx1vB	SLT-I B Subunit	Unreviewed - protein predicted
-stx2d1A	Shiga toxin 2 A subunit	Unreviewed - protein predicted
-stx2dB	Shiga toxin 2c B-subunit	Unreviewed - protein predicted
-stx2eA	Shiga toxin 2 variant e A-subunit	Unreviewed - protein predicted
-stx2eB	 Orf protein	Unreviewed - experimental evidence at protein level
-stx2fA	Shiga toxin 2 variant f A-subunit	Unreviewed - protein predicted
-stx2fB	Shiga toxin 2 variant f B-subunit	Unreviewed - protein predicted
-tar/cheM	Methyl-accepting chemotaxis protein II	Reviewed - experimental evidence at protein level
-tccP2	molecular chaperone Tir	Record removed 
-tcpC	toll/interleukin-1 receptor domain-containing protein 	Record removed 
-tibA	Adhesin/invasin TibA autotransporter	Reviewed - experimental evidence at protein level
-tir	Translocated intimin receptor Tir	Reviewed - experimental evidence at protein level
-toxB	 Toxin B	Unreviewed - protein predicted
-UM146_02430	hypothetical protein T6 SS	Record removed 
-UM146_16140	hypothetical protein T6 SS	Record removed 
-UMNK88_238	Uncharacterized protein	Record removed 
-upaG/ehaG	Autotransporter adhesin EhaG	Reviewed - experimental evidence at a transcript level
-upaH	Autotransporter UpaH	Unreviewed - protein predicted
-UTI89_C0248	Uncharacterized protein	Record removed 
-UTI89_C0255	Uncharacterized protein	Record removed 
-UTI89_C3190	Uncharacterized protein	Record removed 
-UTI89_C3191	Uncharacterized protein	Record removed 
-UTI89_C3192	Uncharacterized protein	Record removed 
-UTI89_C3194	Uncharacterized protein	Record removed 
-UTI89_C3202	Uncharacterized protein	Record removed 
-UTI89_C3204	Uncharacterized protein	Record removed 
-yagV/ecpE	Uncharacterized protein	Record removed 
-yagW/ecpD	Fimbria adhesin EcpD	Reviewed - experimental evidence at a transcript level
-yagX/ecpC	Putative enzyme	Unreviewed - protein predicted
-yagY/ecpB	 CFA/I fimbrial auxiliary subunit	Unreviewed - protein predicted
-yagZ/ecpA	Common pilus major fimbrillin subunit EcpA	Reviewed - experimental evidence at a transcript level
-ybtA	AraC family transcriptional regulator	Unreviewed - protein predicted
-ybtE	" (2,3-dihydroxybenzoyl)adenylate synthase"	Unreviewed - protein predicted
-ybtP	Irp protein	Unreviewed - protein predicted
-ybtQ	ABC transporter ATP-binding protein	Unreviewed - protein predicted
-ybtS	Anthranilate synthase component I	Unreviewed - protein predicted
-ybtT	"thioesterase, partial"	Record removed 
-ybtU	Oxidoreductase	Unreviewed - protein predicted
-ybtX	Yersiniabactin-iron transporter permease YbtX	Unreviewed - protein predicted
-ycbF	fimbrial chaperone	Record removed 
-ycbQ	laminin-binding fimbrial subunit ElfA	Record removed 
-ycbR	Fimbrial chaperone protein ElfD	Unreviewed - protein inferred from homology 
-ycbS	Type 1 fimbriae anchoring protein FimD-PapC-like porin protein	Unreviewed - protein inferred from homology 
-ycbT	 Fimbrial-like adhesin protein	Unreviewed - protein predicted
-ycbU	Fimbrial protein	Unreviewed - protein predicted
-ycbV	 type 1 fimbrial protein	Record removed 
-ygeG	SycD-like chaperone family TPR-repeat-containing protein	Unreviewed - protein predicted
-ygeH	 Putative invasion protein	Unreviewed - protein predicted
-ykgK/ecpR	HTH-type transcriptional regulator EcpR	Reviewed - experimental evidence at protein level
-Z0252	Uncharacterized protein	Record removed 
-Z0260	Type VI secretion protein	Record removed 
-Z0263	Uncharacterized protein	Record removed 
-Z0265	Uncharacterized protein	Record removed 
-Z2200	Putative major fimbrial subunit	Record removed 
-Z2201	Putative fimbrial chaperone protein	Record removed 
-Z2203	Outer membrane usher protein FimD	Record removed 
-Z2204	Fimbrial-like adhesin protein	Record removed 
-Z2205	Fimbrial-like adhesin protein	Record removed 
-Z2206	Fimbrial-like adhesin protein	Record removed 
-Z5143	Uncharacterized protein	Record removed 
+Gene Name	Protein Name	Unitprot status	Read Depth
+AAA23990 (sta3)	Heat-stable enterotoxin A3/A4	Record removed 	NA
+AAA24093	"Heat-labile enterotoxin IIA, A chain"	Record removed 	NA
+AAA24094	"Heat-labile enterotoxin IIA, B chain"	Record removed 	NA
+aafA	Major fimbrial subunit of aggregative adherence fimbria II	Unreviewed - protein predicted	NA
+aafB	Invasin homolog AafB	Unreviewed - experimental evidence at protein level	NA
+aafC	Aggregative adherence fimbria II usher protein AafC	Unreviewed - protein inferred from homology 	NA
+aafD	Chaperone protein AafD	Unreviewed - protein inferred from homology 	NA
+aaiA	AaiA - AAI/SCI-II T6SS	Unreviewed - protein predicted	NA
+aaiB	AaiB - AAI/SCI-II T6SS	Unreviewed - protein predicted	NA
+aaiC/hcp	AaiC - AAI/SCI-II T6SS	Unreviewed - protein predicted	NA
+aaiD	AaiD - AAI/SCI-II T6SS	Unreviewed - protein predicted	NA
+aaiE	AaiE - AAI/SCI-II T6SS	Unreviewed - protein predicted	NA
+aaiF	AaiF - AAI/SCI-II T6SS	Unreviewed - protein predicted	NA
+aaiH	AaiH -AAI/SCI-II T6SS	Unreviewed - protein predicted	NA
+aaiI	AaiI - AAI/SCI-II T6SS	Unreviewed - protein predicted	NA
+aaiJ	AaiJ - AAI/SCI-II T6SS	Unreviewed - protein predicted	NA
+aaiK	AaiK - AAI/SCI-II T6SS	Unreviewed - protein predicted	NA
+aaiL	AaiJ - AAL/SCI-II T6SS	Unreviewed - protein predicted	NA
+aaiM	AaiM - AAI/SCI-II T6SS	Unreviewed - protein predicted	NA
+aaiN	AaiN - AAI/SCI-II T6SS	Unreviewed - protein predicted	NA
+aaiS	AaiS - AAI/SCI-II T6SS	Unreviewed - protein predicted	NA
+aaiT	AaiT - AAI/SCI-II T6SS	Unreviewed - protein predicted	NA
+aaiU	AaiU - AAI/SCI-II T6SS	Unreviewed - protein predicted	NA
+aaiV	AaiV - AAI/SCI-II T6SS	Unreviewed - protein predicted	NA
+aaiW	AaiW - AAI/SCI-II T6SS	Unreviewed - protein predicted	NA
+aap/aspU	Dispersin	Unreviewed - protein predicted	NA
+aatB	AatB - ABC transporter for dispersin	Unreviewed - protein predicted	NA
+aatC	"AatC, ATP binding protein of ABC transporter"	Unreviewed - protein predicted	NA
+aatD	"AatD, apolipoprotein N-acyltransferase"	Unreviewed - protein predicted	NA
+aatP	"AatP, permease"	Unreviewed - protein predicted	NA
+aec11	hypothetical protein ACE T6SS	Unreviewed - protein predicted	NA
+aec14	hypothetical protein ACE T6SS	Unreviewed - protein predicted	NA
+aec15	hypothetical protein	Unreviewed - protein predicted	NA
+aec16	hypothetical protein	Unreviewed - protein predicted	NA
+aec17	hypothetical protein	Unreviewed - protein predicted	NA
+aec18	hypothetical protein	Unreviewed - protein predicted	NA
+aec19	hypothetical protein	Unreviewed - protein predicted	NA
+aec22	hypothetical protein	Unreviewed - protein predicted	NA
+aec23	hypothetical protein	Unreviewed - protein predicted	NA
+aec24	hypothetical protein	Unreviewed - protein predicted	NA
+aec25	hypothetical protein	Unreviewed - protein predicted	NA
+aec26	hypothetical protein	Unreviewed - protein predicted	NA
+aec27/clpV	hypothetical protein	Unreviewed - protein inferred from homology 	NA
+aec28	hypothetical protein	Unreviewed - protein predicted	NA
+aec29	hypothetical protein	Unreviewed - protein predicted	NA
+aec30	hypothetical protein	Unreviewed - protein predicted	NA
+aec31	hypothetical protein	Unreviewed - protein predicted	NA
+aec32	hypothetical protein	Unreviewed - protein predicted	NA
+aec7	hypothetical protein	Unreviewed - protein predicted	NA
+aec8	hypothetical protein	Unreviewed - protein predicted	NA
+afaA	AFA-III adhesin operon regulatory protein	Reviewed - protein predicted	
+afaA-VIII	 Afimbrial adhesin	Reviewed - protein predicted	
+afaB-I	chaperone AfaB Afimbrial adhesin AFA-I mannose-resistant adhesin	Reviewed - protein inferred from homology	
+afaB-VIII	 Afimbrial adhesin	Reviewed - protein inferred from homology	
+afaC-I	Outer membrane usher protein AfaC	Reviewed - protein inferred from homology	
+afaC-III	usher protein Afimbrial adhesin	Reviewed - protein inferred from homology	
+afaC-VII	usher protein Afimbrial adhesin	Reviewed - protein inferred from homology	
+afaC-VIII	usher protein Afimbrial adhesin	Reviewed - protein inferred from homology	
+afaD	mannose-resistant adhesin 	Reviewed - experimental evidence at protein level	
+afaD-VII	 Afimbrial adhesin	Reviewed - experimental evidence at protein level	
+afaD-VIII	 Afimbrial adhesin	Reviewed - experimental evidence at protein level	
+afaE-I	AFA-I adhesin Afa/Dr family	Reviewed - protein inferred from homology	
+afaE-II	 Afimbrial adhesin	Reviewed - protein inferred from homology	
+afaE-III	AFA-III adhesin Afa/Dr family	Reviewed - protein inferred from homology	
+afaE-V	 Afimbrial adhesin	Reviewed - protein inferred from homology	
+afaE-VII	 Afimbrial adhesin	Reviewed - protein inferred from homology	
+afaE-VIII	 Afimbrial adhesin	Reviewed - protein inferred from homology	
+afaF-III	Dr hemagglutinin AFA-III operon regulatory protein AfaF	Reviewed - protein predicted	
+afaF-VII	 Afimbrial adhesin	Reviewed - protein predicted	
+afaG-VII	Afimbrial adhesin	Unreviewed - protein predicted	NA
+afr2G	AF/R2 fimbrial major subunit Afr2G	Unreviewed - protein predicted	NA
+afr2H	AF/R2 fimbrial minor subunit Afr2H	Unreviewed - protein predicted	NA
+afrA	AF/R1 pilin major subunit	Unreviewed - protein predicted	NA
+afrB	Usher protein	Unreviewed - protein inferred from homology 	NA
+afrC	Chaperonin	Unreviewed - protein inferred from homology 	NA
+afrD	adhesive factor/rabbit 1 (AF/R1) pili	Unreviewed - protein predicted	NA
+afrE	Putative adhesin	Unreviewed - protein predicted	NA
+afrR	Transcriptional activator AfrR	Unreviewed - protein predicted	NA
+afrS	Transcriptional activator AfrS	Unreviewed - protein predicted	NA
+agg3A	Adhesin protein	Unreviewed - protein predicted	NA
+agg3B	"Protein Agg3B, putative invasin"	Unreviewed - protein predicted	NA
+agg3C	Outer membrane usher protein Agg3C	Unreviewed - protein inferred from homology 	NA
+agg3D	Chaperone protein Agg3D	Unreviewed - protein inferred from homology 	NA
+aggB	Protein AggB	Reviewed - experimental evidence at protein level	
+aggD	Chaperone protein AggD	Reviewed - protein inferred from homology	
+aggR	Transcriptional activator AggR	Reviewed - protein predicted	
+APECO1_1753	Uncharacterized protein	Record removed 	NA
+APECO1_1761	Uncharacterized protein	Record removed 	NA
+APECO1_3695	Uncharacterized protein	Record removed 	NA
+APECO1_3696	Uncharacterized protein	Record removed 	NA
+APECO1_3697	Uncharacterized protein	Record removed 	NA
+APECO1_3698	Uncharacterized protein	Record removed 	NA
+APECO1_3702	Uncharacterized protein	Record removed 	NA
+APECO1_3705	Uncharacterized protein	Record removed 	NA
+APECO1_3711	Uncharacterized protein	Record removed 	NA
+APECO1_3712	Uncharacterized protein	Record removed 	NA
+APECO1_3713	Uncharacterized protein	Record removed 	NA
+APECO1_3714	Uncharacterized protein	Record removed 	NA
+APECO1_3715	Uncharacterized protein	Record removed 	NA
+APECO1_3716	Uncharacterized protein	Record removed 	NA
+APECO1_3717	Uncharacterized protein	Record removed 	NA
+APECO1_3718	Uncharacterized protein	Record removed 	NA
+bfpB	Outer membrane lipoprotein BfpB	Reviewed - experimental evidence at protein level	
+bfpC	bitopic inner membrane protein	Unreviewed - protein predicted	NA
+bfpD	ATPase protein	Unreviewed - protein predicted	NA
+bfpE	polytopic inner membrane protein	Unreviewed - protein predicted	NA
+bfpF	Nucleotide binding protein	Unreviewed - protein predicted	NA
+bfpG	biogenesis protein	Unreviewed - protein predicted	NA
+bfpH	lipoprotein	Unreviewed - protein predicted	NA
+bfpI	prepilin	Unreviewed - protein predicted	NA
+bfpJ	prepilin	Unreviewed - protein predicted	NA
+bfpK	prepilin	Unreviewed - protein predicted	NA
+bfpL	Inner membrane protein	Unreviewed - protein predicted	NA
+bfpP	Type 4 prepilin-like proteins leader peptide-processing enzyme	Unreviewed - protein inferred from homology 	NA
+bfpU	biogenesis protein	Unreviewed - protein predicted	NA
+c3385	hypothetical protein	Unreviewed - protein predicted	NA
+c3386	hypothetical protein	Unreviewed - protein predicted	NA
+c3387	hypothetical protein	Unreviewed - protein predicted	NA
+c3388	hypothetical protein	Unreviewed - protein predicted	NA
+c3389	hypothetical protein	Unreviewed - protein predicted	NA
+c3391	secreted protein	Unreviewed - protein predicted	NA
+c3392	ClpB protein	Unreviewed - protein predicted	NA
+c3393	Uncharacterized protein	Unreviewed - experimental evidence at protein level	NA
+c3396	hypothetical protein	Unreviewed - protein predicted	NA
+c3398	hypothetical protein	Unreviewed - protein predicted	NA
+c3399	hypothetical protein	Unreviewed - protein predicted	NA
+c3400	hypothetical protein	Unreviewed - protein predicted	NA
+c3401	hypothetical protein	Unreviewed - protein predicted	NA
+c3402	hypothetical protein	Unreviewed - protein predicted	NA
+c3610	hypothetical protein	Unreviewed - protein predicted	NA
+CAC39286	Uncharacterized protein	Record removed 	NA
+cah	Cah AIDA-I type	Record removed 	NA
+cdt-IIIA	Cytolethal distending toxin subunit A	Unreviewed - protein predicted	NA
+cdt-IIIB	Cytolethal distending toxin B	Unreviewed - protein predicted	NA
+cdt-IIIC	Cytolethal distending toxin C	Unreviewed - protein predicted	NA
+cdtA	Cytolethal distending toxin subunit A	Reviewed - protein inferred from homology	
+cdtB	Cytolethal distending toxin subunit B	Reviewed - experimental evidence at protein level	
+cdtC	Cytolethal distending toxin subunit C	Reviewed - protein inferred from homology	
+cesAB	Type III secretion system LEE chaperone CesAB	Unreviewed - protein predicted	NA
+cesD	 T3SS chaperone CesD2	Unreviewed - protein predicted	NA
+cesD2	Chaperone CesD2	Unreviewed - protein predicted	NA
+cesF	Chaperone for type III secretion of EspF	Unreviewed - protein predicted	NA
+cesL	Type III secretion system LEE chaperone CesL	Unreviewed - protein predicted	NA
+cesT	Chaperone CesT	Unreviewed - protein predicted	NA
+cfa	Colicin-5	Reviewed - protein inferred from homology	
+cfaA	CFA/I fimbrial subunit A	Reviewed - protein inferred from homology	
+cfaB	CFA/I fimbrial subunit B	Reviewed - experimental evidence at protein level	
+cfaC	CFA/I fimbrial subunit C	Reviewed - protein inferred from homology	
+cfaD	CFA/I fimbrial subunit D	Reviewed - experimental evidence at protein level	
+cfaD'	Colonisation factor antigen d'	Unreviewed - protein predicted	NA
+cfaE	CFA/I fimbrial subunit E	Reviewed - experimental evidence at protein level	
+cheB	Chemotaxis response regulator protein-glutamate methylesterase	Reviewed - experimental evidence at protein level	
+cheR	Chemotaxis protein methyltransferase	Reviewed - protein predicted	
+cheW	Chemotaxis protein CheW	Reviewed - protein inferred from homology	
+cheY	Chemotaxis protein CheY	Reviewed - experimental evidence at protein level	
+cheZ	Protein phosphatase CheZ	Reviewed - protein inferred from homology	
+chuA	Outer membrane heme/hemoglobin receptor 	Record removed 	NA
+chuS	Heme oxygenase ChuS	Unreviewed - protein predicted	NA
+chuT	Periplasmic binding protein	Unreviewed - protein predicted	NA
+chuU	ABC transporter permease	Unreviewed - protein inferred from homology 	NA
+chuV	Hemin import ATP-binding protein HmuV	Unreviewed - protein inferred from homology 	NA
+chuW	Coproporphyrinogen III oxidase	Unreviewed - protein inferred from homology 	NA
+chuX	Heme utilization carrier protein	Unreviewed - protein predicted	NA
+chuY	Anaerobilin reductase	Unreviewed - protein predicted	NA
+cif	Cell cycle inhibiting factor	Unreviewed - experimental evidence at protein level	NA
+cka	Colicin-K	Unreviewed - protein inferred from homology 	NA
+clbA	4'-phosphopantetheinyl transferase	Unreviewed - protein inferred from homology 	NA
+clbB	Colibactin hybrid non-ribosomal peptide synthetase/type I polyketide synthase ClbB	Unreviewed - protein predicted	NA
+clbC	Colibactin polyketide synthase ClbC	Unreviewed - protein predicted	NA
+clbD	3-hydroxybutyryl-CoA dehydrogenase	Unreviewed - protein predicted	NA
+clbE	Colibactin biosynthesis aminomalonyl-acyl carrier protein ClbE	Unreviewed - protein predicted	NA
+clbF	Acyl-CoA dehydrogenase	Unreviewed - protein inferred from homology 	NA
+clbG	Colibactin biosynthesis acyltransferase ClbG	Unreviewed - protein predicted	NA
+clbH	Colibactin non-ribosomal peptide synthetase ClbH	Unreviewed - protein predicted	NA
+clbI	 Colibactin polyketide synthase ClbI	Unreviewed - protein predicted	NA
+clbJ	Colibactin non-ribosomal peptide synthetase ClbJ	Unreviewed - protein predicted	NA
+clbK	Colibactin hybrid non-ribosomal peptide synthetase/type I polyketide synthase ClbK	Unreviewed - protein predicted	NA
+clbL	Colibactin biosynthesis amidase ClbL	Unreviewed - protein predicted	NA
+clbM	Drug/sodium antiporter	Unreviewed - experimental evidence at protein level	NA
+clbN	Colibactin non-ribosomal peptide synthetase ClbN	Unreviewed - protein inferred from homology 	NA
+clbO	Colibactin polyketide synthase ClbO	Unreviewed - protein predicted	NA
+clbP	Penicillin binding protein	Unreviewed - protein predicted	NA
+clbQ	Colibactin biosynthesis thioesterase ClbQ	Unreviewed - experimental evidence at protein level	NA
+clbR	Colibactin biosynthesis LuxR family transcriptional regulator ClbR	Unreviewed - protein predicted	NA
+clpB	Beta-lactamase	Unreviewed - protein inferred from homology 	NA
+clpC	capsule-like antigen 	Unreviewed - protein predicted	NA
+clpD	Structure protein	Unreviewed - protein predicted	NA
+clpE	Chaperone protein ClpE	Reviewed - protein inferred from homology	
+clpF	ClpF protein	Unreviewed - protein predicted	NA
+clpH	Fimbrial protein	Unreviewed - protein predicted	NA
+clpL	CS31A minor subunit	Unreviewed - protein predicted	NA
+clpV	"ATP-dependent Clp proteinase Aec27 ATP-binding chain, with chaperone activity"	Unreviewed - protein inferred from homology 	NA
+clpV/aaiP	hypothetical protein	Record removed 	NA
+cnf1	Cytotoxic necrotizing factor 1	Unreviewed - experimental evidence at protein level	NA
+cnf2	Cytotoxic necrotizing factor type 2	Unreviewed - protein predicted	NA
+cnf3	Cytotoxic necrotizing factor 3	Unreviewed - protein predicted	NA
+cofA	CFA/III pilin	Unreviewed - experimental evidence at protein level	NA
+cofB	colonization factor antigen - CofB	Unreviewed - experimental evidence at protein level	NA
+cofC	colonization factor antigen  - CofC	Unreviewed - protein predicted	NA
+cofD	colonization factor antigen  - CofD	Unreviewed - protein predicted	NA
+cofE	colonization factor antigen  - CofE	Unreviewed - protein predicted	NA
+cofF	colonization factor antigen  - CofF	Unreviewed - protein predicted	NA
+cofG	colonization factor antigen  - CofG	Unreviewed - protein predicted	NA
+cofH	colonization factor antigen  - CofH	Unreviewed - protein predicted	NA
+cofI	colonization factor antigen  - CofI	Unreviewed - protein predicted	NA
+cofJ	colonization factor antigen  - CofJ	Unreviewed - experimental evidence at protein level	NA
+cofP	Type 4 prepilin-like proteins leader peptide-processing enzyme	Unreviewed - protein inferred from homology 	NA
+cofR	colonization factor antigen  - CofR	Unreviewed - protein predicted	NA
+cofS	colonization factor antigen  - CofS	Unreviewed - protein predicted	NA
+cofT	colonization factor antigen  - CofT	Unreviewed - protein predicted	NA
+colY	Colicin Y	Unreviewed - protein predicted	NA
+cooA	CS1 fimbrial subunit A	Unreviewed - protein predicted	NA
+cooB	CS1 fimbrial subunit B	Unreviewed - protein predicted	NA
+cooC	CooC protein	Unreviewed - protein predicted	NA
+cooD	coli surface antigen - CfaD	Unreviewed - protein predicted	NA
+cosA	PCFO71 major fimbrial subunit	Unreviewed - protein predicted	NA
+cosB	PCFO71 periplasmic chaperone	Unreviewed - protein predicted	NA
+cosC	PCFO71 outer membrane usher protein	Unreviewed - protein predicted	NA
+cosD	PCFO71 minor fimbrial subunit	Unreviewed - protein predicted	NA
+cotA	coli surface antigen - cotA	Unreviewed - protein predicted	NA
+cotB	coli surface antigen - cotB	Unreviewed - protein predicted	NA
+cotC	coli surface antigen - cotC	Unreviewed - protein predicted	NA
+cotD	coli surface antigen - cotD	Unreviewed - protein predicted	NA
+cs3-1	Chaperone protein CS3-1	Reviewed - protein inferred from homology	
+cs3-2	Outer membrane usher protein CS3-2	Reviewed - protein inferred from homology	
+cs3-3	CS3 fimbrial subunit A	Reviewed - experimental evidence at protein level	
+csa	Colicin S4	Reviewed - experimental evidence at protein level	
+csaA	periplasmic chaperone-like protein CsaA	Unreviewed - protein predicted	NA
+csaB	CS4 major fimbriae subunit CsaB	Unreviewed - protein predicted	NA
+csbA	CS17 fimbriae major subunit	Unreviewed - protein predicted	NA
+csbB	CS17 fimbriae periplasmic chaperone	Unreviewed - protein predicted	NA
+csbC	CS17 fimbriae outer membrane usher protein	Unreviewed - protein predicted	NA
+csbD	CS17 fimbriae minor subunit	Unreviewed - protein predicted	NA
+csdA	CS19 fimbrial subunit CsdA	Unreviewed - protein predicted	NA
+csdB	CS19 fimbrial chaperone CsdB	Unreviewed - protein predicted	NA
+csdC	CS19 fimbrial usher CsdC	Unreviewed - protein predicted	NA
+csdD	CS19 fimbrial ahesin CsdD	Unreviewed - protein predicted	NA
+cseA	CS22 adhesin protein	Unreviewed - protein predicted	NA
+csfA	CS5 fimbrial major pilin subunit	Unreviewed - protein predicted	NA
+csfB	Uncharacterized 25.9 kDa protein in CS5 3'region	Reviewed - protein inferred from homology	
+csfC	Uncharacterized protein	Unreviewed - protein predicted	NA
+csfD	CS5 fimbrial minor pilin subunit	Unreviewed - protein predicted	NA
+csfE	Uncharacterized protein	Unreviewed - protein predicted	NA
+csfF	Uncharacterized protein	Unreviewed - protein predicted	NA
+csgC	Curli assembly protein	Unreviewed - protein inferred from homology 	NA
+csgD	Transcriptional regulator	Unreviewed - protein predicted	NA
+csgE	Curli production assembly/transport component CsgE	Reviewed - protein inferred from homology	
+csgF	Curli production assembly/transport component CsgF	Reviewed - protein inferred from homology	
+csgG	Curli production assembly/transport component CsgG	Reviewed - experimental evidence at protein level	
+cshA	CshA minor pilin	Unreviewed - protein predicted	NA
+cshB	CshB porin (Usher)	Unreviewed - protein predicted	NA
+cshC	CshC chaperone	Unreviewed - protein inferred from homology 	NA
+cshD	CshD protein	Unreviewed - protein predicted	NA
+cshE	CshE pilin	Unreviewed - protein predicted	NA
+cshF	CshF minor pilin	Unreviewed - protein predicted	NA
+cshG	CshG minor pilin	Unreviewed - protein predicted	NA
+csnA	CS20 fimbria major subunit protein	Unreviewed - protein predicted	NA
+cssA	CS6 fimbrial subunit A 	Record removed 	NA
+cssB	coli surface antigen	Record removed 	NA
+cssC	coli surface antigen	Record removed 	NA
+cssD	outer membrane usher protein CssD	Record removed 	NA
+csuA1	CS14 major fimbrial subunit	Unreviewed - protein predicted	NA
+csuA2	CS14 major fimbrial subunit	Unreviewed - protein predicted	NA
+csuB	CS14 periplasmic chaperone	Unreviewed - protein predicted	NA
+csuC	Outer membrane usher protein	Unreviewed - protein predicted	NA
+csuD	CS14 minor fimbrial subunit	Unreviewed - protein predicted	NA
+csvA	CS7 fimbria major subunit CsvA	Unreviewed - protein predicted	NA
+cswA	CS12 fimbria major subunit protein	Unreviewed - protein predicted	NA
+cswB	CS12 fimbria chaperone protein	Unreviewed - protein predicted	NA
+cswC	CS12 fimbria chaperone protein	Unreviewed - protein predicted	NA
+cswD	CS12 fimbria outer membrane usher protein	Unreviewed - protein predicted	NA
+cswE	CS12 fimbria chaperone protein	Unreviewed - protein predicted	NA
+cswF	CS12 fimbria minor subunit protein	Unreviewed - protein predicted	NA
+cswG	CS12 fimbria putative adhesin protein	Unreviewed - protein predicted	NA
+cta	Colicin-10	Reviewed - protein inferred from homology	
+daaA	F1845 adhesin operon regulatory protein	Reviewed - protein predicted	
+daaC	DaaC usher protein	Unreviewed - protein predicted	NA
+daaD	AfaD-I operon	Unreviewed - protein predicted	NA
+daaE	F1845 fimbrial protein	Reviewed - experimental evidence at protein level	
+daaF	F1845 fimbrial adhesin operon regulatory protein DaaF 	Unreviewed - protein predicted	NA
+draA	AfaA protein	Unreviewed - protein predicted	NA
+draB	chaperone protein DraB	Unreviewed - protein inferred from homology 	NA
+draC	 usher protein DraC	Unreviewed - protein inferred from homology 	NA
+draD	  Adhesin	Unreviewed - experimental evidence at protein level	NA
+draE	Dr adhesin	Unreviewed - protein predicted	NA
+draE2	Dr-II structural adhesin	Unreviewed - protein predicted	NA
+draP	Dr adhesin	Unreviewed - protein predicted	NA
+E2348C_3931	Component of T3SS	Record removed 	NA
+E2348C_3946	Uncharacterized protein	Record removed 	NA
+E2348C_3947	Uncharacterized protein	Record removed 	NA
+E2348C_3959	Uncharacterized protein	Record removed 	NA
+E2348C_3964	Component of T3SS	Record removed 	NA
+E2348C_3965	Component of T3SS	Record removed 	NA
+E2348C_3967	Component of T3SS	Record removed 	NA
+E2348C_3971	Uncharacterized protein	Record removed 	NA
+eaaC	EaaC	Unreviewed - protein predicted	NA
+eae	Intimin	Reviewed - experimental evidence at protein level	
+east1	EAST1v5	Unreviewed - protein predicted	NA
+EC042_0221	Putative type VI secretion system protein	Record removed 	NA
+EC042_4524	Putative type VI secretion protein	Record removed 	NA
+EC042_4526	Putative type VI secretion protein	Record removed 	NA
+EC042_4527	Putative type VI secretion protein	Record removed 	NA
+EC042_4528	Putative type VI secretion protein	Record removed 	NA
+EC042_4530	Putative type VI secretion protein	Record removed 	NA
+EC042_4531	Putative type VI secretion protein	Record removed 	NA
+EC042_4532	Putative type VI secretion protein	Record removed 	NA
+EC042_4536	Putative type VI secretion protein	Record removed 	NA
+EC042_4541	Putative type VI secretion protein	Record removed 	NA
+EC042_4543	Putative type VI secretion protein	Record removed 	NA
+EC042_4545	Putative type VI secretion  protein	Record removed 	NA
+EC042_4548	DNA helicase	Record removed 	NA
+EC042_4549	Uncharacterized protein	Record removed 	NA
+EC55989_3315	Uncharacterized protein	Record removed 	NA
+EC55989_3316	DNA helicase	Record removed 	NA
+EC55989_3317	Uncharacterized protein	Record removed 	NA
+EC55989_3318	Uncharacterized protein	Record removed 	NA
+EC55989_3319	Uncharacterized protein	Record removed 	NA
+EC55989_3320	Uncharacterized protein	Record removed 	NA
+EC55989_3321	Uncharacterized protein	Record removed 	NA
+EC55989_3322	Uncharacterized protein	Record removed 	NA
+EC55989_3323	Uncharacterized protein	Record removed 	NA
+EC55989_3324	Uncharacterized protein	Record removed 	NA
+EC55989_3325	Uncharacterized protein	Record removed 	NA
+EC55989_3326	Uncharacterized protein	Record removed 	NA
+EC55989_3327	Uncharacterized protein	Record removed 	NA
+EC55989_3328	Uncharacterized protein	Record removed 	NA
+EC55989_3329	Uncharacterized protein	Record removed 	NA
+EC55989_3330	Uncharacterized protein	Record removed 	NA
+EC55989_3331	Uncharacterized protein	Record removed 	NA
+EC55989_3333	Uncharacterized protein	Record removed 	NA
+EC55989_3334	Putative chaperone clpB	Record removed 	NA
+EC55989_3335	Uncharacterized protein	Record removed 	NA
+EC55989_3336	Uncharacterized protein	Record removed 	NA
+EC55989_3337	Uncharacterized protein	Record removed 	NA
+EC55989_3338	Uncharacterized protein	Record removed 	NA
+EC55989_3339	Uncharacterized protein	Record removed 	NA
+EC55989_3340	Uncharacterized protein	Record removed 	NA
+ECABU_c30880	hypothetical protein SCI-I T6SS	Record removed 	NA
+ECABU_c30890	hypothetical protein SCI-I T6SS	Record removed 	NA
+ECABU_c30910	hypothetical protein SCI-I T6SS	Record removed 	NA
+ECABU_c30920	OmpA family protein SCI-I T6SS	Record removed 	NA
+ECABU_c30960	VGR-related protein SCI-I T6SS	Record removed 	NA
+ECABU_c31020	ImpA-like protein SCI-I T6SS	Record removed 	NA
+ECABU_c31030	hypothetical protein SCI-I T6SS	Record removed 	NA
+ECABU_c31040	hypothetical protein SCI-I T6SS	Record removed 	NA
+ECABU_c31050	hypothetical protein SCI-I T6SS	Record removed 	NA
+ECABU_c31070	ImpA-related N-terminal family protein SCI-I T6SS	Record removed 	NA
+EcE24377A_0237	Uncharacterized protein	Record removed 	NA
+EcE24377A_3123	Uncharacterized protein	Record removed 	NA
+EcE24377A_3124	Uncharacterized protein	Record removed 	NA
+EcE24377A_3125	Uncharacterized protein	Record removed 	NA
+EcE24377A_3126	"Type IV/VI secretion system protein, DotU family"	Record removed 	NA
+EcE24377A_3127	OmpA domain protein	Record removed 	NA
+EcE24377A_3129	ClpA/ClpB family protein	Record removed 	NA
+EcE24377A_3130	Type VI secretion system Vgr family protein	Record removed 	NA
+EcE24377A_3133	"Type VI secretion lipoprotein, VC_A0113 family"	Record removed 	NA
+EcE24377A_3135	ImpA-related N-terminal domain protein	Record removed 	NA
+ECED1_1676	"Peptidase S6, IgA endopeptidase from phage origin"	Record removed 	NA
+ECED1_1678	Immunoglobulin-binding protein from phage origin	Record removed 	NA
+ECH74115_5061	ST25 protein LEE locus encoded TTSS	Record removed 	NA
+ECH74115_5068	protein SepD LEE locus encoded TTSS	Record removed 	NA
+ECH74115_5076	 hypothetical protein LEE locus encoded TTSS	Record removed 	NA
+ECH74115_5077	 hypothetical protein LEE locus encoded TTSS	Record removed 	NA
+ECH74115_5078	 hypothetical protein LEE locus encoded TTSS	Record removed 	NA
+ECNA114_2854	hypothetical protein SCI-I T6SS	Record removed 	NA
+ECNA114_2855	hypothetical protein SCI-I T6SS	Record removed 	NA
+ECNA114_2856	hypothetical protein SCI-I T6SS	Record removed 	NA
+ECNA114_28561	hypothetical protein SCI-I T6SS	Record removed 	NA
+ECNA114_2857	hypothetical protein SCI-I T6SS	Record removed 	NA
+ECNA114_2858	hypothetical protein SCI-I T6SS	Record removed 	NA
+ECNA114_2860	Clp ATPase SCI-I T6SS	Record removed 	NA
+ECNA114_2861	hypothetical protein SCI-I T6SS	Record removed 	NA
+ECNA114_2867	hypothetical protein SCI-I T6SS	Record removed 	NA
+ECNA114_2868	hypothetical protein SCI-I T6SS	Record removed 	NA
+ECNA114_2870	hypothetical protein SCI-I T6SS	Record removed 	NA
+ECNA114_28701	hypothetical protein SCI-I T6SS	Record removed 	NA
+ECNA114_2871	hypothetical protein SCI-I T6SS	Record removed 	NA
+ECNA114_2872	hypothetical protein SCI-I T6SS	Record removed 	NA
+ECO103_0224	Uncharacterized protein	Record removed 	NA
+ECO103_3357	Uncharacterized protein	Record removed 	NA
+ECO103_3358	Uncharacterized protein	Record removed 	NA
+ECO103_3359	Uncharacterized protein	Record removed 	NA
+ECO103_3360	Uncharacterized protein	Record removed 	NA
+ECO103_3361	Predicted outer membrane lipoprotein	Record removed 	NA
+ECO103_3362	Hcp-like protein	Record removed 	NA
+ECO103_3363	Putative ATP-dependent Clp proteinase ATP-binding chain	Record removed 	NA
+ECO103_3364	Uncharacterized protein	Record removed 	NA
+ECO103_3368	Predicted membrane protein	Record removed 	NA
+ECO103_3369	Uncharacterized protein	Record removed 	NA
+ECO103_3371	Uncharacterized protein	Record removed 	NA
+ECO103_3372	Uncharacterized protein	Record removed 	NA
+ECO103_3373	Uncharacterized protein	Record removed 	NA
+ECO103_3374	Uncharacterized protein	Record removed 	NA
+ECO103_3375	Uncharacterized protein	Record removed 	NA
+ECO103_3601	T3SS component	Record removed 	NA
+ECO103_3616	T3SS component	Record removed 	NA
+ECO103_3617	T3SS component	Record removed 	NA
+ECO103_3622	Predicted T3SS component	Record removed 	NA
+ECO103_3629	Uncharacterized protein	Record removed 	NA
+ECO103_3634	T3SS component	Record removed 	NA
+ECO103_3635	T3SS component	Record removed 	NA
+ECO103_3636	T3SS component	Record removed 	NA
+ECO103_3637	T3SS component	Record removed 	NA
+ECO103_3640	T3SS component	Record removed 	NA
+ECO111_0230	Uncharacterized protein	Record removed 	NA
+ECO111_3730	Uncharacterized protein	Record removed 	NA
+ECO111_3735	T3SS component	Record removed 	NA
+ECO111_3750	Predicted T3SS component protein	Record removed 	NA
+ECO111_3751	Predicted T3SS component protein	Record removed 	NA
+ECO111_3763	Uncharacterized protein	Record removed 	NA
+ECO111_3768	T3SS component	Record removed 	NA
+ECO111_3769	T3SS component	Record removed 	NA
+ECO111_3771	T3SS component	Record removed 	NA
+ECO26_5249	hypothetical protein LEE locus encoded TTSS	Record removed 	NA
+ECO26_5255	hypothetical protein LEE locus encoded TTSS	Record removed 	NA
+ECO26_5260	hypothetical protein LEE locus encoded TTSS	Record removed 	NA
+ECO26_5272	T3SS component protein LEE locus encoded TTSS 	Record removed 	NA
+ECO55CA74_21240	hypothetical protein LEE locus encoded TTSS	Record removed 	NA
+ECO55CA74_21270	transglycosylase SLT domain-containing protein LEE locus encoded TTSS	Record removed 	NA
+ECO55CA74_21300	hypothetical protein LEE locus encoded TTSS	Record removed 	NA
+ECOK1_3194	hypothetical protein SCI-I T6SS	Record removed 	NA
+ECOK1_3204	hypothetical protein SCI-I T6SS	Record removed 	NA
+ECOK1_3205	ImpA-like protein SCI-I T6SS	Record removed 	NA
+ECOK1_3211	type VI secretion protein SCI-I T6SS	Record removed 	NA
+ECOK1_3214	ImpA domain-containing protein SCI-I T6SS	Record removed 	NA
+ECP_0235	hypothetical protein ACE T6SS	Record removed 	NA
+ECP_0242	hypothetical protein ACE T6SS	Record removed 	NA
+ECP_2800	hypothetical protein SCI-I T6SS	Record removed 	NA
+ECP_2801	hypothetical protein SCI-I T6SS	Record removed 	NA
+ECP_2802	hypothetical protein SCI-I T6SS	Record removed 	NA
+ECP_2803	hypothetical protein SCI-I T6SS	Record removed 	NA
+ECP_2804	OmpA family membrane protein SCI-I T6SS	Record removed 	NA
+ECP_2805	hemolysin-coregulated protein Hcp SCI-I T6SS	Record removed 	NA
+ECP_2806	CLPA/B-type chaperone protein SCI-I T6SS	Record removed 	NA
+ECP_2810	VGR-related protein SCI-I T6SS	Record removed 	NA
+ECP_2814	hypothetical protein SCI-I T6SS	Record removed 	NA
+ECP_2815	hypothetical protein SCI-I T6SS	Record removed 	NA
+ECP_2819	hypothetical protein SCI-I T6SS	Record removed 	NA
+ECP_2820	hypothetical protein SCI-I T6SS	Record removed 	NA
+ECP_2821	hypothetical protein SCI-I T6SS	Record removed 	NA
+ECP_2822	hypothetical protein SCI-I T6SS	Record removed 	NA
+ECs0229	hypothetical protein ACE T6SS	Record removed 	NA
+ECs3712	hypothetical protein ETT2	Record removed 	NA
+ECs3728	hypothetical protein ETT2	Record removed 	NA
+ECs4566	hypothetical protein LEE locus encoded TTSS	Record removed 	NA
+ECs4584	hypothetical protein LEE locus encoded TTSS	Record removed 	NA
+ECs4587	hypothetical protein LEE locus encoded TTSS	Record removed 	NA
+ECS88_0243	Uncharacterized protein	Record removed 	NA
+ECS88_3097	Uncharacterized protein	Record removed 	NA
+ECS88_3098	Uncharacterized protein	Record removed 	NA
+ECS88_3103	Uncharacterized protein	Record removed 	NA
+ECS88_3547	Lipoprotein NlpI	Record removed 	NA
+EcSMS35_B0007	Colicin-E1 protein	Record removed 	NA
+ECUMN_0225	Uncharacterized protein	Record removed 	NA
+efa1	EHEC factor for adherence	Unreviewed - protein predicted	NA
+ehaA	 autotransporter outer membrane beta-barrel domain-containing protein 	Record removed 	NA
+eibC	Immunoglobulin-binding protein EibC 	Unreviewed - protein predicted	NA
+eibD	Immunoglobulin-binding protein EibD	Unreviewed - experimental evidence at protein level	NA
+eibE	 Immunoglobulin-binding protein EibE	Unreviewed - protein predicted	NA
+eibF	Immunoglobulin-binding protein EibF	Unreviewed - protein predicted	NA
+eibG	Immunoglobulin binding protein	Unreviewed - protein predicted	NA
+eivA	Type III secretion protein EivA	Unreviewed - protein predicted	NA
+eivC	Flagellum-specific ATP synthase FliI	Unreviewed - protein predicted	NA
+eivE	Type III secretion protein EivE	Unreviewed - protein predicted	NA
+eivF	Type III secretion protein EivF	Unreviewed - protein predicted	NA
+eivG	Type III secretion protein EivG	Unreviewed - protein inferred from homology 	NA
+eivI	effector protein	Record removed 	NA
+eivJ	Type III secretion protein EivJ	Unreviewed - protein predicted	NA
+entB	Isochorismatase	Unreviewed - protein predicted	NA
+entC	isochorismate synthase EntC	Record removed 	NA
+entD	enterobactin synthase subunit EntD	Record removed 	NA
+entE	" 2,3-dihydroxybenzoate-AMP ligase"	Unreviewed - protein predicted	NA
+entF	"Enterobactin synthase multienzyme complex component, ATP-dependent"	Unreviewed - protein predicted	NA
+epaO	Type III secretion protein EpaO	Unreviewed - protein predicted	NA
+epaP	 T3SS structure protein EscR	Unreviewed - protein inferred from homology 	NA
+epaQ	Type III secretion protein EpaQ	Unreviewed - protein predicted	NA
+epaS	 T3SS component EprS	Unreviewed - protein predicted	NA
+epeA	Autotransporter protease	Unreviewed - protein predicted	NA
+eprH	Type III secretion protein EprH	Unreviewed - protein predicted	NA
+eprI	 Type III secretion protein EprI	Unreviewed - protein predicted	NA
+eprJ	Type III secretion protein EprJ	Unreviewed - protein predicted	NA
+eprK	Lipoprotein	Unreviewed - protein inferred from homology 	NA
+escC	EscC	Unreviewed - protein inferred from homology 	NA
+escD	EscD	Unreviewed - protein predicted	NA
+escE	EscE/YscE/SsaE family type III secretion system needle protein co-chaperone	Unreviewed - protein predicted	NA
+escF	 EscF	Unreviewed - protein predicted	NA
+escG	EscG/YscG/SsaH family type III secretion system needle protein co-chaperone	Unreviewed - protein predicted	NA
+escI	EscI/YscI/HrpB family type III secretion system inner rod protein	Unreviewed - protein predicted	NA
+escJ	Lipoprotein 	Unreviewed - protein inferred from homology 	NA
+escL	hypothetical protein	Record removed 	NA
+escN	 EscN	Unreviewed - protein predicted	NA
+escO	Type III secretion system LEE ATPase activity positive regulator EscO	Unreviewed - protein predicted	NA
+escP	hypothetical protein	Record removed 	NA
+escR	EscR protein	Unreviewed - protein inferred from homology 	NA
+escS	Type III secretion inner membrane protein EscS	Unreviewed - protein predicted	NA
+escT	 T3SS structure protein EscT	Unreviewed - protein inferred from homology 	NA
+escU	T3SS structure protein EscU	Unreviewed - protein predicted	NA
+escV	WPT3SS structure protein EscV	Unreviewed - protein predicted	NA
+espA	EspA protein	Unreviewed - protein predicted	NA
+espB	Type III secretion system LEE translocon pore-forming subunit EspB	Unreviewed - protein predicted	NA
+espD	Type III secretion system LEE translocon pore-forming subunit EspD	Unreviewed - protein predicted	NA
+espF	Type III secretion system LEE effector EspF	Unreviewed - protein predicted	NA
+espFu/tccP	Tir-cytoskeleton coupling protein	Unreviewed - protein predicted	NA
+espG	Type III secretion system LEE effector EspG	Unreviewed - protein inferred from homology 	NA
+espG1	LEE-encoded effector EspG	Unreviewed - experimental evidence at protein level	NA
+espG2	T3SS secreted effector EspG homolog	Unreviewed - protein inferred from homology 	NA
+espH	 T3SS effector protein EspH	Unreviewed - protein predicted	NA
+espI	Uncharacterized protein	Unreviewed - protein predicted	NA
+espJ	T3SS secreted effector EspJ	Unreviewed - protein predicted	NA
+espK	T3SS secreted effector EspK	Unreviewed - protein predicted	NA
+espL1	Putative ankyrin repeat regulatory protein	Unreviewed - protein predicted	NA
+espL2	Enterotoxin	Unreviewed - protein predicted	NA
+espL4	 T3SS effector-like protein EspL	Unreviewed - protein predicted	NA
+espM1	T3SS secreted effector EspM	Unreviewed - protein predicted	NA
+espM2	T3SS secreted effector EspM	Unreviewed - protein predicted	NA
+espN	Uncharacterized protein	Unreviewed - protein predicted	NA
+espO	Secretion protein EspO	Unreviewed - protein predicted	NA
+espO1-1	T3SS secreted effector EspO-homolog	Unreviewed - protein predicted	NA
+espO1-2	T3SS secreted effector EspO	Unreviewed - protein predicted	NA
+espR1	T3SS effector-like protein EspR	Unreviewed - protein predicted	NA
+espR3	T3SS effector-like protein EspR	Unreviewed - protein predicted	NA
+espR4	 T3SS effector-like protein EspR	Unreviewed - protein predicted	NA
+espT	EspT protein	Unreviewed - protein predicted	NA
+espV	Uncharacterized protein	Unreviewed - protein predicted	NA
+espW	T3SS secreted effector EspW-like protein	Unreviewed - protein predicted	NA
+espX1	T3SS effector-like protein EspX-homolog	Unreviewed - protein predicted	NA
+espX2	T3SS effector-like protein EspX	Unreviewed - protein predicted	NA
+espX4	T3SS effector-like protein EspX	Unreviewed - protein predicted	NA
+espX5	Uncharacterized protein	Unreviewed - protein predicted	NA
+espX6	Uncharacterized protein	Unreviewed - protein predicted	NA
+espX7	T3SS effector-like protein EspX	Unreviewed - experimental evidence at protein level	NA
+espX7/nleL	Type III secretion system effector E3 ubiquitin ligase NleL	Unreviewed - protein predicted	NA
+espY1	 T3SS effector-like protein EspY	Unreviewed - protein predicted	NA
+espY2	T3SS effector-like protein EspY	Unreviewed - protein predicted	NA
+espY3	 T3SS effector-like protein EspY	Unreviewed - protein predicted	NA
+espY4	T3SS effector-like protein EspY	Unreviewed - protein predicted	NA
+espY5	Type III effector protein	Unreviewed - protein predicted	NA
+espZ	LEE-encoded effector EspZ	Unreviewed - protein predicted	NA
+etgA	Type III secretion system LEE muramidase EtgA	Unreviewed - protein predicted	NA
+etpA	Two-partner secreted adhesin EtpA	Unreviewed - protein predicted	NA
+etpB	Putative two-partner secretion transporter EtpB	Unreviewed - protein predicted	NA
+etpC	Type II secretion pathway related protein	Unreviewed - protein predicted	NA
+etpE	General secretion pathway protein EtpE	Unreviewed - protein predicted	NA
+etpF	Type II secretion protein	Unreviewed - protein predicted	NA
+etpG	Type II secretion protein	Unreviewed - experimental evidence at protein level	NA
+etpH	Type II secretion pathway related protein	Unreviewed - protein predicted	NA
+etpI	EtpI protein	Unreviewed - protein predicted	NA
+etpJ	Type II secretion pathway related protein	Unreviewed - protein predicted	NA
+etpK	Type II secretion system protein K	Unreviewed - protein inferred from homology 	NA
+etpL	Type II secretion protein EtpI	Unreviewed - protein predicted	NA
+etpM	Putative type II secretion system M-type protein	Unreviewed - protein inferred from homology 	NA
+etpN	Type 4 prepilin-like proteins leader peptide-processing enzyme	Unreviewed - protein inferred from homology 	NA
+etpO	Type II secretion protein	Unreviewed - experimental evidence at protein level	NA
+f17d-A	Major fimbrial subunit protein	Unreviewed - protein predicted	NA
+f17d-C	 Transmembrane protein	Unreviewed - protein inferred from homology 	NA
+f17d-D	Chaperone	Unreviewed - protein inferred from homology 	NA
+f17d-G	F17d-G fimbrial adhesin	Reviewed - experimental evidence at protein level	
+faeF	K88 minor fimbrial subunit FaeF	Reviewed - protein predicted	
+fanD	Putative fimbrial usher protein FanD	Unreviewed - protein inferred from homology 	NA
+fanE	Putative fimbrial assembly chaperone FanE	Unreviewed - protein predicted	NA
+fanF	Putative fimbrial protein FanF	Unreviewed - protein predicted	NA
+fanG	Protein FanG	Reviewed - protein predicted	
+fanH	Putative fimbrial protein FanH	Unreviewed - protein predicted	NA
+fasB	FasB	Unreviewed - protein predicted	NA
+fasC	Protein FasC	Reviewed - protein inferred from homology	
+fasD	Outer membrane usher protein FasD	Reviewed - protein inferred from homology	
+fasE	Protein FasE	Reviewed - protein predicted	
+fasF	FasF	Unreviewed - protein predicted	NA
+fasG	FasG protein	Unreviewed - protein predicted	NA
+fdeC	 Adhesin FdeC	Unreviewed - protein predicted	NA
+fedC	 FedD protein	Unreviewed - protein inferred from homology 	NA
+fedE	FedE	Unreviewed - protein predicted	NA
+fepC	Ferric enterobactin transport ATP-binding protein FepC	Unreviewed - protein predicted	NA
+fepD	"ABC-type Fe3+-siderophore transport system, permease component"	Unreviewed - protein inferred from homology 	NA
+fepE	Ferric enterobactin transport protein fepE	Unreviewed - protein predicted	NA
+fepG	Iron-enterobactin transporter subunit membrane component of ABC superfamily	Unreviewed - protein inferred from homology 	NA
+fes	Enterobactin/ferric enterobactin esterase	Unreviewed - protein predicted	NA
+fim41	F41 fimbrial protein	Reviewed - protein inferred from homology	
+fimB	FimB protein	Unreviewed - protein predicted	NA
+fimC	Chaperone protein FimC	Reviewed - protein inferred from homology	
+fimD	Outer membrane usher protein fimD	Unreviewed - protein inferred from homology 	NA
+fimE	Type 1 fimbriae regulatory protein FimE	Reviewed - protein inferred from homology	
+fimF	FimF	Unreviewed - protein predicted	NA
+fimG	Minor fimbrial subunit	Unreviewed - protein predicted	NA
+fimI	type 1 fimbrial protein	Record removed 	NA
+flgA	Flagella basal body P-ring formation protein FlgA	Unreviewed - protein inferred from homology 	NA
+flgB	Flagellar basal body rod protein FlgB	Unreviewed - protein inferred from homology 	NA
+flgC	Flagellar basal-body rod protein FlgC	Reviewed - protein inferred from homology	
+flgD	Basal-body rod modification protein FlgD	Unreviewed - protein inferred from homology 	NA
+flgE	Flagellar hook protein FlgE	Unreviewed - protein inferred from homology 	NA
+flgF	Flagellar basal body protein	Unreviewed - protein inferred from homology 	NA
+flgG	Flagellar basal-body rod protein FlgG	Reviewed - protein inferred from homology	
+flgH	Flagellar L-ring protein	Reviewed - protein inferred from homology	
+flgI	Flagellar P-ring protein	Reviewed - protein inferred from homology	
+flgJ	Flagellar rod assembly protein/muramidase FlgJ	Unreviewed - protein predicted	NA
+flgK	Flagellar hook-associated protein 1	Unreviewed - protein inferred from homology 	NA
+flgL	 Flagellar biosynthesis hook-filament junction protein	Unreviewed - protein predicted	NA
+flgN	Protein of flagellar biosynthesis	Unreviewed - protein predicted	NA
+flhA	Flagellar biosynthesis protein FlhA	Unreviewed - protein inferred from homology 	NA
+flhB	Flagellar biosynthetic protein FlhB	Unreviewed - protein inferred from homology 	NA
+flhC	Flagellar transcriptional regulator FlhC	Reviewed - protein inferred from homology	
+flhD	Flagellar transcriptional regulator FlhD	Unreviewed - protein predicted	NA
+flhE	Flagellar protein	Unreviewed - protein predicted	NA
+fliA	RNA polymerase sigma factor FliA	Reviewed - protein inferred from homology	
+fliC	Flagellin	Unreviewed - protein inferred from homology 	NA
+fliE	Flagellar hook-basal body complex protein FliE	Reviewed - protein inferred from homology	
+fliF	Flagellar M-ring protein	Unreviewed - protein inferred from homology 	NA
+fliG	Flagellar motor switch protein FliG	Unreviewed - protein inferred from homology 	NA
+fliH	Flagellar assembly protein FliH	Unreviewed - protein predicted	NA
+fliI	 Flagellum-specific ATP synthase	Unreviewed - protein predicted	NA
+fliJ	Flagellar FliJ protein	Unreviewed - protein inferred from homology 	NA
+fliK	Flagellar hook-length control protein	Unreviewed - protein predicted	NA
+fliL	Flagellar protein FliL	Reviewed - protein inferred from homology	
+fliM	Flagellar motor switch protein FliM	Unreviewed - protein inferred from homology 	NA
+fliN	Flagellar motor switch protein FliN	Unreviewed - protein inferred from homology 	NA
+fliO	Flagellar protein	Unreviewed - protein inferred from homology 	NA
+fliP	Flagellar biosynthetic protein FliP	Reviewed - protein inferred from homology	
+fliQ	 Flagellar biosynthetic protein FliQ	Reviewed - protein inferred from homology	
+fliR	Flagellar biosynthetic protein FliR	Unreviewed - protein inferred from homology 	NA
+fliS	Flagellar export chaperone FliS	Unreviewed - protein predicted	NA
+fliT	Flagellar protein FliT	Reviewed - protein inferred from homology	
+fliY	Putative periplasmic binding transport protein	Unreviewed - protein inferred from homology 	NA
+fliZ	flagella biosynthesis regulatory protein FliZ	Record removed 	NA
+flk	Flagellar regulator flk	Unreviewed - protein inferred from homology 	NA
+focA	F1C major fimbrial subunit protein FocA	Unreviewed - protein predicted	NA
+focB	FocB protein	Unreviewed - experimental evidence at protein level	NA
+focC	F1C periplasmic chaperone	Unreviewed - protein inferred from homology 	NA
+focD	F1C fimbrial usher FocD	Unreviewed - protein inferred from homology 	NA
+focF	 F1C minor fimbrial subunit F	Unreviewed - protein predicted	NA
+focH	F1C fimbrial adhesin	Unreviewed - protein predicted	NA
+focI	Putative minor F1C fimbrial subunit FocI	Unreviewed - protein predicted	NA
+focI-2	F1C and S fimbrial switch regulatory protein	Record removed 	NA
+focY	Uncharacterized protein	Unreviewed - protein predicted	NA
+fotA	FotA	Unreviewed - protein predicted	NA
+fotB	FotB	Unreviewed - protein predicted	NA
+fotC	FotC	Unreviewed - protein predicted	NA
+fotD	FotD	Unreviewed - protein inferred from homology 	NA
+fotE	FotE	Unreviewed - protein predicted	NA
+fotF	FotF	Unreviewed - protein predicted	NA
+fotG	FotG	Unreviewed - protein predicted	NA
+fotS	FotS	Unreviewed - protein predicted	NA
+fotT	FotT	Unreviewed - protein predicted	NA
+fyuA	 FyuA	Unreviewed - protein inferred from homology 	NA
+G2583_0236	Uncharacterized protein	Record removed 	NA
+G2583_4425	Uncharacterized protein	Record removed 	NA
+G2583_4434	Transglycosylase SLT domain protein	Record removed 	NA
+G2583_4440	Uncharacterized protein	Record removed 	NA
+G2583_4445	Uncharacterized protein	Record removed 	NA
+glrA	"GrlA, global regulator of LEE activator"	Unreviewed - experimental evidence at protein level	NA
+glrR	Type III secretion system LEE GrlA-binding negative regulator GrlR	Unreviewed - protein predicted	NA
+grlA	GrLA protein (Hypothetical protein)	Unreviewed - protein predicted	NA
+grlR	Negative regulator GrlR	Unreviewed - protein predicted	NA
+hdaA	HdaA (plasmid)	Unreviewed - protein predicted	NA
+hdaB	HdaB (plasmid)	Unreviewed - experimental evidence at protein level	NA
+hdaC	HdaC (plasmid)	Unreviewed - protein predicted	NA
+hdaD	HdaD (plasmid)	Unreviewed - protein inferred from homology 	NA
+hlyB	Alpha-hemolysin translocation ATP-binding protein HlyB	Reviewed - protein inferred from homology	
+hlyD	Hemolysin D	Unreviewed - protein predicted	NA
+hlyE/clyA	hemolysin HlyE 	Record removed 	NA
+hma	Putative outer membrane receptor for iron compound or colicin	Unreviewed - protein inferred from homology 	NA
+hofB/hcpB	Type II secretion system protein HofB	Unreviewed - protein predicted	NA
+hofC/hcpC	Assembly protein in type IV pilin biogenesis transmembrane protein	Unreviewed - protein inferred from homology 	NA
+i02_3119	hypothetical protein	Record removed 	NA
+i02_3121	Uncharacterized protein	Unreviewed - protein predicted	NA
+i02_3122	hypothetical protein	Record removed 	NA
+iagB	hypothetical protein	Record removed 	NA
+icmF	IcmF-like protein	Unreviewed - protein predicted	NA
+icmF/aaiO	Uncharacterized protein	Unreviewed - protein predicted	NA
+iroB	glucosyltransferase	Record removed 	NA
+iroC	salmochelin/enterobactin export ABC transporter IroC	Record removed 	NA
+irp1	hypothetical protein	Record removed 	NA
+kpsT	Polysialic acid transport ATP-binding protein KpsT	Reviewed - experimental evidence at protein level	
+ldaA	LdaA	Unreviewed - protein predicted	NA
+ldaB	LdaB	Unreviewed - protein predicted	NA
+ldaC	LdaC	Unreviewed - protein predicted	NA
+ldaD	LdaD	Unreviewed - protein inferred from homology 	NA
+ldaE	LdaE	Unreviewed - protein inferred from homology 	NA
+ldaF	LdaF	Unreviewed - protein predicted	NA
+ldaG	LdaG	Unreviewed - protein predicted	NA
+ldaH	LdaH	Unreviewed - protein predicted	NA
+ldaI	 LdaI	Unreviewed - protein predicted	NA
+ler	Uncharacterized protein	Unreviewed - protein predicted	NA
+LF82_024	hypothetical protein T6 SS	Record removed 	NA
+LF82_426	hypothetical protein T6 SS	Record removed 	NA
+LF82_427	hypothetical protein T6 SS	Record removed 	NA
+LF82_428	hypothetical protein T6 SS	Record removed 	NA
+LF82_429	hypothetical protein T6 SS	Record removed 	NA
+LF82_430	hypothetical protein T6 SS	Record removed 	NA
+LF82_432	hypothetical protein T6 SS	Record removed 	NA
+LF82_438	hypothetical protein T6 SS	Record removed 	NA
+LF82_439	hypothetical protein T6 SS	Record removed 	NA
+LF82_443	hypothetical protein T6 SS	Record removed 	NA
+LH0147	Adhesin	Record removed 	NA
+lifA/efa1	Putative cytotoxin	Unreviewed - protein predicted	NA
+lngB	LngB protein	Unreviewed - protein predicted	NA
+lngC	LngC	Unreviewed - protein predicted	NA
+lngD	LngD protein	Unreviewed - protein predicted	NA
+lngE	 LngE	Unreviewed - protein predicted	NA
+lngF	 LngF	Unreviewed - protein predicted	NA
+lngG	LngG	Unreviewed - protein predicted	NA
+lngH	LngH protein	Unreviewed - protein predicted	NA
+lngI	LngI protein	Unreviewed - protein predicted	NA
+lngJ	LngJ	Unreviewed - protein predicted	NA
+lngP	Type 4 prepilin-like proteins leader peptide-processing enzyme	Unreviewed - protein inferred from homology 	NA
+lngR	LngR	Unreviewed - protein predicted	NA
+lngS	DNA-binding transcriptional regulator GadX	Unreviewed - protein predicted	NA
+lngT	LngT	Unreviewed - protein predicted	NA
+lngX1	LngX1	Unreviewed - protein predicted	NA
+lngX2	LngX2	Unreviewed - protein predicted	NA
+map	Type III secretion system LEE effector Map (Rho guanine exchange factor)	Unreviewed - protein predicted	NA
+mpc	Multiple point controller protein	Unreviewed - protein predicted	NA
+nfaA	Non-fimbrial adhesin 1	Reviewed - experimental evidence at protein level	
+nleA	T3SS secreted effector NleA	Unreviewed - protein predicted	NA
+nleA/espI	Non-LEE-encoded type III effector	Unreviewed - protein predicted	NA
+nleB1	Non-LEE encoded effector protein NleB	Unreviewed - protein predicted	NA
+nleB2	T3SS secreted effector NleB	Unreviewed - protein predicted	NA
+nleB2-2	NleB	Unreviewed - protein predicted	NA
+nleB3	T3SS effector NleB	Unreviewed - protein predicted	NA
+nleC	"Non-LEE-encoded type III secreted effector, NleC"	Unreviewed - protein predicted	NA
+nleD	T3SS effector protein NleD	Unreviewed - protein predicted	NA
+nleE	T3SS secreted effector NleE	Unreviewed - experimental evidence at protein level	NA
+nleE1	T3SS secreted effector NleE homolog	Unreviewed - experimental evidence at protein level	NA
+nleE2	T3SS secreted effector NleE homolog with internal deletion of 56 aa	Unreviewed - protein predicted	NA
+nleF	Effector protein NleF	Reviewed - experimental evidence at protein level	
+nleG	T3SS effector NleG	Unreviewed - protein predicted	NA
+nleG-1	T3SS secreted effector NleG	Unreviewed - protein predicted	NA
+nleG-2	hypothetical protein	Record removed 	NA
+nleG-3	 Uncharacterized protein	Unreviewed - protein predicted	NA
+nleG2-2	 T3SS secreted effector NleG	Unreviewed - protein predicted	NA
+nleG2-3	T3SS secreted effector NleG	Unreviewed - experimental evidence at protein level	NA
+nleG2-4	DUF1076 domain-containing protein	Record removed 	NA
+nleG5-1	T3SS secreted effector NleG	Unreviewed - experimental evidence at protein level	NA
+nleG5-2	Uncharacterized protein	Unreviewed - protein predicted	NA
+nleG6-1	DUF1076 domain-containing protein	Record removed 	NA
+nleG6-2	DUF1076 domain-containing protein	Record removed 	NA
+nleG6-3	T3SS effector NleG	Unreviewed - protein predicted	NA
+nleG7	"Non-LEE-encoded type III effector, NleG"	Unreviewed - protein predicted	NA
+nleG7'	DUF1076 domain-containing protein	Record removed 	NA
+nleG8-2	T3SS secreted effector NleG	Unreviewed - protein predicted	NA
+nleH1	 T3SS secreted effector NleH	Unreviewed - experimental evidence at protein level	NA
+nleH1-1	"Non-LEE-encoded type III secreted effector, NleH"	Unreviewed - protein predicted	NA
+nleH2	T3SS secreted effector NleH	Unreviewed - experimental evidence at protein level	NA
+nleH3	T3SS effector protein NleH	Unreviewed - protein predicted	NA
+NP_040393	hypothetical protein colicin A 	Record removed 	NA
+NRG857_13800	Uncharacterized protein	Record removed 	NA
+NRG857_13835	Uncharacterized protein	Record removed 	NA
+NRG857_13850	Uncharacterized protein	Record removed 	NA
+O3M_04325	hypothetical protein T6 SS	Record removed 	NA
+O3M_04330	hypothetical protein T6 SS	Record removed 	NA
+O3M_04335	hypothetical protein T6 SS	Record removed 	NA
+O3M_04340	hypothetical protein T6 SS	Record removed 	NA
+O3M_04345	hypothetical protein T6 SS	Record removed 	NA
+O3M_20335	hypothetical protein T6 SS	Record removed 	NA
+orf4	T3SS component	Unreviewed - protein predicted	NA
+papX	MarR family transcriptional regulator	Record removed 	NA
+pECS88_0104	 Colicin	Unreviewed - protein predicted	NA
+perA/bfpT	BfpT protein	Unreviewed - protein predicted	NA
+perB/bfpV	Protein PerB	Reviewed - protein predicted	
+perC/bfpW	Protein PerC	Reviewed - protein predicted	
+pet	Serine protease pet (Plasmid-encoded toxin pet)	Unreviewed - protein predicted	NA
+pixA	PixA protein	Unreviewed - protein predicted	NA
+pixB	PixB protein	Unreviewed - protein predicted	NA
+pixC	PixC protein	Unreviewed - protein inferred from homology 	NA
+pixD	PixD protein	Unreviewed - protein inferred from homology 	NA
+pixF	PixF protein	Unreviewed - protein predicted	NA
+pixG	PixG protein	Unreviewed - protein predicted	NA
+pixH	PixH protein	Unreviewed - protein predicted	NA
+pixJ	Nuclease PIN	Unreviewed - protein predicted	NA
+pkgA	Uncharacterized protein	Unreviewed - protein predicted	NA
+ppdD/hcpA	Prepilin peptidase-dependent pilin	Unreviewed - protein predicted	NA
+ralC	Putative minor fimbrial subunit	Unreviewed - protein predicted	NA
+ralD	Putative fimbrial chaperone	Unreviewed - protein predicted	NA
+ralE	 Putative fimbrial chaperone	Unreviewed - protein inferred from homology 	NA
+ralF	Putative minor fimbrial subunit	Unreviewed - protein predicted	NA
+ralG	Putative major fimbrial subunit	Unreviewed - protein predicted	NA
+ralH	 Putative minor fimbrial subunit	Unreviewed - protein predicted	NA
+ralI	RalI	Unreviewed - protein predicted	NA
+rorf8	Chaperone of T3SS Rorf8	Unreviewed - protein predicted	NA
+rpeA	RpeA	Unreviewed - protein predicted	NA
+sat	Autotransporter outer membrane beta-barrel domain-containing protein	Unreviewed - protein predicted	NA
+senB	Enterotoxin TieB protein	Unreviewed - protein predicted	NA
+sepD	T3SS secretion switching protein SepD	Unreviewed - experimental evidence at protein level	NA
+sepL	Secretion switching protein SepL	Unreviewed - protein predicted	NA
+sepQ	T3SS structure protein SepQ	Unreviewed - experimental evidence at protein level	NA
+sepQ/escQ	 T3SS structure protein SepQ	Unreviewed - protein predicted	NA
+sepZ	SepZ	Unreviewed - protein predicted	NA
+sepZ/espZ	 T3SS secreted effector EspZ	Unreviewed - protein predicted	NA
+set1A	hypothetical protein	Record removed 	NA
+set1B	hypothetical protein	Record removed 	NA
+sfaB	Putative S fimbrial switch regulatory protein	Unreviewed - protein predicted	NA
+sfaC	F1C and S fimbrial switch regulatory protein	Record removed 	NA
+sfaD	type 1 fimbrial protein 	Record removed 	NA
+sfaE	S fimbriae periplasmic chaperone SfaE	Unreviewed - protein inferred from homology 	NA
+sfaF	fimbrial biogenesis outer membrane usher protein	Record removed 	NA
+sfaG	S-fimbrial protein subunit SfaG	Reviewed - experimental evidence at protein level	
+sfaH	 S fimbriae minor subunit SfaH	Unreviewed - protein predicted	NA
+sfaS	S fimbriae minor subunit SfaH	Unreviewed - protein predicted	NA
+sfaX	Transcriptional regulator	Unreviewed - protein predicted	NA
+sfaY	EAL domain-containing protein	Unreviewed - protein predicted	NA
+sfpA	 Fimbrial protein	Unreviewed - protein predicted	NA
+sfpC	SfpC	Unreviewed - protein inferred from homology 	NA
+sfpD	SfpD	Unreviewed - protein inferred from homology 	NA
+sfpF	SfpF	Unreviewed - protein predicted	NA
+sfpG	SfpG	Unreviewed - protein predicted	NA
+sfpH	 SfpH	Unreviewed - protein predicted	NA
+sfpJ	SfpJ	Unreviewed - protein predicted	NA
+sitA	 metal ABC transporter substrate-binding protein	Record removed 	NA
+sitB	"Iron transport protein, ATP-binding component"	Unreviewed - protein predicted	NA
+sitC	"Iron transport protein, inner membrane component"	Unreviewed - protein inferred from homology 	NA
+sitD	" Iron transport protein, inner membrane component"	Unreviewed - protein inferred from homology 	NA
+speL	Secretion switching protein SepL	Unreviewed - protein predicted	NA
+stcE	Metalloprotease StcE	Reviewed - experimental evidence at protein level	
+stgA	Fimbriae-like adhesin SfmA	Unreviewed - protein predicted	NA
+stgB	Chaperone protein FocC	Unreviewed - protein inferred from homology 	NA
+stgC	Fimbrial biogenesis outer membrane usher protein	Unreviewed - protein predicted	NA
+stgD	 StgD	Unreviewed - protein predicted	NA
+stx1A	Shiga toxin 1 A-subunit	Unreviewed - protein predicted	NA
+stx1B	Shiga toxin 1 B-subunit	Unreviewed - protein predicted	NA
+stx1vA	 SLT-I A subunit coding region	Unreviewed - protein predicted	NA
+stx1vB	SLT-I B Subunit	Unreviewed - protein predicted	NA
+stx2d1A	Shiga toxin 2 A subunit	Unreviewed - protein predicted	NA
+stx2dB	Shiga toxin 2c B-subunit	Unreviewed - protein predicted	NA
+stx2eA	Shiga toxin 2 variant e A-subunit	Unreviewed - protein predicted	NA
+stx2eB	 Orf protein	Unreviewed - experimental evidence at protein level	NA
+stx2fA	Shiga toxin 2 variant f A-subunit	Unreviewed - protein predicted	NA
+stx2fB	Shiga toxin 2 variant f B-subunit	Unreviewed - protein predicted	NA
+tar/cheM	Methyl-accepting chemotaxis protein II	Reviewed - experimental evidence at protein level	
+tccP2	molecular chaperone Tir	Record removed 	NA
+tcpC	toll/interleukin-1 receptor domain-containing protein 	Record removed 	NA
+tibA	Adhesin/invasin TibA autotransporter	Reviewed - experimental evidence at protein level	
+tir	Translocated intimin receptor Tir	Reviewed - experimental evidence at protein level	
+toxB	 Toxin B	Unreviewed - protein predicted	NA
+UM146_02430	hypothetical protein T6 SS	Record removed 	NA
+UM146_16140	hypothetical protein T6 SS	Record removed 	NA
+UMNK88_238	Uncharacterized protein	Record removed 	NA
+upaG/ehaG	Autotransporter adhesin EhaG	Reviewed - experimental evidence at a transcript level	
+upaH	Autotransporter UpaH	Unreviewed - protein predicted	NA
+UTI89_C0248	Uncharacterized protein	Record removed 	NA
+UTI89_C0255	Uncharacterized protein	Record removed 	NA
+UTI89_C3190	Uncharacterized protein	Record removed 	NA
+UTI89_C3191	Uncharacterized protein	Record removed 	NA
+UTI89_C3192	Uncharacterized protein	Record removed 	NA
+UTI89_C3194	Uncharacterized protein	Record removed 	NA
+UTI89_C3202	Uncharacterized protein	Record removed 	NA
+UTI89_C3204	Uncharacterized protein	Record removed 	NA
+yagV/ecpE	Uncharacterized protein	Record removed 	NA
+yagW/ecpD	Fimbria adhesin EcpD	Reviewed - experimental evidence at a transcript level	
+yagX/ecpC	Putative enzyme	Unreviewed - protein predicted	NA
+yagY/ecpB	 CFA/I fimbrial auxiliary subunit	Unreviewed - protein predicted	NA
+yagZ/ecpA	Common pilus major fimbrillin subunit EcpA	Reviewed - experimental evidence at a transcript level	
+ybtA	AraC family transcriptional regulator	Unreviewed - protein predicted	NA
+ybtE	" (2,3-dihydroxybenzoyl)adenylate synthase"	Unreviewed - protein predicted	NA
+ybtP	Irp protein	Unreviewed - protein predicted	NA
+ybtQ	ABC transporter ATP-binding protein	Unreviewed - protein predicted	NA
+ybtS	Anthranilate synthase component I	Unreviewed - protein predicted	NA
+ybtT	"thioesterase, partial"	Record removed 	NA
+ybtU	Oxidoreductase	Unreviewed - protein predicted	NA
+ybtX	Yersiniabactin-iron transporter permease YbtX	Unreviewed - protein predicted	NA
+ycbF	fimbrial chaperone	Record removed 	NA
+ycbQ	laminin-binding fimbrial subunit ElfA	Record removed 	NA
+ycbR	Fimbrial chaperone protein ElfD	Unreviewed - protein inferred from homology 	NA
+ycbS	Type 1 fimbriae anchoring protein FimD-PapC-like porin protein	Unreviewed - protein inferred from homology 	NA
+ycbT	 Fimbrial-like adhesin protein	Unreviewed - protein predicted	NA
+ycbU	Fimbrial protein	Unreviewed - protein predicted	NA
+ycbV	 type 1 fimbrial protein	Record removed 	NA
+ygeG	SycD-like chaperone family TPR-repeat-containing protein	Unreviewed - protein predicted	NA
+ygeH	 Putative invasion protein	Unreviewed - protein predicted	NA
+ykgK/ecpR	HTH-type transcriptional regulator EcpR	Reviewed - experimental evidence at protein level	
+Z0252	Uncharacterized protein	Record removed 	NA
+Z0260	Type VI secretion protein	Record removed 	NA
+Z0263	Uncharacterized protein	Record removed 	NA
+Z0265	Uncharacterized protein	Record removed 	NA
+Z2200	Putative major fimbrial subunit	Record removed 	NA
+Z2201	Putative fimbrial chaperone protein	Record removed 	NA
+Z2203	Outer membrane usher protein FimD	Record removed 	NA
+Z2204	Fimbrial-like adhesin protein	Record removed 	NA
+Z2205	Fimbrial-like adhesin protein	Record removed 	NA
+Z2206	Fimbrial-like adhesin protein	Record removed 	NA
+Z5143	Uncharacterized protein	Record removed 	NA
