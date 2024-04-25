@@ -1,0 +1,3452 @@
+d-i184-58-132:Desktop dwakeham$ bash test.sh 
+Reading in sequence(s) from AE005174.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on AE005174.2 
+  R match! on AE005174.2 
+  Match found on AE005174.2 (+)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on AE005174.2 
+  R match! on AE005174.2 
+  Match found on AE005174.2 (+)
+Scanning chu
+  F match! on AE005174.2 
+  R match! on AE005174.2 
+  Match found on AE005174.2 (-)
+Scanning yjaA
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: +
+yjaA: -
+
+--------   ---   --------
+Clermont type is D/E; running ArpAgpE primers
+  F match! on AE005174.2 
+  R match! on AE005174.2 
+  Match found on AE005174.2 (+)
+Clermont type: E
+-------------------------
+('E', 'TspE4: -\narpA: +\nchu: +\nyjaA: -\n')
+Reading in sequence(s) from AE014075.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on AE014075.1 
+  R match! on AE014075.1 
+  Match found on AE014075.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on AE014075.1 
+  R match! on AE014075.1 
+  Match found on AE014075.1 (+)
+Scanning arpA
+  F match! on AE014075.1 
+  Only forward primer hit found
+Scanning chu
+  F match! on AE014075.1 
+  R match! on AE014075.1 
+  Match found on AE014075.1 (-)
+Scanning yjaA
+  F match! on AE014075.1 
+  R match! on AE014075.1 
+  Match found on AE014075.1 (+)
+
+-------- Results --------
+TspE4: +
+arpA: -
+chu: +
+yjaA: +
+
+--------   ---   --------
+Clermont type: B2
+-------------------------
+('B2', 'TspE4: +\narpA: -\nchu: +\nyjaA: +\n')
+Reading in sequence(s) from AM946981.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on AM946981.2 
+  R match! on AM946981.2 
+  Match found on AM946981.2 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on AM946981.2 
+  R match! on AM946981.2 
+  Match found on AM946981.2 (+)
+Scanning chu
+Scanning yjaA
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: -
+
+--------   ---   --------
+Clermont type: A
+-------------------------
+('A', 'TspE4: -\narpA: +\nchu: -\nyjaA: -\n')
+Reading in sequence(s) from AP009048.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on AP009048.1 
+  R match! on AP009048.1 
+  Match found on AP009048.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on AP009048.1 
+  R match! on AP009048.1 
+  Match found on AP009048.1 (+)
+Scanning chu
+Scanning yjaA
+  F match! on AP009048.1 
+  R match! on AP009048.1 
+  Match found on AP009048.1 (+)
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: +
+
+--------   ---   --------
+Clermont type is A/C; running the trpAgpC primers
+Clermont type: A
+-------------------------
+('A', 'TspE4: -\narpA: +\nchu: -\nyjaA: +\n')
+Reading in sequence(s) from AP009240.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on AP009240.1 
+  R match! on AP009240.1 
+  Match found on AP009240.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on AP009240.1 
+  R match! on AP009240.1 
+  Match found on AP009240.1 (+)
+Scanning arpA
+  F match! on AP009240.1 
+  R match! on AP009240.1 
+  Match found on AP009240.1 (+)
+Scanning chu
+Scanning yjaA
+
+-------- Results --------
+TspE4: +
+arpA: +
+chu: -
+yjaA: -
+
+--------   ---   --------
+Clermont type: B1
+-------------------------
+('B1', 'TspE4: +\narpA: +\nchu: -\nyjaA: -\n')
+Reading in sequence(s) from AP009378.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on AP009378.1 
+  R match! on AP009378.1 
+  Match found on AP009378.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on AP009378.1 
+  R match! on AP009378.1 
+  Match found on AP009378.1 (+)
+Scanning arpA
+  F match! on AP009378.1 
+  Only forward primer hit found
+Scanning chu
+  F match! on AP009378.1 
+  R match! on AP009378.1 
+  Match found on AP009378.1 (-)
+Scanning yjaA
+  F match! on AP009378.1 
+  R match! on AP009378.1 
+  Match found on AP009378.1 (+)
+
+-------- Results --------
+TspE4: +
+arpA: -
+chu: +
+yjaA: +
+
+--------   ---   --------
+Clermont type: B2
+-------------------------
+('B2', 'TspE4: +\narpA: -\nchu: +\nyjaA: +\n')
+Reading in sequence(s) from AP010953.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on AP010953.1 
+  R match! on AP010953.1 
+  Match found on AP010953.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on AP010953.1 
+  R match! on AP010953.1 
+  Match found on AP010953.1 (-)
+Scanning arpA
+  F match! on AP010953.1 
+  R match! on AP010953.1 
+  Match found on AP010953.1 (+)
+Scanning chu
+Scanning yjaA
+
+-------- Results --------
+TspE4: +
+arpA: +
+chu: -
+yjaA: -
+
+--------   ---   --------
+Clermont type: B1
+-------------------------
+('B1', 'TspE4: +\narpA: +\nchu: -\nyjaA: -\n')
+Reading in sequence(s) from AP010958.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on AP010958.1 
+  R match! on AP010958.1 
+  Match found on AP010958.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on AP010958.1 
+  R match! on AP010958.1 
+  Match found on AP010958.1 (-)
+Scanning arpA
+  F match! on AP010958.1 
+  R match! on AP010958.1 
+  Match found on AP010958.1 (+)
+Scanning chu
+Scanning yjaA
+
+-------- Results --------
+TspE4: +
+arpA: +
+chu: -
+yjaA: -
+
+--------   ---   --------
+Clermont type: B1
+-------------------------
+('B1', 'TspE4: +\narpA: +\nchu: -\nyjaA: -\n')
+Reading in sequence(s) from AP010960.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on AP010960.1 
+  R match! on AP010960.1 
+  Match found on AP010960.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on AP010960.1 
+  R match! on AP010960.1 
+  Match found on AP010960.1 (+)
+Scanning arpA
+  F match! on AP010960.1 
+  R match! on AP010960.1 
+  Match found on AP010960.1 (+)
+Scanning chu
+Scanning yjaA
+
+-------- Results --------
+TspE4: +
+arpA: +
+chu: -
+yjaA: -
+
+--------   ---   --------
+Clermont type: B1
+-------------------------
+('B1', 'TspE4: +\narpA: +\nchu: -\nyjaA: -\n')
+Reading in sequence(s) from AP012306.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on AP012306.1 
+  R match! on AP012306.1 
+  Match found on AP012306.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on AP012306.1 
+  R match! on AP012306.1 
+  Match found on AP012306.1 (+)
+Scanning chu
+Scanning yjaA
+  F match! on AP012306.1 
+  R match! on AP012306.1 
+  Match found on AP012306.1 (+)
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: +
+
+--------   ---   --------
+Clermont type is A/C; running the trpAgpC primers
+Clermont type: A
+-------------------------
+('A', 'TspE4: -\narpA: +\nchu: -\nyjaA: +\n')
+Reading in sequence(s) from BA000007.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on BA000007.2 
+  R match! on BA000007.2 
+  Match found on BA000007.2 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on BA000007.2 
+  R match! on BA000007.2 
+  Match found on BA000007.2 (+)
+Scanning chu
+  F match! on BA000007.2 
+  R match! on BA000007.2 
+  Match found on BA000007.2 (-)
+Scanning yjaA
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: +
+yjaA: -
+
+--------   ---   --------
+Clermont type is D/E; running ArpAgpE primers
+  F match! on BA000007.2 
+  R match! on BA000007.2 
+  Match found on BA000007.2 (+)
+Clermont type: E
+-------------------------
+('E', 'TspE4: -\narpA: +\nchu: +\nyjaA: -\n')
+Reading in sequence(s) from CP000243.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP000243.1 
+  R match! on CP000243.1 
+  Match found on CP000243.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on CP000243.1 
+  R match! on CP000243.1 
+  Match found on CP000243.1 (+)
+Scanning arpA
+  F match! on CP000243.1 
+  Only forward primer hit found
+Scanning chu
+  F match! on CP000243.1 
+  R match! on CP000243.1 
+  Match found on CP000243.1 (-)
+Scanning yjaA
+  F match! on CP000243.1 
+  R match! on CP000243.1 
+  Match found on CP000243.1 (+)
+
+-------- Results --------
+TspE4: +
+arpA: -
+chu: +
+yjaA: +
+
+--------   ---   --------
+Clermont type: B2
+-------------------------
+('B2', 'TspE4: +\narpA: -\nchu: +\nyjaA: +\n')
+Reading in sequence(s) from CP000247.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP000247.1 
+  R match! on CP000247.1 
+  Match found on CP000247.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on CP000247.1 
+  R match! on CP000247.1 
+  Match found on CP000247.1 (+)
+Scanning arpA
+  F match! on CP000247.1 
+  Only forward primer hit found
+Scanning chu
+  F match! on CP000247.1 
+  R match! on CP000247.1 
+  Match found on CP000247.1 (-)
+Scanning yjaA
+  F match! on CP000247.1 
+  R match! on CP000247.1 
+  Match found on CP000247.1 (+)
+
+-------- Results --------
+TspE4: +
+arpA: -
+chu: +
+yjaA: +
+
+--------   ---   --------
+Clermont type: B2
+-------------------------
+('B2', 'TspE4: +\narpA: -\nchu: +\nyjaA: +\n')
+Reading in sequence(s) from CP000468.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP000468.1 
+  R match! on CP000468.1 
+  Match found on CP000468.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on CP000468.1 
+  R match! on CP000468.1 
+  Match found on CP000468.1 (+)
+Scanning arpA
+  F match! on CP000468.1 
+  Only forward primer hit found
+Scanning chu
+  F match! on CP000468.1 
+  R match! on CP000468.1 
+  Match found on CP000468.1 (-)
+Scanning yjaA
+  F match! on CP000468.1 
+  R match! on CP000468.1 
+  Match found on CP000468.1 (+)
+
+-------- Results --------
+TspE4: +
+arpA: -
+chu: +
+yjaA: +
+
+--------   ---   --------
+Clermont type: B2
+-------------------------
+('B2', 'TspE4: +\narpA: -\nchu: +\nyjaA: +\n')
+Reading in sequence(s) from CP000800.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP000800.1 
+  R match! on CP000800.1 
+  Match found on CP000800.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on CP000800.1 
+  R match! on CP000800.1 
+  Match found on CP000800.1 (+)
+Scanning arpA
+  F match! on CP000800.1 
+  R match! on CP000800.1 
+  Match found on CP000800.1 (+)
+Scanning chu
+Scanning yjaA
+
+-------- Results --------
+TspE4: +
+arpA: +
+chu: -
+yjaA: -
+
+--------   ---   --------
+Clermont type: B1
+-------------------------
+('B1', 'TspE4: +\narpA: +\nchu: -\nyjaA: -\n')
+Reading in sequence(s) from CP000802.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP000802.1 
+  R match! on CP000802.1 
+  Match found on CP000802.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on CP000802.1 
+  R match! on CP000802.1 
+  Match found on CP000802.1 (+)
+Scanning chu
+Scanning yjaA
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: -
+
+--------   ---   --------
+Clermont type: A
+-------------------------
+('A', 'TspE4: -\narpA: +\nchu: -\nyjaA: -\n')
+Reading in sequence(s) from CP000819.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP000819.1 
+  R match! on CP000819.1 
+  Match found on CP000819.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on CP000819.1 
+  R match! on CP000819.1 
+  Match found on CP000819.1 (+)
+Scanning chu
+Scanning yjaA
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: -
+
+--------   ---   --------
+Clermont type: A
+-------------------------
+('A', 'TspE4: -\narpA: +\nchu: -\nyjaA: -\n')
+Reading in sequence(s) from CP000946.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP000946.1 
+  R match! on CP000946.1 
+  Match found on CP000946.1 (+)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on CP000946.1 
+  R match! on CP000946.1 
+  Match found on CP000946.1 (-)
+Scanning chu
+Scanning yjaA
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: -
+
+--------   ---   --------
+Clermont type: A
+-------------------------
+('A', 'TspE4: -\narpA: +\nchu: -\nyjaA: -\n')
+Reading in sequence(s) from CP000948.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP000948.1 
+  R match! on CP000948.1 
+  Match found on CP000948.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on CP000948.1 
+  R match! on CP000948.1 
+  Match found on CP000948.1 (+)
+Scanning chu
+Scanning yjaA
+  F match! on CP000948.1 
+  R match! on CP000948.1 
+  Match found on CP000948.1 (+)
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: +
+
+--------   ---   --------
+Clermont type is A/C; running the trpAgpC primers
+Clermont type: A
+-------------------------
+('A', 'TspE4: -\narpA: +\nchu: -\nyjaA: +\n')
+Reading in sequence(s) from CP000970.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP000970.1 
+  R match! on CP000970.1 
+  Match found on CP000970.1 (+)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on CP000970.1 
+  Only forward primer hit found
+Scanning chu
+  F match! on CP000970.1 
+  R match! on CP000970.1 
+  Match found on CP000970.1 (-)
+Scanning yjaA
+
+-------- Results --------
+TspE4: -
+arpA: -
+chu: +
+yjaA: -
+
+--------   ---   --------
+Clermont type: F
+-------------------------
+('F', 'TspE4: -\narpA: -\nchu: +\nyjaA: -\n')
+Reading in sequence(s) from CP001164.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP001164.1 
+  R match! on CP001164.1 
+  Match found on CP001164.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on CP001164.1 
+  R match! on CP001164.1 
+  Match found on CP001164.1 (+)
+Scanning chu
+  F match! on CP001164.1 
+  R match! on CP001164.1 
+  Match found on CP001164.1 (-)
+Scanning yjaA
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: +
+yjaA: -
+
+--------   ---   --------
+Clermont type is D/E; running ArpAgpE primers
+  F match! on CP001164.1 
+  R match! on CP001164.1 
+  Match found on CP001164.1 (+)
+Clermont type: E
+-------------------------
+('E', 'TspE4: -\narpA: +\nchu: +\nyjaA: -\n')
+Reading in sequence(s) from CP001368.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP001368.1 
+  R match! on CP001368.1 
+  Match found on CP001368.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on CP001368.1 
+  R match! on CP001368.1 
+  Match found on CP001368.1 (+)
+Scanning chu
+  F match! on CP001368.1 
+  R match! on CP001368.1 
+  Match found on CP001368.1 (-)
+Scanning yjaA
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: +
+yjaA: -
+
+--------   ---   --------
+Clermont type is D/E; running ArpAgpE primers
+  F match! on CP001368.1 
+  R match! on CP001368.1 
+  Match found on CP001368.1 (+)
+Clermont type: E
+-------------------------
+('E', 'TspE4: -\narpA: +\nchu: +\nyjaA: -\n')
+Reading in sequence(s) from CP001396.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP001396.1 
+  R match! on CP001396.1 
+  Match found on CP001396.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on CP001396.1 
+  R match! on CP001396.1 
+  Match found on CP001396.1 (+)
+Scanning chu
+Scanning yjaA
+  F match! on CP001396.1 
+  R match! on CP001396.1 
+  Match found on CP001396.1 (+)
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: +
+
+--------   ---   --------
+Clermont type is A/C; running the trpAgpC primers
+Clermont type: A
+-------------------------
+('A', 'TspE4: -\narpA: +\nchu: -\nyjaA: +\n')
+Reading in sequence(s) from CP001637.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP001637.1 
+  R match! on CP001637.1 
+  Match found on CP001637.1 (+)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on CP001637.1 
+  R match! on CP001637.1 
+  Match found on CP001637.1 (-)
+Scanning chu
+Scanning yjaA
+  F match! on CP001637.1 
+  R match! on CP001637.1 
+  Match found on CP001637.1 (-)
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: +
+
+--------   ---   --------
+Clermont type is A/C; running the trpAgpC primers
+Clermont type: A
+-------------------------
+('A', 'TspE4: -\narpA: +\nchu: -\nyjaA: +\n')
+Reading in sequence(s) from CP001671.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP001671.1 
+  R match! on CP001671.1 
+  Match found on CP001671.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on CP001671.1 
+  R match! on CP001671.1 
+  Match found on CP001671.1 (+)
+Scanning arpA
+  F match! on CP001671.1 
+  Only forward primer hit found
+Scanning chu
+  F match! on CP001671.1 
+  R match! on CP001671.1 
+  Match found on CP001671.1 (-)
+Scanning yjaA
+  F match! on CP001671.1 
+  R match! on CP001671.1 
+  Match found on CP001671.1 (+)
+
+-------- Results --------
+TspE4: +
+arpA: -
+chu: +
+yjaA: +
+
+--------   ---   --------
+Clermont type: B2
+-------------------------
+('B2', 'TspE4: +\narpA: -\nchu: +\nyjaA: +\n')
+Reading in sequence(s) from CP001846.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP001846.1 
+  R match! on CP001846.1 
+  Match found on CP001846.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on CP001846.1 
+  R match! on CP001846.1 
+  Match found on CP001846.1 (+)
+Scanning chu
+  F match! on CP001846.1 
+  R match! on CP001846.1 
+  Match found on CP001846.1 (-)
+Scanning yjaA
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: +
+yjaA: -
+
+--------   ---   --------
+Clermont type is D/E; running ArpAgpE primers
+  F match! on CP001846.1 
+  R match! on CP001846.1 
+  Match found on CP001846.1 (+)
+Clermont type: E
+-------------------------
+('E', 'TspE4: -\narpA: +\nchu: +\nyjaA: -\n')
+Reading in sequence(s) from CP001855.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP001855.1 
+  R match! on CP001855.1 
+  Match found on CP001855.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on CP001855.1 
+  R match! on CP001855.1 
+  Match found on CP001855.1 (+)
+Scanning arpA
+  F match! on CP001855.1 
+  Only forward primer hit found
+Scanning chu
+  F match! on CP001855.1 
+  R match! on CP001855.1 
+  Match found on CP001855.1 (-)
+Scanning yjaA
+  F match! on CP001855.1 
+  R match! on CP001855.1 
+  Match found on CP001855.1 (+)
+
+-------- Results --------
+TspE4: +
+arpA: -
+chu: +
+yjaA: +
+
+--------   ---   --------
+Clermont type: B2
+-------------------------
+('B2', 'TspE4: +\narpA: -\nchu: +\nyjaA: +\n')
+Reading in sequence(s) from CP001925.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP001925.1 
+  R match! on CP001925.1 
+  Match found on CP001925.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on CP001925.1 
+  R match! on CP001925.1 
+  Match found on CP001925.1 (+)
+Scanning chu
+  F match! on CP001925.1 
+  R match! on CP001925.1 
+  Match found on CP001925.1 (-)
+Scanning yjaA
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: +
+yjaA: -
+
+--------   ---   --------
+Clermont type is D/E; running ArpAgpE primers
+  F match! on CP001925.1 
+  R match! on CP001925.1 
+  Match found on CP001925.1 (+)
+Clermont type: E
+-------------------------
+('E', 'TspE4: -\narpA: +\nchu: +\nyjaA: -\n')
+Reading in sequence(s) from CP001969.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP001969.1 
+  R match! on CP001969.1 
+  Match found on CP001969.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on CP001969.1 
+  R match! on CP001969.1 
+  Match found on CP001969.1 (+)
+Scanning arpA
+  F match! on CP001969.1 
+  Only forward primer hit found
+Scanning chu
+  F match! on CP001969.1 
+  R match! on CP001969.1 
+  Match found on CP001969.1 (-)
+Scanning yjaA
+  F match! on CP001969.1 
+  R match! on CP001969.1 
+  Match found on CP001969.1 (+)
+
+-------- Results --------
+TspE4: +
+arpA: -
+chu: +
+yjaA: +
+
+--------   ---   --------
+Clermont type: B2
+-------------------------
+('B2', 'TspE4: +\narpA: -\nchu: +\nyjaA: +\n')
+Reading in sequence(s) from CP002167.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP002167.1 
+  R match! on CP002167.1 
+  Match found on CP002167.1 (+)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on CP002167.1 
+  R match! on CP002167.1 
+  Match found on CP002167.1 (+)
+Scanning arpA
+  F match! on CP002167.1 
+  Only forward primer hit found
+Scanning chu
+  F match! on CP002167.1 
+  R match! on CP002167.1 
+  Match found on CP002167.1 (-)
+Scanning yjaA
+  F match! on CP002167.1 
+  R match! on CP002167.1 
+  Match found on CP002167.1 (+)
+
+-------- Results --------
+TspE4: +
+arpA: -
+chu: +
+yjaA: +
+
+--------   ---   --------
+Clermont type: B2
+-------------------------
+('B2', 'TspE4: +\narpA: -\nchu: +\nyjaA: +\n')
+Reading in sequence(s) from CP002185.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP002185.1 
+  R match! on CP002185.1 
+  Match found on CP002185.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on CP002185.1 
+  R match! on CP002185.1 
+  Match found on CP002185.1 (+)
+Scanning arpA
+  F match! on CP002185.1 
+  R match! on CP002185.1 
+  Match found on CP002185.1 (+)
+Scanning chu
+Scanning yjaA
+
+-------- Results --------
+TspE4: +
+arpA: +
+chu: -
+yjaA: -
+
+--------   ---   --------
+Clermont type: B1
+-------------------------
+('B1', 'TspE4: +\narpA: +\nchu: -\nyjaA: -\n')
+Reading in sequence(s) from CP002211.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP002211.1 
+  R match! on CP002211.1 
+  Match found on CP002211.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on CP002211.1 
+  R match! on CP002211.1 
+  Match found on CP002211.1 (+)
+Scanning arpA
+  F match! on CP002211.1 
+  Only forward primer hit found
+Scanning chu
+  F match! on CP002211.1 
+  R match! on CP002211.1 
+  Match found on CP002211.1 (-)
+Scanning yjaA
+  F match! on CP002211.1 
+  R match! on CP002211.1 
+  Match found on CP002211.1 (+)
+
+-------- Results --------
+TspE4: +
+arpA: -
+chu: +
+yjaA: +
+
+--------   ---   --------
+Clermont type: B2
+-------------------------
+('B2', 'TspE4: +\narpA: -\nchu: +\nyjaA: +\n')
+Reading in sequence(s) from CP002212.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP002212.1 
+  R match! on CP002212.1 
+  Match found on CP002212.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on CP002212.1 
+  R match! on CP002212.1 
+  Match found on CP002212.1 (+)
+Scanning arpA
+  F match! on CP002212.1 
+  Only forward primer hit found
+Scanning chu
+  F match! on CP002212.1 
+  R match! on CP002212.1 
+  Match found on CP002212.1 (-)
+Scanning yjaA
+  F match! on CP002212.1 
+  R match! on CP002212.1 
+  Match found on CP002212.1 (+)
+
+-------- Results --------
+TspE4: +
+arpA: -
+chu: +
+yjaA: +
+
+--------   ---   --------
+Clermont type: B2
+-------------------------
+('B2', 'TspE4: +\narpA: -\nchu: +\nyjaA: +\n')
+Reading in sequence(s) from CP002291.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP002291.1 
+  R match! on CP002291.1 
+  Match found on CP002291.1 (+)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on CP002291.1 
+  R match! on CP002291.1 
+  Match found on CP002291.1 (+)
+Scanning chu
+Scanning yjaA
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: -
+
+--------   ---   --------
+Clermont type: A
+-------------------------
+('A', 'TspE4: -\narpA: +\nchu: -\nyjaA: -\n')
+Reading in sequence(s) from CP002516.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP002516.1 
+  R match! on CP002516.1 
+  Match found on CP002516.1 (+)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on CP002516.1 
+  R match! on CP002516.1 
+  Match found on CP002516.1 (-)
+Scanning arpA
+  F match! on CP002516.1 
+  R match! on CP002516.1 
+  Match found on CP002516.1 (-)
+Scanning chu
+Scanning yjaA
+
+-------- Results --------
+TspE4: +
+arpA: +
+chu: -
+yjaA: -
+
+--------   ---   --------
+Clermont type: B1
+-------------------------
+('B1', 'TspE4: +\narpA: +\nchu: -\nyjaA: -\n')
+Reading in sequence(s) from CP002729.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP002729.1 
+  R match! on CP002729.1 
+  Match found on CP002729.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on CP002729.1 
+  R match! on CP002729.1 
+  Match found on CP002729.1 (+)
+Scanning chu
+Scanning yjaA
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: -
+
+--------   ---   --------
+Clermont type: A
+-------------------------
+('A', 'TspE4: -\narpA: +\nchu: -\nyjaA: -\n')
+Reading in sequence(s) from CP003034.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP003034.1 
+  R match! on CP003034.1 
+  Match found on CP003034.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on CP003034.1 
+  Only forward primer hit found
+Scanning chu
+  F match! on CP003034.1 
+  R match! on CP003034.1 
+  Match found on CP003034.1 (-)
+Scanning yjaA
+
+-------- Results --------
+TspE4: -
+arpA: -
+chu: +
+yjaA: -
+
+--------   ---   --------
+Clermont type: F
+-------------------------
+('F', 'TspE4: -\narpA: -\nchu: +\nyjaA: -\n')
+Reading in sequence(s) from CP003109.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP003109.1 
+  R match! on CP003109.1 
+  Match found on CP003109.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on CP003109.1 
+  R match! on CP003109.1 
+  Match found on CP003109.1 (+)
+Scanning chu
+  F match! on CP003109.1 
+  R match! on CP003109.1 
+  Match found on CP003109.1 (-)
+Scanning yjaA
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: +
+yjaA: -
+
+--------   ---   --------
+Clermont type is D/E; running ArpAgpE primers
+  F match! on CP003109.1 
+  R match! on CP003109.1 
+  Match found on CP003109.1 (+)
+Clermont type: E
+-------------------------
+('E', 'TspE4: -\narpA: +\nchu: +\nyjaA: -\n')
+Reading in sequence(s) from CP003289.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP003289.1 
+  R match! on CP003289.1 
+  Match found on CP003289.1 (+)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on CP003289.1 
+  R match! on CP003289.1 
+  Match found on CP003289.1 (-)
+Scanning arpA
+  F match! on CP003289.1 
+  R match! on CP003289.1 
+  Match found on CP003289.1 (-)
+Scanning chu
+Scanning yjaA
+
+-------- Results --------
+TspE4: +
+arpA: +
+chu: -
+yjaA: -
+
+--------   ---   --------
+Clermont type: B1
+-------------------------
+('B1', 'TspE4: +\narpA: +\nchu: -\nyjaA: -\n')
+Reading in sequence(s) from CP003297.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP003297.1 
+  R match! on CP003297.1 
+  Match found on CP003297.1 (+)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on CP003297.1 
+  R match! on CP003297.1 
+  Match found on CP003297.1 (-)
+Scanning arpA
+  F match! on CP003297.1 
+  R match! on CP003297.1 
+  Match found on CP003297.1 (-)
+Scanning chu
+Scanning yjaA
+
+-------- Results --------
+TspE4: +
+arpA: +
+chu: -
+yjaA: -
+
+--------   ---   --------
+Clermont type: B1
+-------------------------
+('B1', 'TspE4: +\narpA: +\nchu: -\nyjaA: -\n')
+Reading in sequence(s) from CP003301.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP003301.1 
+  R match! on CP003301.1 
+  Match found on CP003301.1 (+)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on CP003301.1 
+  R match! on CP003301.1 
+  Match found on CP003301.1 (-)
+Scanning arpA
+  F match! on CP003301.1 
+  R match! on CP003301.1 
+  Match found on CP003301.1 (-)
+Scanning chu
+Scanning yjaA
+
+-------- Results --------
+TspE4: +
+arpA: +
+chu: -
+yjaA: -
+
+--------   ---   --------
+Clermont type: B1
+-------------------------
+('B1', 'TspE4: +\narpA: +\nchu: -\nyjaA: -\n')
+Reading in sequence(s) from CP004009.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP004009.1 
+  R match! on CP004009.1 
+  Match found on CP004009.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on CP004009.1 
+  R match! on CP004009.1 
+  Match found on CP004009.1 (+)
+Scanning chu
+Scanning yjaA
+  F match! on CP004009.1 
+  R match! on CP004009.1 
+  Match found on CP004009.1 (+)
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: +
+
+--------   ---   --------
+Clermont type is A/C; running the trpAgpC primers
+  F match! on CP004009.1 
+  R match! on CP004009.1 
+  Match found on CP004009.1 (-)
+Clermont type: C
+-------------------------
+('C', 'TspE4: -\narpA: +\nchu: -\nyjaA: +\n')
+Reading in sequence(s) from CP005998.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP005998.1 
+  R match! on CP005998.1 
+  Match found on CP005998.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on CP005998.1 
+  R match! on CP005998.1 
+  Match found on CP005998.1 (-)
+Scanning arpA
+  F match! on CP005998.1 
+  R match! on CP005998.1 
+  Match found on CP005998.1 (-)
+Scanning chu
+Scanning yjaA
+
+-------- Results --------
+TspE4: +
+arpA: +
+chu: -
+yjaA: -
+
+--------   ---   --------
+Clermont type: B1
+-------------------------
+('B1', 'TspE4: +\narpA: +\nchu: -\nyjaA: -\n')
+Reading in sequence(s) from CP006027.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP006027.1 
+  R match! on CP006027.1 
+  Match found on CP006027.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on CP006027.1 
+  R match! on CP006027.1 
+  Match found on CP006027.1 (+)
+Scanning chu
+  F match! on CP006027.1 
+  R match! on CP006027.1 
+  Match found on CP006027.1 (-)
+Scanning yjaA
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: +
+yjaA: -
+
+--------   ---   --------
+Clermont type is D/E; running ArpAgpE primers
+  F match! on CP006027.1 
+  Only forward primer hit found
+Clermont type: D
+-------------------------
+('D', 'TspE4: -\narpA: +\nchu: +\nyjaA: -\n')
+Reading in sequence(s) from CP006262.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP006262.1 
+  R match! on CP006262.1 
+  Match found on CP006262.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on CP006262.1 
+  R match! on CP006262.1 
+  Match found on CP006262.1 (+)
+Scanning chu
+  F match! on CP006262.1 
+  R match! on CP006262.1 
+  Match found on CP006262.1 (-)
+Scanning yjaA
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: +
+yjaA: -
+
+--------   ---   --------
+Clermont type is D/E; running ArpAgpE primers
+  F match! on CP006262.1 
+  Only forward primer hit found
+Clermont type: D
+-------------------------
+('D', 'TspE4: -\narpA: +\nchu: +\nyjaA: -\n')
+Reading in sequence(s) from CP006584.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP006584.1 
+  R match! on CP006584.1 
+  Match found on CP006584.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on CP006584.1 
+  R match! on CP006584.1 
+  Match found on CP006584.1 (+)
+Scanning arpA
+  F match! on CP006584.1 
+  R match! on CP006584.1 
+  Match found on CP006584.1 (+)
+Scanning chu
+Scanning yjaA
+
+-------- Results --------
+TspE4: +
+arpA: +
+chu: -
+yjaA: -
+
+--------   ---   --------
+Clermont type: B1
+-------------------------
+('B1', 'TspE4: +\narpA: +\nchu: -\nyjaA: -\n')
+Reading in sequence(s) from CP006784.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP006784.1 
+  R match! on CP006784.1 
+  Match found on CP006784.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on CP006784.1 
+  R match! on CP006784.1 
+  Match found on CP006784.1 (+)
+Scanning arpA
+  F match! on CP006784.1 
+  Only forward primer hit found
+Scanning chu
+  F match! on CP006784.1 
+  R match! on CP006784.1 
+  Match found on CP006784.1 (-)
+Scanning yjaA
+  F match! on CP006784.1 
+  R match! on CP006784.1 
+  Match found on CP006784.1 (+)
+
+-------- Results --------
+TspE4: +
+arpA: -
+chu: +
+yjaA: +
+
+--------   ---   --------
+Clermont type: B2
+-------------------------
+('B2', 'TspE4: +\narpA: -\nchu: +\nyjaA: +\n')
+Reading in sequence(s) from CP007133.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP007133.1 
+  R match! on CP007133.1 
+  Match found on CP007133.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on CP007133.1 
+  R match! on CP007133.1 
+  Match found on CP007133.1 (+)
+Scanning chu
+  F match! on CP007133.1 
+  R match! on CP007133.1 
+  Match found on CP007133.1 (-)
+Scanning yjaA
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: +
+yjaA: -
+
+--------   ---   --------
+Clermont type is D/E; running ArpAgpE primers
+  F match! on CP007133.1 
+  Only forward primer hit found
+Clermont type: D
+-------------------------
+('D', 'TspE4: -\narpA: +\nchu: +\nyjaA: -\n')
+Reading in sequence(s) from CP007136.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP007136.1 
+  R match! on CP007136.1 
+  Match found on CP007136.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on CP007136.1 
+  R match! on CP007136.1 
+  Match found on CP007136.1 (+)
+Scanning chu
+  F match! on CP007136.1 
+  R match! on CP007136.1 
+  Match found on CP007136.1 (-)
+Scanning yjaA
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: +
+yjaA: -
+
+--------   ---   --------
+Clermont type is D/E; running ArpAgpE primers
+  F match! on CP007136.1 
+  Only forward primer hit found
+Clermont type: D
+-------------------------
+('D', 'TspE4: -\narpA: +\nchu: +\nyjaA: -\n')
+Reading in sequence(s) from CP008801.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP008801.1 
+  R match! on CP008801.1 
+  Match found on CP008801.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on CP008801.1 
+  R match! on CP008801.1 
+  Match found on CP008801.1 (+)
+Scanning chu
+Scanning yjaA
+  F match! on CP008801.1 
+  R match! on CP008801.1 
+  Match found on CP008801.1 (+)
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: +
+
+--------   ---   --------
+Clermont type is A/C; running the trpAgpC primers
+Clermont type: A
+-------------------------
+('A', 'TspE4: -\narpA: +\nchu: -\nyjaA: +\n')
+Reading in sequence(s) from CP008805.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CP008805.1 
+  R match! on CP008805.1 
+  Match found on CP008805.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on CP008805.1 
+  R match! on CP008805.1 
+  Match found on CP008805.1 (+)
+Scanning chu
+  F match! on CP008805.1 
+  R match! on CP008805.1 
+  Match found on CP008805.1 (-)
+Scanning yjaA
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: +
+yjaA: -
+
+--------   ---   --------
+Clermont type is D/E; running ArpAgpE primers
+  F match! on CP008805.1 
+  R match! on CP008805.1 
+  Match found on CP008805.1 (+)
+Clermont type: E
+-------------------------
+('E', 'TspE4: -\narpA: +\nchu: +\nyjaA: -\n')
+Reading in sequence(s) from CU928145.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CU928145.2 
+  R match! on CU928145.2 
+  Match found on CU928145.2 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on CU928145.2 
+  R match! on CU928145.2 
+  Match found on CU928145.2 (+)
+Scanning arpA
+  F match! on CU928145.2 
+  R match! on CU928145.2 
+  Match found on CU928145.2 (+)
+Scanning chu
+Scanning yjaA
+
+-------- Results --------
+TspE4: +
+arpA: +
+chu: -
+yjaA: -
+
+--------   ---   --------
+Clermont type: B1
+-------------------------
+('B1', 'TspE4: +\narpA: +\nchu: -\nyjaA: -\n')
+Reading in sequence(s) from CU928158.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CU928158.2 
+  R match! on CU928158.2 
+  Match found on CU928158.2 (+)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on CU928158.2 
+  Only forward primer hit found
+Scanning chu
+Scanning yjaA
+
+-------- Results --------
+TspE4: -
+arpA: -
+chu: -
+yjaA: -
+
+--------   ---   --------
+Clermont type: U/cryptic
+-------------------------
+('U/cryptic', 'TspE4: -\narpA: -\nchu: -\nyjaA: -\n')
+Reading in sequence(s) from CU928160.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CU928160.2 
+  R match! on CU928160.2 
+  Match found on CU928160.2 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on CU928160.2 
+  R match! on CU928160.2 
+  Match found on CU928160.2 (+)
+Scanning arpA
+  F match! on CU928160.2 
+  R match! on CU928160.2 
+  Match found on CU928160.2 (+)
+Scanning chu
+Scanning yjaA
+
+-------- Results --------
+TspE4: +
+arpA: +
+chu: -
+yjaA: -
+
+--------   ---   --------
+Clermont type: B1
+-------------------------
+('B1', 'TspE4: +\narpA: +\nchu: -\nyjaA: -\n')
+Reading in sequence(s) from CU928161.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CU928161.2 
+  R match! on CU928161.2 
+  Match found on CU928161.2 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on CU928161.2 
+  R match! on CU928161.2 
+  Match found on CU928161.2 (+)
+Scanning arpA
+  F match! on CU928161.2 
+  Only forward primer hit found
+Scanning chu
+  F match! on CU928161.2 
+  R match! on CU928161.2 
+  Match found on CU928161.2 (-)
+Scanning yjaA
+  F match! on CU928161.2 
+  R match! on CU928161.2 
+  Match found on CU928161.2 (+)
+
+-------- Results --------
+TspE4: +
+arpA: -
+chu: +
+yjaA: +
+
+--------   ---   --------
+Clermont type: B2
+-------------------------
+('B2', 'TspE4: +\narpA: -\nchu: +\nyjaA: +\n')
+Reading in sequence(s) from CU928162.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CU928162.2 
+  R match! on CU928162.2 
+  Match found on CU928162.2 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on CU928162.2 
+  R match! on CU928162.2 
+  Match found on CU928162.2 (+)
+Scanning arpA
+  F match! on CU928162.2 
+  Only forward primer hit found
+Scanning chu
+  F match! on CU928162.2 
+  R match! on CU928162.2 
+  Match found on CU928162.2 (-)
+Scanning yjaA
+  F match! on CU928162.2 
+  R match! on CU928162.2 
+  Match found on CU928162.2 (+)
+
+-------- Results --------
+TspE4: +
+arpA: -
+chu: +
+yjaA: +
+
+--------   ---   --------
+Clermont type: B2
+-------------------------
+('B2', 'TspE4: +\narpA: -\nchu: +\nyjaA: +\n')
+Reading in sequence(s) from CU928163.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CU928163.2 
+  R match! on CU928163.2 
+  Match found on CU928163.2 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on CU928163.2 
+  R match! on CU928163.2 
+  Match found on CU928163.2 (+)
+Scanning chu
+  F match! on CU928163.2 
+  R match! on CU928163.2 
+  Match found on CU928163.2 (-)
+Scanning yjaA
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: +
+yjaA: -
+
+--------   ---   --------
+Clermont type is D/E; running ArpAgpE primers
+Clermont type: D
+-------------------------
+('D', 'TspE4: -\narpA: +\nchu: +\nyjaA: -\n')
+Reading in sequence(s) from CU928164.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on CU928164.2 
+  R match! on CU928164.2 
+  Match found on CU928164.2 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on CU928164.2 
+  Only forward primer hit found
+Scanning chu
+  F match! on CU928164.2 
+  R match! on CU928164.2 
+  Match found on CU928164.2 (-)
+Scanning yjaA
+
+-------- Results --------
+TspE4: -
+arpA: -
+chu: +
+yjaA: -
+
+--------   ---   --------
+Clermont type: F
+-------------------------
+('F', 'TspE4: -\narpA: -\nchu: +\nyjaA: -\n')
+Reading in sequence(s) from FM180568.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on FM180568.1 
+  R match! on FM180568.1 
+  Match found on FM180568.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on FM180568.1 
+  R match! on FM180568.1 
+  Match found on FM180568.1 (+)
+Scanning arpA
+  F match! on FM180568.1 
+  Only forward primer hit found
+Scanning chu
+  F match! on FM180568.1 
+  R match! on FM180568.1 
+  Match found on FM180568.1 (-)
+Scanning yjaA
+  F match! on FM180568.1 
+  R match! on FM180568.1 
+  Match found on FM180568.1 (+)
+
+-------- Results --------
+TspE4: +
+arpA: -
+chu: +
+yjaA: +
+
+--------   ---   --------
+Clermont type: B2
+-------------------------
+('B2', 'TspE4: +\narpA: -\nchu: +\nyjaA: +\n')
+Reading in sequence(s) from FN554766.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on FN554766.1 
+  R match! on FN554766.1 
+  Match found on FN554766.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on FN554766.1 
+  R match! on FN554766.1 
+  Match found on FN554766.1 (+)
+Scanning chu
+  F match! on FN554766.1 
+  R match! on FN554766.1 
+  Match found on FN554766.1 (-)
+Scanning yjaA
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: +
+yjaA: -
+
+--------   ---   --------
+Clermont type is D/E; running ArpAgpE primers
+Clermont type: D
+-------------------------
+('D', 'TspE4: -\narpA: +\nchu: +\nyjaA: -\n')
+Reading in sequence(s) from FN649414.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on FN649414.1 
+  R match! on FN649414.1 
+  Match found on FN649414.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on FN649414.1 
+  R match! on FN649414.1 
+  Match found on FN649414.1 (+)
+Scanning chu
+Scanning yjaA
+  F match! on FN649414.1 
+  R match! on FN649414.1 
+  Match found on FN649414.1 (+)
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: +
+
+--------   ---   --------
+Clermont type is A/C; running the trpAgpC primers
+Clermont type: A
+-------------------------
+('A', 'TspE4: -\narpA: +\nchu: -\nyjaA: +\n')
+Reading in sequence(s) from HG428755.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on HG428755.1 
+  R match! on HG428755.1 
+  Match found on HG428755.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on HG428755.1 
+  R match! on HG428755.1 
+  Match found on HG428755.1 (+)
+Scanning arpA
+  F match! on HG428755.1 
+  Only forward primer hit found
+Scanning chu
+  F match! on HG428755.1 
+  R match! on HG428755.1 
+  Match found on HG428755.1 (-)
+Scanning yjaA
+  F match! on HG428755.1 
+  R match! on HG428755.1 
+  Match found on HG428755.1 (+)
+
+-------- Results --------
+TspE4: +
+arpA: -
+chu: +
+yjaA: +
+
+--------   ---   --------
+Clermont type: B2
+-------------------------
+('B2', 'TspE4: +\narpA: -\nchu: +\nyjaA: +\n')
+Reading in sequence(s) from HG738867.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on HG738867.1 
+  R match! on HG738867.1 
+  Match found on HG738867.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on HG738867.1 
+  R match! on HG738867.1 
+  Match found on HG738867.1 (+)
+Scanning chu
+Scanning yjaA
+  F match! on HG738867.1 
+  R match! on HG738867.1 
+  Match found on HG738867.1 (+)
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: +
+
+--------   ---   --------
+Clermont type is A/C; running the trpAgpC primers
+Clermont type: A
+-------------------------
+('A', 'TspE4: -\narpA: +\nchu: -\nyjaA: +\n')
+Reading in sequence(s) from HG941718.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on HG941718.1 
+  R match! on HG941718.1 
+  Match found on HG941718.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on HG941718.1 
+  R match! on HG941718.1 
+  Match found on HG941718.1 (+)
+Scanning arpA
+  F match! on HG941718.1 
+  Only forward primer hit found
+Scanning chu
+  F match! on HG941718.1 
+  R match! on HG941718.1 
+  Match found on HG941718.1 (-)
+Scanning yjaA
+  F match! on HG941718.1 
+  R match! on HG941718.1 
+  Match found on HG941718.1 (+)
+
+-------- Results --------
+TspE4: +
+arpA: -
+chu: +
+yjaA: +
+
+--------   ---   --------
+Clermont type: B2
+-------------------------
+('B2', 'TspE4: +\narpA: -\nchu: +\nyjaA: +\n')
+Reading in sequence(s) from MS10614.fa
+Ignoring 97 contigs less than the set minimum contig length (500)
+Running Control PCR
+  F match! on MS10614 
+  R match! on MS10614 
+  Match found on MS10614 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on MS10614 
+  R match! on MS10614 
+  Match found on MS10614 (-)
+Scanning chu
+Scanning yjaA
+  F match! on MS10614 
+  R match! on MS10614 
+  Match found on MS10614 (-)
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: +
+
+--------   ---   --------
+Clermont type is A/C; running the trpAgpC primers
+  F match! on MS10614 
+  R match! on MS10614 
+  Match found on MS10614 (-)
+Clermont type: C
+-------------------------
+('C', 'TspE4: -\narpA: +\nchu: -\nyjaA: +\n')
+Reading in sequence(s) from MS10614.merged.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on MS10614 
+  R match! on MS10614 
+  Match found on MS10614 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on MS10614 
+  R match! on MS10614 
+  Match found on MS10614 (-)
+Scanning chu
+Scanning yjaA
+  F match! on MS10614 
+  R match! on MS10614 
+  Match found on MS10614 (-)
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: +
+
+--------   ---   --------
+Clermont type is A/C; running the trpAgpC primers
+  F match! on MS10614 
+  R match! on MS10614 
+  Match found on MS10614 (-)
+Clermont type: C
+-------------------------
+('C', 'TspE4: -\narpA: +\nchu: -\nyjaA: +\n')
+Reading in sequence(s) from MS10615.fa
+Ignoring 103 contigs less than the set minimum contig length (500)
+Running Control PCR
+  F match! on MS10615 
+  R match! on MS10615 
+  Match found on MS10615 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on MS10615 
+  R match! on MS10615 
+  Match found on MS10615 (-)
+Scanning chu
+Scanning yjaA
+  F match! on MS10615 
+  R match! on MS10615 
+  Match found on MS10615 (-)
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: +
+
+--------   ---   --------
+Clermont type is A/C; running the trpAgpC primers
+  F match! on MS10615 
+  R match! on MS10615 
+  Match found on MS10615 (-)
+Clermont type: C
+-------------------------
+('C', 'TspE4: -\narpA: +\nchu: -\nyjaA: +\n')
+Reading in sequence(s) from MS10616.fa
+Ignoring 114 contigs less than the set minimum contig length (500)
+Running Control PCR
+  F match! on MS10616 
+  R match! on MS10616 
+  Match found on MS10616 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on MS10616 
+  R match! on MS10616 
+  Match found on MS10616 (+)
+Scanning chu
+Scanning yjaA
+  F match! on MS10616 
+  R match! on MS10616 
+  Match found on MS10616 (+)
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: +
+
+--------   ---   --------
+Clermont type is A/C; running the trpAgpC primers
+Clermont type: A
+-------------------------
+('A', 'TspE4: -\narpA: +\nchu: -\nyjaA: +\n')
+Reading in sequence(s) from MS10617.fa
+Ignoring 103 contigs less than the set minimum contig length (500)
+Running Control PCR
+  F match! on MS10617 
+  R match! on MS10617 
+  Match found on MS10617 (+)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on MS10617 
+  R match! on MS10617 
+  Match found on MS10617 (-)
+Scanning chu
+Scanning yjaA
+  F match! on MS10617 
+  R match! on MS10617 
+  Match found on MS10617 (-)
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: +
+
+--------   ---   --------
+Clermont type is A/C; running the trpAgpC primers
+  F match! on MS10617 
+  R match! on MS10617 
+  Match found on MS10617 (+)
+Clermont type: C
+-------------------------
+('C', 'TspE4: -\narpA: +\nchu: -\nyjaA: +\n')
+Reading in sequence(s) from MS10618.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on MS10618 
+  R match! on MS10618 
+  Match found on MS10618 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on MS10618 
+  R match! on MS10618 
+  Match found on MS10618 (+)
+Scanning arpA
+  F match! on MS10618 
+  R match! on MS10618 
+  Match found on MS10618 (+)
+Scanning chu
+  F match! on MS10618 
+  R match! on MS10618 
+  Match found on MS10618 (-)
+Scanning yjaA
+
+-------- Results --------
+TspE4: +
+arpA: +
+chu: +
+yjaA: -
+
+--------   ---   --------
+Clermont type is D/E; running ArpAgpE primers
+Clermont type: D
+-------------------------
+('D', 'TspE4: +\narpA: +\nchu: +\nyjaA: -\n')
+Reading in sequence(s) from MS10619.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on MS10619 
+  R match! on MS10619 
+  Match found on MS10619 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on MS10619 
+  R match! on MS10619 
+  Match found on MS10619 (+)
+Scanning arpA
+  F match! on MS10619 
+  R match! on MS10619 
+  Match found on MS10619 (+)
+Scanning chu
+  F match! on MS10619 
+  R match! on MS10619 
+  Match found on MS10619 (-)
+Scanning yjaA
+
+-------- Results --------
+TspE4: +
+arpA: +
+chu: +
+yjaA: -
+
+--------   ---   --------
+Clermont type is D/E; running ArpAgpE primers
+Clermont type: D
+-------------------------
+('D', 'TspE4: +\narpA: +\nchu: +\nyjaA: -\n')
+Reading in sequence(s) from MS10620.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on MS10620 
+  R match! on MS10620 
+  Match found on MS10620 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on MS10620 
+  R match! on MS10620 
+  Match found on MS10620 (+)
+Scanning arpA
+  F match! on MS10620 
+  R match! on MS10620 
+  Match found on MS10620 (+)
+Scanning chu
+  F match! on MS10620 
+  R match! on MS10620 
+  Match found on MS10620 (-)
+Scanning yjaA
+
+-------- Results --------
+TspE4: +
+arpA: +
+chu: +
+yjaA: -
+
+--------   ---   --------
+Clermont type is D/E; running ArpAgpE primers
+Clermont type: D
+-------------------------
+('D', 'TspE4: +\narpA: +\nchu: +\nyjaA: -\n')
+Reading in sequence(s) from MS10621.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on MS10621 
+  R match! on MS10621 
+  Match found on MS10621 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on MS10621 
+  R match! on MS10621 
+  Match found on MS10621 (+)
+Scanning arpA
+  F match! on MS10621 
+  R match! on MS10621 
+  Match found on MS10621 (+)
+Scanning chu
+  F match! on MS10621 
+  R match! on MS10621 
+  Match found on MS10621 (-)
+Scanning yjaA
+
+-------- Results --------
+TspE4: +
+arpA: +
+chu: +
+yjaA: -
+
+--------   ---   --------
+Clermont type is D/E; running ArpAgpE primers
+Clermont type: D
+-------------------------
+('D', 'TspE4: +\narpA: +\nchu: +\nyjaA: -\n')
+Reading in sequence(s) from MS10622.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on MS10622 
+  R match! on MS10622 
+  Match found on MS10622 (+)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on MS10622 
+  R match! on MS10622 
+  Match found on MS10622 (+)
+Scanning chu
+Scanning yjaA
+  F match! on MS10622 
+  R match! on MS10622 
+  Match found on MS10622 (+)
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: +
+
+--------   ---   --------
+Clermont type is A/C; running the trpAgpC primers
+Clermont type: A
+-------------------------
+('A', 'TspE4: -\narpA: +\nchu: -\nyjaA: +\n')
+Reading in sequence(s) from MS10623.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on MS10623 
+  R match! on MS10623 
+  Match found on MS10623 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on MS10623 
+  R match! on MS10623 
+  Match found on MS10623 (+)
+Scanning arpA
+  F match! on MS10623 
+  R match! on MS10623 
+  Match found on MS10623 (+)
+Scanning chu
+  F match! on MS10623 
+  R match! on MS10623 
+  Match found on MS10623 (-)
+Scanning yjaA
+
+-------- Results --------
+TspE4: +
+arpA: +
+chu: +
+yjaA: -
+
+--------   ---   --------
+Clermont type is D/E; running ArpAgpE primers
+Clermont type: D
+-------------------------
+('D', 'TspE4: +\narpA: +\nchu: +\nyjaA: -\n')
+Reading in sequence(s) from MS10624.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on MS10624 
+  R match! on MS10624 
+  Match found on MS10624 (+)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on MS10624 
+  R match! on MS10624 
+  Match found on MS10624 (+)
+Scanning arpA
+  F match! on MS10624 
+  R match! on MS10624 
+  Match found on MS10624 (+)
+Scanning chu
+Scanning yjaA
+
+-------- Results --------
+TspE4: +
+arpA: +
+chu: -
+yjaA: -
+
+--------   ---   --------
+Clermont type: B1
+-------------------------
+('B1', 'TspE4: +\narpA: +\nchu: -\nyjaA: -\n')
+Reading in sequence(s) from MS10625.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on MS10625 
+  R match! on MS10625 
+  Match found on MS10625 (+)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on MS10625 
+  R match! on MS10625 
+  Match found on MS10625 (-)
+Scanning chu
+Scanning yjaA
+  F match! on MS10625 
+  R match! on MS10625 
+  Match found on MS10625 (-)
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: +
+
+--------   ---   --------
+Clermont type is A/C; running the trpAgpC primers
+  F match! on MS10625 
+  R match! on MS10625 
+  Match found on MS10625 (+)
+Clermont type: C
+-------------------------
+('C', 'TspE4: -\narpA: +\nchu: -\nyjaA: +\n')
+Reading in sequence(s) from MS10626.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on MS10626 
+  R match! on MS10626 
+  Match found on MS10626 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on MS10626 
+  R match! on MS10626 
+  Match found on MS10626 (+)
+Scanning arpA
+  F match! on MS10626 
+  R match! on MS10626 
+  Match found on MS10626 (+)
+Scanning chu
+  F match! on MS10626 
+  R match! on MS10626 
+  Match found on MS10626 (-)
+Scanning yjaA
+
+-------- Results --------
+TspE4: +
+arpA: +
+chu: +
+yjaA: -
+
+--------   ---   --------
+Clermont type is D/E; running ArpAgpE primers
+Clermont type: D
+-------------------------
+('D', 'TspE4: +\narpA: +\nchu: +\nyjaA: -\n')
+Reading in sequence(s) from MS10627.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on MS10627 
+  R match! on MS10627 
+  Match found on MS10627 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on MS10627 
+  R match! on MS10627 
+  Match found on MS10627 (+)
+Scanning arpA
+  F match! on MS10627 
+  R match! on MS10627 
+  Match found on MS10627 (-)
+Scanning chu
+  F match! on MS10627 
+  R match! on MS10627 
+  Match found on MS10627 (-)
+Scanning yjaA
+
+-------- Results --------
+TspE4: +
+arpA: +
+chu: +
+yjaA: -
+
+--------   ---   --------
+Clermont type is D/E; running ArpAgpE primers
+Clermont type: D
+-------------------------
+('D', 'TspE4: +\narpA: +\nchu: +\nyjaA: -\n')
+Reading in sequence(s) from MS10628.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on MS10628 
+  R match! on MS10628 
+  Match found on MS10628 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on MS10628 
+  R match! on MS10628 
+  Match found on MS10628 (-)
+Scanning chu
+  F match! on MS10628 
+  R match! on MS10628 
+  Match found on MS10628 (-)
+Scanning yjaA
+  F match! on MS10628 
+  R match! on MS10628 
+  Match found on MS10628 (-)
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: +
+yjaA: +
+
+--------   ---   --------
+Clermont type is E/cryptic; running ArpAgpE primers
+  F match! on MS10628 
+  R match! on MS10628 
+  Match found on MS10628 (-)
+Clermont type: E
+-------------------------
+('E', 'TspE4: -\narpA: +\nchu: +\nyjaA: +\n')
+Reading in sequence(s) from MS10629.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on MS10629 
+  R match! on MS10629 
+  Match found on MS10629 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on MS10629 
+  R match! on MS10629 
+  Match found on MS10629 (+)
+Scanning chu
+Scanning yjaA
+  F match! on MS10629 
+  R match! on MS10629 
+  Match found on MS10629 (+)
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: +
+
+--------   ---   --------
+Clermont type is A/C; running the trpAgpC primers
+  F match! on MS10629 
+  R match! on MS10629 
+  Match found on MS10629 (-)
+Clermont type: C
+-------------------------
+('C', 'TspE4: -\narpA: +\nchu: -\nyjaA: +\n')
+Reading in sequence(s) from MS10630.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on MS10630 
+  R match! on MS10630 
+  Match found on MS10630 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on MS10630 
+  R match! on MS10630 
+  Match found on MS10630 (+)
+Scanning chu
+Scanning yjaA
+  F match! on MS10630 
+  R match! on MS10630 
+  Match found on MS10630 (+)
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: +
+
+--------   ---   --------
+Clermont type is A/C; running the trpAgpC primers
+  F match! on MS10630 
+  R match! on MS10630 
+  Match found on MS10630 (-)
+Clermont type: C
+-------------------------
+('C', 'TspE4: -\narpA: +\nchu: -\nyjaA: +\n')
+Reading in sequence(s) from MS10631.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on MS10631 
+  R match! on MS10631 
+  Match found on MS10631 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on MS10631 
+  R match! on MS10631 
+  Match found on MS10631 (+)
+Scanning chu
+Scanning yjaA
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: -
+
+--------   ---   --------
+Clermont type: A
+-------------------------
+('A', 'TspE4: -\narpA: +\nchu: -\nyjaA: -\n')
+Reading in sequence(s) from MS10632.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on MS10632 
+  R match! on MS10632 
+  Match found on MS10632 (+)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on MS10632 
+  R match! on MS10632 
+  Match found on MS10632 (-)
+Scanning chu
+Scanning yjaA
+  F match! on MS10632 
+  R match! on MS10632 
+  Match found on MS10632 (-)
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: +
+
+--------   ---   --------
+Clermont type is A/C; running the trpAgpC primers
+Clermont type: A
+-------------------------
+('A', 'TspE4: -\narpA: +\nchu: -\nyjaA: +\n')
+Reading in sequence(s) from MS10633.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on MS10633 
+  R match! on MS10633 
+  Match found on MS10633 (+)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on MS10633 
+  R match! on MS10633 
+  Match found on MS10633 (-)
+Scanning chu
+Scanning yjaA
+  F match! on MS10633 
+  R match! on MS10633 
+  Match found on MS10633 (-)
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: +
+
+--------   ---   --------
+Clermont type is A/C; running the trpAgpC primers
+Clermont type: A
+-------------------------
+('A', 'TspE4: -\narpA: +\nchu: -\nyjaA: +\n')
+Reading in sequence(s) from MS10634.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on MS10634 
+  R match! on MS10634 
+  Match found on MS10634 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on MS10634 
+  R match! on MS10634 
+  Match found on MS10634 (-)
+Scanning chu
+Scanning yjaA
+  F match! on MS10634 
+  R match! on MS10634 
+  Match found on MS10634 (-)
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: +
+
+--------   ---   --------
+Clermont type is A/C; running the trpAgpC primers
+Clermont type: A
+-------------------------
+('A', 'TspE4: -\narpA: +\nchu: -\nyjaA: +\n')
+Reading in sequence(s) from MS10635.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on MS10635 
+  R match! on MS10635 
+  Match found on MS10635 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on MS10635 
+  R match! on MS10635 
+  Match found on MS10635 (-)
+Scanning chu
+Scanning yjaA
+  F match! on MS10635 
+  R match! on MS10635 
+  Match found on MS10635 (-)
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: +
+
+--------   ---   --------
+Clermont type is A/C; running the trpAgpC primers
+Clermont type: A
+-------------------------
+('A', 'TspE4: -\narpA: +\nchu: -\nyjaA: +\n')
+Reading in sequence(s) from MS10636.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on MS10636 
+  R match! on MS10636 
+  Match found on MS10636 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on MS10636 
+  R match! on MS10636 
+  Match found on MS10636 (+)
+Scanning arpA
+  F match! on MS10636 
+  R match! on MS10636 
+  Match found on MS10636 (+)
+Scanning chu
+  F match! on MS10636 
+  R match! on MS10636 
+  Match found on MS10636 (-)
+Scanning yjaA
+
+-------- Results --------
+TspE4: +
+arpA: +
+chu: +
+yjaA: -
+
+--------   ---   --------
+Clermont type is D/E; running ArpAgpE primers
+Clermont type: D
+-------------------------
+('D', 'TspE4: +\narpA: +\nchu: +\nyjaA: -\n')
+Reading in sequence(s) from MS10637.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on MS10637 
+  R match! on MS10637 
+  Match found on MS10637 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on MS10637 
+  R match! on MS10637 
+  Match found on MS10637 (-)
+Scanning chu
+Scanning yjaA
+  F match! on MS10637 
+  R match! on MS10637 
+  Match found on MS10637 (-)
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: +
+
+--------   ---   --------
+Clermont type is A/C; running the trpAgpC primers
+Clermont type: A
+-------------------------
+('A', 'TspE4: -\narpA: +\nchu: -\nyjaA: +\n')
+Reading in sequence(s) from MS10638.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on MS10638 
+  R match! on MS10638 
+  Match found on MS10638 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on MS10638 
+  R match! on MS10638 
+  Match found on MS10638 (+)
+Scanning arpA
+  F match! on MS10638 
+  R match! on MS10638 
+  Match found on MS10638 (+)
+Scanning chu
+  F match! on MS10638 
+  R match! on MS10638 
+  Match found on MS10638 (-)
+Scanning yjaA
+
+-------- Results --------
+TspE4: +
+arpA: +
+chu: +
+yjaA: -
+
+--------   ---   --------
+Clermont type is D/E; running ArpAgpE primers
+Clermont type: D
+-------------------------
+('D', 'TspE4: +\narpA: +\nchu: +\nyjaA: -\n')
+Reading in sequence(s) from MS10639.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on MS10639 
+  R match! on MS10639 
+  Match found on MS10639 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on MS10639 
+  R match! on MS10639 
+  Match found on MS10639 (+)
+Scanning chu
+Scanning yjaA
+  F match! on MS10639 
+  R match! on MS10639 
+  Match found on MS10639 (+)
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: +
+
+--------   ---   --------
+Clermont type is A/C; running the trpAgpC primers
+Clermont type: A
+-------------------------
+('A', 'TspE4: -\narpA: +\nchu: -\nyjaA: +\n')
+Reading in sequence(s) from MS10640.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on MS10640 
+  R match! on MS10640 
+  Match found on MS10640 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on MS10640 
+  R match! on MS10640 
+  Match found on MS10640 (+)
+Scanning arpA
+  F match! on MS10640 
+  R match! on MS10640 
+  Match found on MS10640 (+)
+Scanning chu
+  F match! on MS10640 
+  R match! on MS10640 
+  Match found on MS10640 (-)
+Scanning yjaA
+
+-------- Results --------
+TspE4: +
+arpA: +
+chu: +
+yjaA: -
+
+--------   ---   --------
+Clermont type is D/E; running ArpAgpE primers
+Clermont type: D
+-------------------------
+('D', 'TspE4: +\narpA: +\nchu: +\nyjaA: -\n')
+Reading in sequence(s) from MS10641.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on MS10641 
+  R match! on MS10641 
+  Match found on MS10641 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on MS10641 
+  R match! on MS10641 
+  Match found on MS10641 (+)
+Scanning chu
+Scanning yjaA
+  F match! on MS10641 
+  R match! on MS10641 
+  Match found on MS10641 (+)
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: +
+
+--------   ---   --------
+Clermont type is A/C; running the trpAgpC primers
+Clermont type: A
+-------------------------
+('A', 'TspE4: -\narpA: +\nchu: -\nyjaA: +\n')
+Reading in sequence(s) from MS10642.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on MS10642 
+  R match! on MS10642 
+  Match found on MS10642 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on MS10642 
+  R match! on MS10642 
+  Match found on MS10642 (+)
+Scanning chu
+Scanning yjaA
+  F match! on MS10642 
+  R match! on MS10642 
+  Match found on MS10642 (+)
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: +
+
+--------   ---   --------
+Clermont type is A/C; running the trpAgpC primers
+Clermont type: A
+-------------------------
+('A', 'TspE4: -\narpA: +\nchu: -\nyjaA: +\n')
+Reading in sequence(s) from MS10643.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on MS10643 
+  R match! on MS10643 
+  Match found on MS10643 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on MS10643 
+  R match! on MS10643 
+  Match found on MS10643 (+)
+Scanning chu
+Scanning yjaA
+  F match! on MS10643 
+  R match! on MS10643 
+  Match found on MS10643 (+)
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: +
+
+--------   ---   --------
+Clermont type is A/C; running the trpAgpC primers
+Clermont type: A
+-------------------------
+('A', 'TspE4: -\narpA: +\nchu: -\nyjaA: +\n')
+Reading in sequence(s) from MS10644.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on MS10644 
+  R match! on MS10644 
+  Match found on MS10644 (+)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on MS10644 
+  R match! on MS10644 
+  Match found on MS10644 (-)
+Scanning arpA
+  F match! on MS10644 
+  R match! on MS10644 
+  Match found on MS10644 (+)
+Scanning chu
+Scanning yjaA
+
+-------- Results --------
+TspE4: +
+arpA: +
+chu: -
+yjaA: -
+
+--------   ---   --------
+Clermont type: B1
+-------------------------
+('B1', 'TspE4: +\narpA: +\nchu: -\nyjaA: -\n')
+Reading in sequence(s) from MS10645.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on MS10645 
+  R match! on MS10645 
+  Match found on MS10645 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on MS10645 
+  R match! on MS10645 
+  Match found on MS10645 (+)
+Scanning arpA
+  F match! on MS10645 
+  R match! on MS10645 
+  Match found on MS10645 (+)
+Scanning chu
+  F match! on MS10645 
+  R match! on MS10645 
+  Match found on MS10645 (-)
+Scanning yjaA
+
+-------- Results --------
+TspE4: +
+arpA: +
+chu: +
+yjaA: -
+
+--------   ---   --------
+Clermont type is D/E; running ArpAgpE primers
+  F match! on MS10645 
+  R match! on MS10645 
+  Match found on MS10645 (+)
+Clermont type: E
+-------------------------
+('E', 'TspE4: +\narpA: +\nchu: +\nyjaA: -\n')
+Reading in sequence(s) from MS10646.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on MS10646 
+  R match! on MS10646 
+  Match found on MS10646 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  R match! on MS10646 
+  Only reverse primer hit found
+Scanning arpA
+  R match! on MS10646 
+  Only reverse primer hit found
+Scanning chu
+  F match! on MS10646 
+  R match! on MS10646 
+  Match found on MS10646 (+)
+Scanning yjaA
+
+-------- Results --------
+TspE4: -
+arpA: -
+chu: +
+yjaA: -
+
+--------   ---   --------
+Clermont type: F
+-------------------------
+('F', 'TspE4: -\narpA: -\nchu: +\nyjaA: -\n')
+Reading in sequence(s) from MS10647.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on MS10647 
+  R match! on MS10647 
+  Match found on MS10647 (+)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  R match! on MS10647 
+  Only reverse primer hit found
+Scanning arpA
+  R match! on MS10647 
+  Only reverse primer hit found
+Scanning chu
+  F match! on MS10647 
+  R match! on MS10647 
+  Match found on MS10647 (+)
+Scanning yjaA
+
+-------- Results --------
+TspE4: -
+arpA: -
+chu: +
+yjaA: -
+
+--------   ---   --------
+Clermont type: F
+-------------------------
+('F', 'TspE4: -\narpA: -\nchu: +\nyjaA: -\n')
+Reading in sequence(s) from MS10648.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on MS10648 
+  R match! on MS10648 
+  Match found on MS10648 (+)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on MS10648 
+  R match! on MS10648 
+  Match found on MS10648 (+)
+Scanning arpA
+  F match! on MS10648 
+  R match! on MS10648 
+  Match found on MS10648 (+)
+Scanning chu
+Scanning yjaA
+
+-------- Results --------
+TspE4: +
+arpA: +
+chu: -
+yjaA: -
+
+--------   ---   --------
+Clermont type: B1
+-------------------------
+('B1', 'TspE4: +\narpA: +\nchu: -\nyjaA: -\n')
+Reading in sequence(s) from MS10649.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on MS10649 
+  R match! on MS10649 
+  Match found on MS10649 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on MS10649 
+  R match! on MS10649 
+  Match found on MS10649 (-)
+Scanning chu
+Scanning yjaA
+  F match! on MS10649 
+  R match! on MS10649 
+  Match found on MS10649 (-)
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: +
+
+--------   ---   --------
+Clermont type is A/C; running the trpAgpC primers
+  F match! on MS10649 
+  R match! on MS10649 
+  Match found on MS10649 (-)
+Clermont type: C
+-------------------------
+('C', 'TspE4: -\narpA: +\nchu: -\nyjaA: +\n')
+Reading in sequence(s) from MS10650.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on MS10650 
+  R match! on MS10650 
+  Match found on MS10650 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on MS10650 
+  R match! on MS10650 
+  Match found on MS10650 (+)
+Scanning chu
+Scanning yjaA
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: -
+
+--------   ---   --------
+Clermont type: A
+-------------------------
+('A', 'TspE4: -\narpA: +\nchu: -\nyjaA: -\n')
+Reading in sequence(s) from MS10651.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on MS10651 
+  R match! on MS10651 
+  Match found on MS10651 (+)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on MS10651 
+  R match! on MS10651 
+  Match found on MS10651 (+)
+Scanning chu
+Scanning yjaA
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: -
+
+--------   ---   --------
+Clermont type: A
+-------------------------
+('A', 'TspE4: -\narpA: +\nchu: -\nyjaA: -\n')
+Reading in sequence(s) from MS10652.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on MS10652 
+  R match! on MS10652 
+  Match found on MS10652 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on MS10652 
+  R match! on MS10652 
+  Match found on MS10652 (-)
+Scanning chu
+Scanning yjaA
+  F match! on MS10652 
+  R match! on MS10652 
+  Match found on MS10652 (-)
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: +
+
+--------   ---   --------
+Clermont type is A/C; running the trpAgpC primers
+Clermont type: A
+-------------------------
+('A', 'TspE4: -\narpA: +\nchu: -\nyjaA: +\n')
+Reading in sequence(s) from MS10653.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on MS10653 
+  R match! on MS10653 
+  Match found on MS10653 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on MS10653 
+  R match! on MS10653 
+  Match found on MS10653 (+)
+Scanning chu
+Scanning yjaA
+  F match! on MS10653 
+  R match! on MS10653 
+  Match found on MS10653 (+)
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: +
+
+--------   ---   --------
+Clermont type is A/C; running the trpAgpC primers
+Clermont type: A
+-------------------------
+('A', 'TspE4: -\narpA: +\nchu: -\nyjaA: +\n')
+Reading in sequence(s) from NC011993.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on NC_011993.1 
+  R match! on NC_011993.1 
+  Match found on NC_011993.1 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on NC_011993.1 
+  R match! on NC_011993.1 
+  Match found on NC_011993.1 (+)
+Scanning arpA
+  F match! on NC_011993.1 
+  Only forward primer hit found
+Scanning chu
+  F match! on NC_011993.1 
+  R match! on NC_011993.1 
+  Match found on NC_011993.1 (-)
+Scanning yjaA
+  F match! on NC_011993.1 
+  R match! on NC_011993.1 
+  Match found on NC_011993.1 (+)
+
+-------- Results --------
+TspE4: +
+arpA: -
+chu: +
+yjaA: +
+
+--------   ---   --------
+Clermont type: B2
+-------------------------
+('B2', 'TspE4: +\narpA: -\nchu: +\nyjaA: +\n')
+Reading in sequence(s) from NS64-27.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on seq_name 
+  R match! on seq_name 
+  Match found on seq_name (+)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on seq_name 
+  R match! on seq_name 
+  Match found on seq_name (+)
+Scanning arpA
+  F match! on seq_name 
+  R match! on seq_name 
+  Match found on seq_name (+)
+Scanning chu
+  F match! on seq_name 
+  R match! on seq_name 
+  Match found on seq_name (-)
+Scanning yjaA
+
+-------- Results --------
+TspE4: +
+arpA: +
+chu: +
+yjaA: -
+
+--------   ---   --------
+Clermont type is D/E; running ArpAgpE primers
+Clermont type: D
+-------------------------
+('D', 'TspE4: +\narpA: +\nchu: +\nyjaA: -\n')
+Reading in sequence(s) from NS64-28.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on seq_name 
+  R match! on seq_name 
+  Match found on seq_name (+)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on seq_name 
+  R match! on seq_name 
+  Match found on seq_name (+)
+Scanning chu
+Scanning yjaA
+  F match! on seq_name 
+  R match! on seq_name 
+  Match found on seq_name (+)
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: +
+
+--------   ---   --------
+Clermont type is A/C; running the trpAgpC primers
+  F match! on seq_name 
+  R match! on seq_name 
+  Match found on seq_name (+)
+Clermont type: C
+-------------------------
+('C', 'TspE4: -\narpA: +\nchu: -\nyjaA: +\n')
+Reading in sequence(s) from NS64-29.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on seq_name 
+  R match! on seq_name 
+  Match found on seq_name (+)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on seq_name 
+  R match! on seq_name 
+  Match found on seq_name (+)
+Scanning arpA
+  F match! on seq_name 
+  R match! on seq_name 
+  Match found on seq_name (+)
+Scanning chu
+  F match! on seq_name 
+  R match! on seq_name 
+  Match found on seq_name (-)
+Scanning yjaA
+
+-------- Results --------
+TspE4: +
+arpA: +
+chu: +
+yjaA: -
+
+--------   ---   --------
+Clermont type is D/E; running ArpAgpE primers
+Clermont type: D
+-------------------------
+('D', 'TspE4: +\narpA: +\nchu: +\nyjaA: -\n')
+Reading in sequence(s) from NS64-39.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on seq_name 
+  R match! on seq_name 
+  Match found on seq_name (+)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+  F match! on seq_name 
+  R match! on seq_name 
+  Match found on seq_name (+)
+Scanning arpA
+  F match! on seq_name 
+  R match! on seq_name 
+  Match found on seq_name (+)
+Scanning chu
+  F match! on seq_name 
+  R match! on seq_name 
+  Match found on seq_name (-)
+Scanning yjaA
+
+-------- Results --------
+TspE4: +
+arpA: +
+chu: +
+yjaA: -
+
+--------   ---   --------
+Clermont type is D/E; running ArpAgpE primers
+Clermont type: D
+-------------------------
+('D', 'TspE4: +\narpA: +\nchu: +\nyjaA: -\n')
+Reading in sequence(s) from U00096.fa
+rejecting potetial partial matches
+Running Control PCR
+  F match! on U00096.3 
+  R match! on U00096.3 
+  Match found on U00096.3 (-)
+trpBA_control: +
+Running Quadriplex PCR
+Scanning TspE4
+Scanning arpA
+  F match! on U00096.3 
+  R match! on U00096.3 
+  Match found on U00096.3 (+)
+Scanning chu
+Scanning yjaA
+  F match! on U00096.3 
+  R match! on U00096.3 
+  Match found on U00096.3 (+)
+
+-------- Results --------
+TspE4: -
+arpA: +
+chu: -
+yjaA: +
+
+--------   ---   --------
+Clermont type is A/C; running the trpAgpC primers
+Clermont type: A
+-------------------------
+('A', 'TspE4: -\narpA: +\nchu: -\nyjaA: +\n')
