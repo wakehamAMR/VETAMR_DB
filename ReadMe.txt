@@ -16,7 +16,7 @@ formatted_wzi_wzc_db.fasta was the database used to discern capsule serology by 
 
 The folder resfinder contains the databases used to sequence type ARG genes using the CGE gui
 
-The folder plasmidfinder contains the databases used to sequence type the plasmids using the CGE gui.
+The folder plasmidfinder contains the databases used to sequence type the plasmids using the CGE gui and the published reference plasmids controls used to compare with
 
 
 
