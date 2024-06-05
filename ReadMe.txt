@@ -1,4 +1,4 @@
-Project_DB contains database files used for identifying virulence factor, antimicrobial resistance and serology genes in VET_AMR isolate collection
+VETAMR_DB contains all the database files used for identifying virulence factor, antimicrobial resistance and serology genes in VET_AMR isolate collection
 
 SRST2_VFDB.fasta is the original database from Mark Shembri's lab file Brian used for the sequence typing of VF genes
 
