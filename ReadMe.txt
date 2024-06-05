@@ -2,6 +2,8 @@ Project_DB contains database files used for identifying virulence factor, antimi
 
 SRST2_VFDB.fasta is the original database from Mark Shembri's lab file Brian used for the sequence typing of VF genes
 
+SRST2_removal lists stepwise removal of virulence genes from analysis based and reason why it was deleted at the time e.g. hypothetical protein 
+
 VF_PCR.fasta is the database I created to discern pathotypes in silico (originally mplx PCR)
 
 The folder virulencefinder contains the database used to sequence type VF genes using the gui CGE
